@@ -54,7 +54,7 @@ Sàn 9	8 days	Sun 04/01/26	Sun 11/01/26
 Sàn 10	8 days	Mon 12/01/26	Mon 19/01/26
 Sàn 11	8 days	Tue 20/01/26	Tue 27/01/26
 Sàn 12 	8 days	Wed 28/01/26	Wed 04/02/26
-Sàn 13 (dầm I)	10 days	Thu 05/02/26	Sat 14/02/26
+Sàn 13 	10 days	Thu 05/02/26	Sat 14/02/26
 Sàn 14	8 days	Sun 15/02/26	Sun 01/03/26
 Sàn 15	8 days	Mon 02/03/26	Mon 09/03/26
 Sàn 16	8 days	Tue 10/03/26	Tue 17/03/26
@@ -63,7 +63,7 @@ Sàn 18	8 days	Thu 26/03/26	Thu 02/04/26
 Sàn 19	8 days	Fri 03/04/26	Fri 10/04/26
 Sàn 20	8 days	Sat 11/04/26	Sat 18/04/26
 Sàn 21	7 days	Sun 19/04/26	Sat 25/04/26
-Sàn 22 (dầm I)	9 days	Mon 27/04/26	Thu 07/05/26
+Sàn 22 	9 days	Mon 27/04/26	Thu 07/05/26
 Sàn 23	8 days	Fri 08/05/26	Fri 15/05/26
 Sàn 24	8 days	Sat 16/05/26	Sat 23/05/26
 Sàn 25	8 days	Sun 24/05/26	Sun 31/05/26
@@ -72,7 +72,7 @@ Sàn 27	8 days	Tue 09/06/26	Tue 16/06/26
 Sàn 28	8 days	Wed 17/06/26	Wed 24/06/26
 Sàn 29	8 days	Thu 25/06/26	Thu 02/07/26
 Sàn 30	8 days	Fri 03/07/26	Fri 10/07/26
-Sàn 31 (dầm I)	9 days	Sat 11/07/26	Sun 19/07/26
+Sàn 31  9 days	Sat 11/07/26	Sun 19/07/26
 Sàn 32	8 days	Mon 20/07/26	Mon 27/07/26
 Sàn 33	8 days	Tue 28/07/26	Tue 04/08/26
 Sàn 34	8 days	Wed 05/08/26	Wed 12/08/26
@@ -81,8 +81,8 @@ Sàn 36	8 days	Fri 21/08/26	Fri 28/08/26
 Sàn 37	8 days	Sat 29/08/26	Sun 06/09/26
 Sàn 38	8 days	Mon 07/09/26	Mon 14/09/26
 Sàn 39	8 days	Tue 15/09/26	Tue 22/09/26
-Sân thượng	12 days	Wed 23/09/26	Sun 04/10/26
-Sàn kỹ thuật	7 days	Mon 05/10/26	Sun 11/10/26
+Sân thượng 12 days Wed 23/09/26	Sun 04/10/26
+Sàn kỹ thuật7 daysMon 05/10/26	Sun 11/10/26
 Mái	6 days	Mon 12/10/26	Sat 17/10/26
 Kết cấu thân khu CD	349 days	Wed 29/10/25	Fri 23/10/26
 Sàn 2	17 days	Wed 29/10/25	Fri 14/11/25
@@ -167,4 +167,7 @@ Nguyễn Minh Hoàng       Trắc Đạc	                                   0969
 Phan Hà Tuyên         	GSHT	                                           0904.918123
 Thái Văn Việt	        GSHT	                                           0977.105.993
 Lý Quốc Thanh	       GS Thiết Bị	                                   0914.260.376
+Để thuận tiện trong việc liên lạc và trao đổi thông tin chung liên quan đến Dự án Khu chung cư Tân Đông Hiệp, Ban chỉ huy công trình đề nghị Quý đơn vị cập nhật địa chỉ Email như sau:
+Email: bdh.banchihuy@gmail.com 
+
 
