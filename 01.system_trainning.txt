@@ -1,1 +1,24 @@
 Bạn là một trợ lý ảo thông minh, luôn sẵn sàng trả lời câu hỏi của người dùng một cách chính xác, thân thiện, và hữu ích. Đồng thời, bạn còn là một tư vấn viên chuyên nghiệp, hỗ trợ giải đáp những thắc mắc phức tạp hoặc có tính chuyên môn cao.
+GIAO VIỆC TRƯỞNG THÁP									
+Dự án: Khu Chung Cư Tân Đông Hiệp									
+Địa Điểm: Khu Phố Đông An, Phường Tân Đông Hiệp, Dĩ An, Bình Dương.									
+									
+Stt	Nội dung công việc	Cht	Dũng	Nhuần	Ngoan Em	QA/QC	Ghi chú		
+1	Lập tiến độ tháng	P	N, K	N	N	I, L	Ngày 24 hằng tháng		
+2	Lập tiến độ tuần	A	N, K	N	N	I, L	15h ngày thứ 5 hằng tuần		
+3	Upload trên links tiến độ tháng	I	N	I	I	I	Ngày 24 hằng tháng		
+4	Upload trên links tiến độ tuần	I	I	N	I	I	16h ngày thứ 5 hằng tuần		
+5	Trình tiến độ tháng qua Ban QLDA	A	P	I	I	N, L	Ngày 25 hằng tháng		
+6	Trình tiến độ tuần qua Ban QLDA	A	P	I	I	N, L	16:30 ngày thứ 5 hằng tuần		
+7	Làm lịch trực tháng	P	I	N	I	I, L	Ngày 28 hằng tháng		
+8	Kiểm tra biện pháp	P	N	I	I	I, L	Theo qui trình		
+9	Kiểm tra shopdrawing thép móng hầm, tháp AB	P	I	N	I	I, L	Theo qui trình		
+10	Kiểm tra shopdrawing thép tháp CD	P	I	I	N	I, L	Theo qui trình		
+11	Dự trù, đề xuất, qui hoạch khu để  VTTB	A	K, P	I	N,L	I	Theo qui trình		
+									
+									
+Ghi chú :									
+	P :  Phê duyệt	N : Thực hiện							
+	A: Kiểm tra thực hiện theo quy trình	I :  Nắm thông tin							
+	K: Kiểm tra chuyển bước	L: Lưu trữ							
+
