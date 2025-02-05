@@ -1,4 +1,148 @@
 Bạn là một trợ lý ảo thông minh, luôn sẵn sàng trả lời câu hỏi của người dùng một cách chính xác, thân thiện, và hữu ích. Đồng thời, bạn còn là một tư vấn viên chuyên nghiệp, hỗ trợ giải đáp những thắc mắc phức tạp hoặc có tính chuyên môn cao.
 
+CÁC MỐC CHÍNH	992 days	Tue 26/11/24	Thu 30/09/27
+Thi công cọc thử	57 days	Tue 26/11/24	Wed 22/01/25
+Thi công cọc đại trà 	140 days	Wed 22/01/25	Mon 30/06/25
+Kết cấu móng hầm	237 days	Sun 02/03/25	Tue 28/10/25
+Kết cấu thân	400 days	Mon 08/09/25	Fri 23/10/26
+Hoàn thiện căn hộ	386 days	Tue 26/05/26	Wed 30/06/27
+Bàn giao	92 days	Thu 01/07/27	Thu 30/09/27
+TIẾN ĐỘ	942 days	Tue 15/10/24	Wed 30/06/27
+BẢN VẼ	88 days	Tue 15/10/24	Sat 11/01/25
+QLDA Phát hành bản vẽ thi công Kết cấu, Kiến trúc, MEP toàn dự án	88 days	Tue 15/10/24	Sat 11/01/25
+Thi công cọc thử D500	27 days	Tue 26/11/24	Sun 22/12/24
+Tập kết thiết bị	10 days	Tue 26/11/24	Thu 05/12/24
+Ép thử 2 tim cọc D500	1 day	Fri 06/12/24	Fri 06/12/24
+Ép thăm dò 11 tim cọc D500	5 days	Sat 07/12/24	Wed 11/12/24
+Thí nghiệm nén tĩnh cọc 	16 days	Sat 07/12/24	Sun 22/12/24
+Thi công cọc nhồi thử D1500, D1200	57 days	Tue 26/11/24	Wed 22/01/25
+Tập kết thiết bị, công tác chuẩn bị	10 days	Tue 26/11/24	Thu 05/12/24
+Định vị tim mốc	2 days	Fri 06/12/24	Sat 07/12/24
+Thi công cọc thử NT1, NT2	5 days	Sun 08/12/24	Thu 12/12/24
+Thí nghiệm nén tĩnh cọc 	20 days	Fri 03/01/25	Wed 22/01/25
+Thi công cọc đại trà	159 days	Fri 03/01/25	Mon 30/06/25
+Thi công cọc ép ( 200 cọc )	65 days	Fri 03/01/25	Tue 25/03/25
+Thi công cọc nhồi ( 208 cọc )	136 days	Wed 12/02/25	Mon 30/06/25
+Thi công móng hầm khu AB	226 days	Sun 02/03/25	Fri 17/10/25
+Thi công cừ larsen zone 1	40 days	Sun 02/03/25	Fri 11/04/25
+Đào đất đến đáy sàn, đáy móng	70 days	Wed 12/03/25	Fri 23/05/25
+Thi công móng	101 days	Thu 27/03/25	Tue 08/07/25
+Lấp đất móng	89 days	Sat 12/04/25	Fri 11/07/25
+Thi công sàn B2	24 days	Fri 27/06/25	Sun 20/07/25
+Thi công cấu kiện đứng B2 lên B1	20 days	Mon 21/07/25	Sat 09/08/25
+Thi công sàn B1	25 days	Sun 10/08/25	Thu 04/09/25
+Thi công cấu kiện đứng B1 lên T1	23 days	Fri 05/09/25	Sat 27/09/25
+Thi công sàn T1	20 days	Sun 28/09/25	Fri 17/10/25
+Thi công móng hầm khu CD	167 days	Wed 14/05/25	Tue 28/10/25
+Đào đất đến đáy sàn, đáy móng	70 days	Wed 14/05/25	Tue 22/07/25
+Thi công móng	101 days	Thu 29/05/25	Sun 07/09/25
+Lấp đất móng	89 days	Fri 13/06/25	Wed 10/09/25
+Thi công sàn B2	10 days	Tue 26/08/25	Fri 05/09/25
+Thi công cấu kiện đứng B2 lên B1	10 days	Sat 06/09/25	Mon 15/09/25
+Thi công sàn B1	15 days	Tue 16/09/25	Tue 30/09/25
+Thi công cấu kiện đứng B1 lên T1	14 days	Wed 01/10/25	Tue 14/10/25
+Thi công sàn T1	14 days	Wed 15/10/25	Tue 28/10/25
+Kết cấu thân khu AB	354 days	Sat 18/10/25	Sat 17/10/26
+Sàn 2	17 days	Sat 18/10/25	Mon 03/11/25
+Sàn 3 	17 days	Tue 04/11/25	Thu 20/11/25
+Sàn 4 ( dầm I)	12 days	Fri 21/11/25	Tue 02/12/25
+Sàn 5	8 days	Wed 03/12/25	Wed 10/12/25
+Sàn 6	8 days	Thu 11/12/25	Thu 18/12/25
+Sàn 7	8 days	Fri 19/12/25	Fri 26/12/25
+Sàn 8	8 days	Sat 27/12/25	Sat 03/01/26
+Sàn 9	8 days	Sun 04/01/26	Sun 11/01/26
+Sàn 10	8 days	Mon 12/01/26	Mon 19/01/26
+Sàn 11	8 days	Tue 20/01/26	Tue 27/01/26
+Sàn 12 	8 days	Wed 28/01/26	Wed 04/02/26
+Sàn 13 (dầm I)	10 days	Thu 05/02/26	Sat 14/02/26
+Sàn 14	8 days	Sun 15/02/26	Sun 01/03/26
+Sàn 15	8 days	Mon 02/03/26	Mon 09/03/26
+Sàn 16	8 days	Tue 10/03/26	Tue 17/03/26
+Sàn 17	8 days	Wed 18/03/26	Wed 25/03/26
+Sàn 18	8 days	Thu 26/03/26	Thu 02/04/26
+Sàn 19	8 days	Fri 03/04/26	Fri 10/04/26
+Sàn 20	8 days	Sat 11/04/26	Sat 18/04/26
+Sàn 21	7 days	Sun 19/04/26	Sat 25/04/26
+Sàn 22 (dầm I)	9 days	Mon 27/04/26	Thu 07/05/26
+Sàn 23	8 days	Fri 08/05/26	Fri 15/05/26
+Sàn 24	8 days	Sat 16/05/26	Sat 23/05/26
+Sàn 25	8 days	Sun 24/05/26	Sun 31/05/26
+Sàn 26	8 days	Mon 01/06/26	Mon 08/06/26
+Sàn 27	8 days	Tue 09/06/26	Tue 16/06/26
+Sàn 28	8 days	Wed 17/06/26	Wed 24/06/26
+Sàn 29	8 days	Thu 25/06/26	Thu 02/07/26
+Sàn 30	8 days	Fri 03/07/26	Fri 10/07/26
+Sàn 31 (dầm I)	9 days	Sat 11/07/26	Sun 19/07/26
+Sàn 32	8 days	Mon 20/07/26	Mon 27/07/26
+Sàn 33	8 days	Tue 28/07/26	Tue 04/08/26
+Sàn 34	8 days	Wed 05/08/26	Wed 12/08/26
+Sàn 35	8 days	Thu 13/08/26	Thu 20/08/26
+Sàn 36	8 days	Fri 21/08/26	Fri 28/08/26
+Sàn 37	8 days	Sat 29/08/26	Sun 06/09/26
+Sàn 38	8 days	Mon 07/09/26	Mon 14/09/26
+Sàn 39	8 days	Tue 15/09/26	Tue 22/09/26
+Sân thượng	12 days	Wed 23/09/26	Sun 04/10/26
+Sàn kỹ thuật	7 days	Mon 05/10/26	Sun 11/10/26
+Mái	6 days	Mon 12/10/26	Sat 17/10/26
+Kết cấu thân khu CD	349 days	Wed 29/10/25	Fri 23/10/26
+Sàn 2	17 days	Wed 29/10/25	Fri 14/11/25
+Sàn 3 	17 days	Sat 15/11/25	Mon 01/12/25
+Sàn 4 ( dầm I)	11 days	Tue 02/12/25	Fri 12/12/25
+Sàn 5	8 days	Sat 13/12/25	Sat 20/12/25
+Sàn 6	8 days	Sun 21/12/25	Sun 28/12/25
+Sàn 7	8 days	Mon 29/12/25	Mon 05/01/26
+Sàn 8	8 days	Tue 06/01/26	Tue 13/01/26
+Sàn 9	8 days	Wed 14/01/26	Wed 21/01/26
+Sàn 10	8 days	Thu 22/01/26	Thu 29/01/26
+Sàn 11	8 days	Fri 30/01/26	Fri 06/02/26
+Sàn 12 	8 days	Sat 07/02/26	Sat 14/02/26
+Sàn 13 (dầm I)	9 days	Sun 15/02/26	Mon 02/03/26
+Sàn 14	8 days	Tue 03/03/26	Tue 10/03/26
+Sàn 15	8 days	Wed 11/03/26	Wed 18/03/26
+Sàn 16	8 days	Thu 19/03/26	Thu 26/03/26
+Sàn 17	8 days	Fri 27/03/26	Fri 03/04/26
+Sàn 18	8 days	Sat 04/04/26	Sat 11/04/26
+Sàn 19	8 days	Sun 12/04/26	Sun 19/04/26
+Sàn 20	8 days	Mon 20/04/26	Tue 28/04/26
+Sàn 21	7 days	Wed 29/04/26	Thu 07/05/26
+Sàn 22 (dầm I)	9 days	Fri 08/05/26	Sat 16/05/26
+Sàn 23	8 days	Sun 17/05/26	Sun 24/05/26
+Sàn 24	8 days	Mon 25/05/26	Mon 01/06/26
+Sàn 25	8 days	Tue 02/06/26	Tue 09/06/26
+Sàn 26	8 days	Wed 10/06/26	Wed 17/06/26
+Sàn 27	8 days	Thu 18/06/26	Thu 25/06/26
+Sàn 28	8 days	Fri 26/06/26	Fri 03/07/26
+Sàn 29	8 days	Sat 04/07/26	Sat 11/07/26
+Sàn 30	8 days	Sun 12/07/26	Sun 19/07/26
+Sàn 31 (dầm I)	9 days	Mon 20/07/26	Tue 28/07/26
+Sàn 32	8 days	Wed 29/07/26	Wed 05/08/26
+Sàn 33	8 days	Thu 06/08/26	Thu 13/08/26
+Sàn 34	8 days	Fri 14/08/26	Fri 21/08/26
+Sàn 35	8 days	Sat 22/08/26	Sat 29/08/26
+Sàn 36	8 days	Sun 30/08/26	Mon 07/09/26
+Sàn 37	8 days	Tue 08/09/26	Tue 15/09/26
+Sàn 38	8 days	Wed 16/09/26	Wed 23/09/26
+Sàn 39	8 days	Thu 24/09/26	Thu 01/10/26
+Sân thượng	10 days	Fri 02/10/26	Sun 11/10/26
+Sàn kỹ thuật	6 days	Mon 12/10/26	Sat 17/10/26
+Mái	6 days	Sun 18/10/26	Fri 23/10/26
+Thi công hoàn thiện	586 days	Tue 28/10/25	Wed 30/06/27
+Thi công MEP khu AB	520 days	Tue 28/10/25	Sun 25/04/27
+Bàn giao hố thang máy khu AB	2 days	Wed 11/11/26	Thu 12/11/26
+Lắp thang máy khu AB	85 days	Fri 13/11/26	Thu 18/02/27
+Hoàn thiện căn hộ khu AB	460 days	Sun 15/02/26	Mon 14/06/27
+Hoàn thiện mặt ngoài khu AB	70 days	Thu 17/12/26	Tue 09/03/27
+Deffect, bàn giao khu AB	46 days	Sun 16/05/27	Wed 30/06/27
+Thi công MEP khu CD	520 days	Sat 08/11/25	Thu 06/05/27
+Bàn giao hố thang máy khu CD	2 days	Tue 17/11/26	Wed 18/11/26
+Lắp thang máy khu CD	85 days	Thu 19/11/26	Wed 24/02/27
+Hoàn thiện căn hộ khu CD	450 days	Tue 03/03/26	Sun 13/06/27
+Hoàn thiện mặt ngoài khu CD	70 days	Thu 17/12/26	Tue 09/03/27
+Deffect, bàn giao khu CD	50 days	Wed 05/05/27	Wed 23/06/27
+Hoàn thiện hầm ABCD	150 days	Sun 13/12/26	Tue 25/05/27
+Hạ tầng, Landcape	165 days	Sun 03/01/27	Tue 29/06/27
+Bàn giao	92 days	Thu 01/07/27	Thu 30/09/27
+Bàn giao tháp AB	80 days	Thu 01/07/27	Sat 18/09/27
+Bàn giao tháp CD	87 days	Tue 06/07/27	Thu 30/09/27
 
 
