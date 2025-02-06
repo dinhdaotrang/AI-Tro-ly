@@ -1145,8 +1145,7 @@ Stt	Nội dung	Tham chiếu Điều khoản chung	Kết quả đàm phán
 •	Cung cấp vật tư phụ, nhân công và máy thi công, thi công ép cọc thử, cọc đại trà theo bản vẽ Bên A ban hành.
 •	Bên B phải đảm bảo thi công đạt chất lượng theo cam kết, phù hợp theo Tiêu chuẩn Việt Nam và yêu cầu kỹ thuật theo bản vẽ được Bên A ban hành và được BCH.CT Bên A chấp thuận.
 (Chi tiết công việc theo Phụ lục hợp đồng số 01).
-3	Giá trị hợp đồng và loại hợp đồng	Điều 4		Giá trị hợp đồng: Giá trị hợp đồng chưa bao gồm thuế VAT là: 1.486.000.000 VND.
-(Bằng chữ: Một tỷ, bốn trăm tám mươi sáu triệu đồng chẵn./.).
+
 PHỤ LỤC HỢP ĐỒNG SỐ 01						
 ĐÍNH KÈM HỢP ĐỒNG THI CÔNG XÂY DỰNG SỐ 206/2024/HĐTCXD-BDH/BCONS-Viễn Đông					
 DỰ ÁN: KHU CHUNG CƯ TÂN ĐÔNG HIỆP						
@@ -1217,12 +1216,9 @@ IV	CÔNG TÁC CHUẨN BỊ PRELIMS / CÔNG TÁC ĐẢM BẢO CHẤT LƯỢNG				
 13	Cắt đầu cọc 	 cọc 	 -   	 -   	 Không bao gồm 	
 14	Chi phí bảo hiểm, sửa chữa nhà, công trình lân cận	 trọn gói 	 -   	 -   	 Không bao gồm nếu nguyên nhân gây ra không phải lỗi do Nhà thầu 	
 TỔNG CỘNG GIÁ TRỊ TRƯỚC THUẾ VAT					 1.486.000.000 	
-Bằng chữ: Một tỷ, bốn trăm tám mươi sáu triệu đồng chẵn./.						
-
-
-
-
-
+Bằng chữ: Một tỷ, bốn trăm tám mươi sáu triệu đồng chẵn./.	
+3	Giá trị hợp đồng và loại hợp đồng	Điều 4		Giá trị hợp đồng: Giá trị hợp đồng chưa bao gồm thuế VAT là: 1.486.000.000 VND.
+(Bằng chữ: Một tỷ, bốn trăm tám mươi sáu triệu đồng chẵn./.).				
 	Loại hợp đồng:
 •	Loại hợp đồng trọn gói theo Hồ sơ thiết kế (bản vẽ, chỉ dẫn kỹ thuật) được Bên A ban hành hoặc chấp thuận.
 •	Giá trị được điều chỉnh khi: Khi Chủ đầu tư thay đổi bản vẽ và giá trị phát sinh được phê duyệt từ Ban Giám đốc Bên A. Giá trị khối lượng điều chỉnh chỉ tính theo đơn giá trong hợp đồng (không tính thêm các chi phí khác), chỉ được thực hiện khi có thông báo bằng văn bản của Bên A và tiến hành ký phụ lục hợp đồng để làm cơ sở để thanh toán.
@@ -1318,7 +1314,7 @@ Nếu Bên B không thực hiện một trong số các hạng mục trong bản
 2	Giám đốc Khối Thi công	Hồ Kỳ Lân	lanhk@bcons.com.vn
 0903 648 790
 		Phụ trách quản lý Khối thi công.
-3	CHT.CT	Nguyễn Tiến Đạt	datntien@bcons.com.vn 
+3	CHT.CT Đào Tăng Định 
 0919 381 385  
 		Phụ trách quản lý, triển khai thi công ở công trình.
 	Trách nhiệm và quyền hạn của Bên B:
@@ -1365,6 +1361,8 @@ Nếu Bên B không thực hiện một trong số các hạng mục trong bản
 	Mọi thay đổi, bổ sung nội dung hợp đồng này phải được lập thành phụ lục hợp đồng được đại diện có thẩm quyền của hai Bên ký xác nhận trước khi thực hiện.
 	Hợp đồng có hiệu lực kể từ ngày ký và sau khi hai Bên hoàn thành trách nhiệm, nghĩa vụ trong hợp đồng, thì hợp đồng tự động thanh lý.
 	Hợp đồng được lập thành 04 (bốn) bản Tiếng Việt có giá trị pháp lý ngang nhau, Bên A giữ 02 (hai) bản, Bên B giữ 02 (hai) bản./.
+
+
 
 HỢP ĐỒNG THI CÔNG XÂY DỰNG
 Số: 207/2024/HĐTCXD-BDH/BCONS-OVAN
