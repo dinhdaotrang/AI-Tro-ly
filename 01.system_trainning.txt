@@ -1147,6 +1147,77 @@ Stt	Nội dung	Tham chiếu Điều khoản chung	Kết quả đàm phán
 (Chi tiết công việc theo Phụ lục hợp đồng số 01).
 3	Giá trị hợp đồng và loại hợp đồng	Điều 4		Giá trị hợp đồng: Giá trị hợp đồng chưa bao gồm thuế VAT là: 1.486.000.000 VND.
 (Bằng chữ: Một tỷ, bốn trăm tám mươi sáu triệu đồng chẵn./.).
+PHỤ LỤC HỢP ĐỒNG SỐ 01						
+ĐÍNH KÈM HỢP ĐỒNG THI CÔNG XÂY DỰNG SỐ 206/2024/HĐTCXD-BDH/BCONS-Viễn Đông					
+DỰ ÁN: KHU CHUNG CƯ TÂN ĐÔNG HIỆP						
+HẠNG MỤC: CUNG CẤP VẬT TƯ PHỤ, NHÂN CÔNG VÀ MÁY THI CÔNG, THI CÔNG ÉP CỌC BÊ TÔNG LY TÂM PHC						
+STT	 HẠNG MỤC / NỘI DUNG CÔNG VIỆC 	 ĐVT 	 KHỐI LƯỢNG 	ĐƠN GIÁ	 THÀNH TIỀN 	 GHI CHÚ 
+A	 GIAI ĐOẠN 1 				 952.115.125 	
+I	CỌC THỬ TĨNH D500 				 58.189.642 	
+I.1	CỌC ÉP D500 THỬ TĨNH 				 9.698.274 	
+1	Khoan dẫn cọc đường kính khoan D500	 md 	 -   	 -   	 Không bao gồm 	
+1	Ép cọc BTCT D500 	 cọc 	 2,000 	 4.849.137 	 9.698.274 	
+2	Cung cấp cọc BTCT D500	 md 	 -   	 -   	 Không bao gồm 	
+2	Vận chuyển đất, bùn ra khỏi công trình 	 100m3 	 -   	 -   	 Không bao gồm 	
+I.2	THÍ NGHIỆM CỌC ÉP D500 THỬ TĨNH				 48.491.368 	
+3	Thí nghiệm thử tĩnh cọc 	 cọc 	 2,000 	 24.245.684 	 48.491.368 	
+II	CỌC THỬ D500 KHÔNG THỬ TĨNH				 53.340.507 	
+4	Khoan dẫn cọc đường kính khoan D500	 md 	 -   	 -   	 Không bao gồm 	
+5	Ép cọc BTCT D500 	 Cọc 	 11,000 	 4.849.137 	 53.340.507 	
+6	Cung cấp cọc BTCT D500	 md 	 -   	 -   	 Không bao gồm 	
+7	Vận chuyển đất , bùn ra khỏi công trình 	 100m3 	 -   	 -   	 Không bao gồm 	
+III	CỌC ĐẠI TRÀ D500				 457.503.755 	
+8	Khoan dẫn cọc đường kính khoan D500	 md 	 -   	 -   	 Không bao gồm 	
+9	Ép cọc BTCT D500	 md 	 3.420,000 	 92.134 	 315.098.280 	
+10	Ép âm cọc BTCT D500	 md 	 974,700 	 92.134 	 89.803.010 	
+11	Cung cấp cọc BTCT D500	 md 	 -   	 -   	 Không bao gồm 	
+12	Cẩu hạ cọc	 md 	 3.714,000 	 9.698 	 36.018.372 	
+13	Vận chuyển đất, bùn ra khỏi công trình 	 100m3 	 -   	 -   	 Không bao gồm 	
+14	Lấp đầu cọc 	 Cọc 	 171,000 	 96.983 	 16.584.093 	
+IV	CÔNG TÁC CHUẨN BỊ PRELIMS / CÔNG TÁC ĐẢM BẢO CHẤT LƯỢNG				 383.081.221 	
+15	Công tác thực hiện mặt bằng phục vụ thi công (Tole lót đường thi công, xử lý mặt bằng ra vô công trình, Container VP, kho chứa)	 trọn gói 	 1,000 	 29.094.242 	 29.094.242 	
+16	Chi phí tiện ích prelims (Chi phí điện nước vệ sinh phục vụ thi công, điện nước sinh hoạt chung, thu gom rác thải, vệ sinh chung công trường, Chi phí làm hồ sơ, chi phí máy phát điện phục vụ thi công v.v…)	 trọn gói 	 1,000 	 48.491.367 	 48.491.367 	
+17	Chi phí huy động thiết bị phục vụ thi công					
+	Chi phí huy động thiết bị ép cọc	 trọn gói 	 1,000 	 232.758.562 	 232.758.562 	
+	Chi phí huy động thiết bị khoan dẫn	 trọn gói 	 -   	 -   	 Không bao gồm 	
+18	Chi phí xử lý vật cản ngầm trong giới hạn từ mặt đất tự nhiên dến cao độ sâu 3m	 trọn gói 	 1,000 	 29.094.820 	 29.094.820 	 Bao gồm phần chi phí xử lý hồ sơ ép cọc thử tỉnh 
+19	Trắc đạc	 trọn gói 	 1,000 	 43.642.230 	 43.642.230 	
+20	Cắt đầu cọc 	 cọc 	 -   	 -   	 Không bao gồm 	
+21	Chi phí bảo hiểm, sửa chữa nhà, công trình lân cận	 trọn gói 	 -   	 -   	 Không bao gồm nếu nguyên nhân gây ra không phải lỗi do Nhà thầu 	
+B	 GIAI ĐOẠN 2 				 533.884.875 	
+I	CỌC THỬ TĨNH D500 				 -   	
+I.1	CỌC ÉP D500 THỬ TĨNH 				 -   	
+1	Khoan dẫn cọc đường kính khoan D500	 md 	 -   	 -   	 -   	
+2	Ép cọc BTCT D500 	 cọc 	 -   	 -   	 -   	
+3	Cung cấp cọc BTCT D500	 md 	 -   	 -   	 -   	
+4	Vận chuyển đất, bùn ra khỏi công trình 	 100m3 	 -   	 -   	 -   	
+I.2	THÍ NGHIỆM CỌC ÉP D500 THỬ TĨNH				 -   	
+5	Thí nghiệm thử tĩnh cọc 	 cọc 	 -   	 -   	 -   	
+II	CỌC THỬ D500 KHÔNG THỬ TĨNH				 -   	
+22	Khoan dẫn cọc đường kính khoan D500	 md 	 -   	 -   	 -   	
+23	Ép cọc BTCT D500 	 Cọc 	 -   	 -   	 -   	
+24	Cung cấp cọc BTCT D500	 md 	 -   	 -   	 -   	
+25	Vận chuyển đất , bùn ra khỏi công trình 	 100m3 	 -   	 -   	 -   	
+III	CỌC ĐẠI TRÀ D500				 116.859.119 	
+1	Khoan dẫn cọc đường kính khoan D500	 md 	 -   	 -   	 Không bao gồm 	
+2	Ép cọc BTCT D500	 md 	 580,000 	 145.474 	 84.374.920 	
+3	Ép âm cọc BTCT D500	 md 	 165,300 	 145.474 	 24.046.852 	
+4	Cung cấp cọc BTCT D500	 md 	 -   	 -   	 Không bao gồm 	
+5	Cẩu hạ cọc	 md 	 580,000 	 9.698 	 5.624.840 	
+6	Vận chuyển đất, bùn ra khỏi công trình 	 100m3 	 -   	 -   	 Không bao gồm 	
+7	Lấp đầu cọc 	 Cọc 	 29,000 	 96.983 	 2.812.507 	
+IV	CÔNG TÁC CHUẨN BỊ PRELIMS / CÔNG TÁC ĐẢM BẢO CHẤT LƯỢNG				 417.025.756 	
+8	Công tác thực hiện mặt bằng phục vụ thi công (Tole lót đường thi công, xử lý mặt bằng ra vô công trình, Container VP, kho chứa)	 trọn gói 	 1,000 	 29.094.820 	 29.094.820 	
+9	Chi phí tiện ích prelims (Chi phí điện nước vệ sinh phục vụ thi công, điện nước sinh hoạt chung, thu gom rác thải, vệ sinh chung công trường, Chi phí làm hồ sơ, chi phí máy phát điện phục vụ thi công v.v…)	 trọn gói 	 1,000 	 96.982.734 	 96.982.734 	
+10	Chi phí huy động thiết bị phục vụ thi công					
+	Chi phí huy động thiết bị ép cọc	 trọn gói 	 1,000 	 232.758.562 	 232.758.562 	
+	Chi phí huy động thiết bị khoan dẫn	 trọn gói 	 -   	 -   	 Không bao gồm 	
+11	Chi phí xử lý vật cản ngầm trong giới hạn từ mặt đất tự nhiên dến cao độ sâu 3m	 trọn gói 	 1,000 	 29.094.820 	 29.094.820 	 Bao gồm phần chi phí xử lý hồ sơ ép cọc thử tỉnh 
+12	Trắc đạc	 trọn gói 	 1,000 	 29.094.820 	 29.094.820 	
+13	Cắt đầu cọc 	 cọc 	 -   	 -   	 Không bao gồm 	
+14	Chi phí bảo hiểm, sửa chữa nhà, công trình lân cận	 trọn gói 	 -   	 -   	 Không bao gồm nếu nguyên nhân gây ra không phải lỗi do Nhà thầu 	
+TỔNG CỘNG GIÁ TRỊ TRƯỚC THUẾ VAT					 1.486.000.000 	
+Bằng chữ: Một tỷ, bốn trăm tám mươi sáu triệu đồng chẵn./.						
 
 
 
