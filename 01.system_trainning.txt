@@ -1370,6 +1370,178 @@ Stt	Nội dung	Tham chiếu Điều khoản chung	Kết quả đàm phán
 (Chi tiết công việc theo Phụ lục hợp đồng số 01).
 3	Giá trị hợp đồng và loại hợp đồng	Điều 4		Giá trị hợp đồng: Giá trị hợp đồng chưa bao gồm thuế VAT là: 42.000.000.000 VND.
 (Bằng chữ: Bốn mươi hai tỷ đồng chẵn./.).
+
+PHỤ LỤC HỢP ĐỒNG SỐ 01						
+ĐÍNH KÈM HỢP ĐỒNG THI CÔNG XÂY DỰNG SỐ 207/2024/HĐTCXD-BDH/BCONS-OVAN						
+DỰ ÁN: KHU CHUNG CƯ TÂN ĐÔNG HIỆP						
+HẠNG MỤC: CUNG CẤP VẬT TƯ, NHÂN CÔNG VÀ MÁY THI CÔNG, THI CÔNG CỌC KHOAN NHỒI						
+STT	 HẠNG MỤC / NỘI DUNG CÔNG VIỆC 	                        ĐVT  KHỐI LƯỢNG   ĐƠN GIÁ  THÀNH TIỀN     GHI CHÚ 
+A	 GIAI ĐOẠN 1 				                                       40.036.554.185 	
+I	CỌC KHOAN NHỒI D1200 THỬ TĨNH				                       1.051.780.599 	
+I.1	THI CÔNG CỌC KHOAN NHỒI D1200 THỬ TĨNH			                 	 348.314.031 	
+1	Lắp đặt ống vách cọc khoan nhồi trên cạn, đường kính cọc D1200mm md 	 6,000 	 -   	 Bao gồm 	
+2a	Khoan vào đất trên cạn, đường kính lỗ khoan D1200 	 md 	 21,500 	 4.931.324 	 106.023.466 	
+2b	Khoan vào đá phong hóa, đường kính lỗ khoan D1200 	 md 	 1,000 	 6.813.509 	 6.813.509 	
+3	Khoan vào đá, đường kính lỗ khoan D1200 	        md 	  1,000 23.715.528 	 23.715.528 	
+4	Cung cấp và thi công Bentonite chống sạt thành hố khoan. m3 	 27,140  169.397 	 4.597.435 	Bentonite/Polymer (Công ty ứng dụng công nghệ Hà Nội, Công ty An Phát, C.ty Hùng Ngọc/ PolymerNUOERFLOC A-7952)
+5	Sản xuất, lắp dựng cốt thép cọc khoan nhồi, cọc trên cạn					Thép Hòa Phát, Miền Nam, Việt Mỹ, Tung Hô, Việt Nhật / tương đương
+	- Thép chủ	                                     kg 	 6.402,510  19.292       123.517.223 	
+	- Thép đai định vị	                             kg 	   127,710  19.292 	 2.463.781 	
+	- Thép đai xoắn	                                     kg 	 574,600    19.292 	 11.085.183 	
+	- Kẽm buộc, con kê	                              Gói 	 1,000 	 -   	 Bao gồm 	
+6	Lắp đặt ống thép đường kính 60mm 	              md 	 73,500 	 89.404   6.571.194 	Lắp ống 100% số cọc
+7	Lắp đặt nút bịt đầu ống thép đường kính 60mm	     Cái 	 6,000 	 18.822 	 112.932 	
+8	Lắp đặt ống thép đường kính 114mm 	              md 	 23,700 	 221.157 	 5.241.421 	Lắp ống 100% số cọc
+9	Lắp đặt nút bịt đầu ống thép đường kính 114mm	     Cái 	 2,000 	 18.822 	 37.644 	
+10	Bê tông cọc nhồi trên cạn đường kính >1m đá 1x2, vữa BT M600 (B45 m3 	 27,2731.712.788 46.712.867 	Công ty CC1; Công ty Uni Easterm; Công ty Hồng Hà, Namvisai / tương đương
+11	Vữa lấp ống siêu âm M100	                     m3 	 0,450 	 4.517.244 	 2.032.760 	Vữa M100
+12	Vận chuyển đất, bùn khoan cọc ra khỏi công trình m3 	 27,140 	 112.931 	 3.064.947 	
+13	Cung cấp ống thử tải	 Cái 	 1,000 	 6.324.141 	 6.324.141 	
+I.2	THÍ NGHIỆM CỌC KHOAN NHỒI D1200 THỬ TĨNH				 703.466.568 	
+14	Thí nghiệm KODEN cọc thử tĩnh	                     cọc 	 1,000 	 3.293.823 	 3.293.823 	Thí nghiệm 100% cọc
+15	Thí nghiệm thử tĩnh cọc	                            cọc 	 1,000 	 682.291.990 	 682.291.990 	Thí nghiệm 100% cọc
+16	Thí nghiệm siêu âm 	                            cọc 	 1,000 	 2.823.277 	 2.823.277 	Thí nghiệm 100% cọc
+17	Thí nghiệm khoan kiểm tra mùn dưới mũi cọc	 cọc 	 1,000 	 15.057.478 	 15.057.478 	Thí nghiệm 100% cọc
+II	CỌC KHOAN NHỒI D1200 ĐẠI TRÀ				                             7.887.341.692 	
+II.1	THI CÔNG CỌC KHOAN NHỒI D1200 ĐẠI TRÀ				                    7.742.601.695 	
+18	Lắp đặt ống vách cọc khoan nhồi trên cạn, đường kính cọc D1200mm	 md 	 306,000 	 -   	 Bao gồm 	
+19a	Khoan vào đất trên cạn, đường kính lỗ khoan D1200 	 md 	 1.204,900 	 1.204.598 	 1.451.420.130 	
+19b	Khoan vào đá phong hóa, đường kính lỗ khoan D1200 	 md 	 168,600 	 2.145.691 	 361.763.503 	
+20	Khoan vào đá, đường kính lỗ khoan D1200 	 md 	 51,000 	 13.645.840 	 695.937.840 	
+21	Cung cấp và thi công Bentonite chống sạt thành hố khoan.	 m3 	 1.675,070 	 169.397 	 283.751.833 	Bentonite/Polymer (Công ty ứng dụng công nghệ Hà Nội, Công ty An Phát, C.ty Hùng Ngọc/ PolymerNUOERFLOC A-7952)
+22	Sản xuất, lắp dựng cốt thép cọc khoan nhồi, cọc trên cạn					Thép Hòa Phát, Miền Nam, Việt Mỹ, Tung Hô, Việt Nhật / tương đương
+	- Thép chủ	 kg 	 88.612,090 	 16.469 	 1.459.352.510 	
+	- Thép đai định vị	 kg 	 8.226,140 	 16.469 	 135.476.300 	
+	- Thép đai xoắn	 kg 	 25.015,410 	 16.469 	 411.978.787 	
+	- Kẽm buộc, con kê	 Gói 	 1,000 	 -   	 Bao gồm 	
+23	Lắp đặt ống thép đường kính 60mm 	 md 	 2.766,000 	 89.404 	 247.291.464 	(Lắp ống 50% số cọc)
+24	Lắp đặt ống thép đường kính 114mm 	 md 	 104,400 	 221.157 	 23.088.791 	(Lắp ống 2% số cọc)
+25	Lắp đặt nút bịt đầu ống thép đường kính 60mm	 Cái 	 240,000 	 14.116 	 3.387.840 	
+26	Lắp đặt nút bịt đầu ống thép đường kính 114mm 	 Cái 	 1,000 	 -   	 Bao gồm 	
+27	Bê tông cọc nhồi trên cạn đường kính >1m đá 1x2, vữa BT M600 (B450) 	 m3 	 1.433,424 	 1.712.788 	 2.455.151.426 	Công ty CC1; Công ty Uni Easterm; Công ty Hồng Hà, Namvisai / tương đương
+28	Vữa lấp ống siêu âm M100	 m3 	 8,886 	 4.517.244 	 40.140.230 	Tối thiểu vữa M100
+29	Vận chuyển đất, bùn khoan cọc ra khỏi công trình 	 m3 	 1.442,720 	 112.931 	 162.927.812 	
+30	Lắp đầu cọc khoan nhồi bằng đất khoan chọn lọc	 m3 	 232,350 	 47.055 	 10.933.229 	
+II.2	THÍ NGHIỆM CỌC KHOAN NHỒI D1200 ĐẠI TRÀ				 144.739.997 	
+31	Thí nghiệm KODEN cọc đại trà	 cọc 	 51,000 	 2.070.403 	 105.590.553 	Thí nghiệm 50% số cọc
+32	Thí nghiệm siêu âm 	 cọc 	 8,000 	 1.129.311 	 9.034.488 	Thí nghiệm 15% số cọc
+33	Thí nghiệm khoan kiểm tra mùn dưới mũi cọc	 cọc 	 2,000 	 15.057.478 	 30.114.956 	Thí nghiệm 2% số cọc
+III	CỌC KHOAN NHỒI D1500 THỬ TĨNH				 1.320.593.423 	
+II.1	THI CÔNG CỌC KHOAN NHỒI D1500 THỬ TĨNH				 452.435.685 	
+34	Lắp đặt ống vách cọc khoan nhồi trên cạn, đường kính cọc D1500mm	 md 	 6,000 	 -   	 Bao gồm 	
+35a	Khoan vào đất trên cạn, đường kính lỗ khoan D1500mm 	 md 	 26,500 	 5.872.417 	 155.619.051 	
+35b	Khoan vào đá phong hóa, đường kính lỗ khoan D1500mm 	 md 	 1,000 	 11.518.971 	 11.518.971 	
+36	Khoan vào đá, đường kính lỗ khoan D1500mm 	 md 	 0,500 	 26.538.806 	 13.269.403 	
+37	Cung cấp và thi công Bentonite chống sạt thành hố khoan.	 m3 	 53,900 	 169.397 	 9.130.498 	Bentonite/Polymer (Công ty ứng dụng công nghệ Hà Nội, Công ty An Phát, C.ty Hùng Ngọc/ PolymerNUOERFLOC A-7952)
+38	Sản xuất, lắp dựng cốt thép cọc khoan nhồi, cọc trên cạn					Thép Hòa Phát, Miền Nam, Việt Mỹ, Tung Hô, Việt Nhật / tương đương
+	- Thép chủ	 kg 	 6.088,740 	 19.292 	 117.463.972 	
+	- Thép đai định vị	 kg 	 261,040 	 19.292 	 5.035.984 	
+	- Thép đai xoắn	 kg 	 863,000 	 19.292 	 16.648.996 	
+	- Kẽm buộc, con kê	 Gói 		 -   	 Bao gồm 	
+39	Lắp đặt ống thép đường kính 60mm 	 md 	 93,000 	 89.404 	 8.314.572 	(Lắp ống 50% số cọc)
+40	Lắp đặt nút bịt đầu ống thép đường kính 60mm	 Cái 	 6,000 	 18.822 	 112.932 	(Lắp ống 2% số cọc)
+41	Lắp đặt ống thép đường kính 114mm 	 md 	 30,200 	 221.157 	 6.678.941 	
+42	Lắp đặt nút bịt đầu ống thép đường kính 114mm	 Cái 	 2,000 	 23.527 	 47.054 	
+43	Bê tông cọc nhồi trên cạn đường kính >1m đá 1x2, vữa BT M600 (B45) 	 m3 	 54,222 	 1.712.788 	 92.870.791 	Công ty CC1; Công ty Uni Easterm; Công ty Hồng Hà, Namvisai / tương đương
+44	Vữa lấp ống siêu âm M100	 m3 	 0,571 	 4.517.244 	 2.579.346 	Tối thiểu vữa M100
+45	Vận chuyển đất, bùn khoan cọc ra khỏi công trình 	 m3 	 53,900 	 112.931 	 6.086.981 	
+46	Cung cấp ống thử tải	 Cái 	 1,000 	 7.058.193 	 7.058.193 	
+II.2	THÍ NGHIỆM CỌC KHOAN NHỒI D1500 THỬ TĨNH				 868.157.738 	
+47	Thí nghiệm KODEN cọc thử tĩnh	 cọc 	 1,000 	 3.293.823 	 3.293.823 	Thí nghiệm 100% cọc
+48	Thí nghiệm thử tĩnh cọc	 cọc 	 1,000 	 846.983.160 	 846.983.160 	Thí nghiệm 100% cọc
+49	Thí nghiệm siêu âm 	 cọc 	 1,000 	 2.823.277 	 2.823.277 	Thí nghiệm 100% cọc
+50	Thí nghiệm khoan kiểm tra mùn dưới mũi cọc	 cọc 	 1,000 	 15.057.478 	 15.057.478 	Thí nghiệm 100% cọc
+III	CỌC KHOAN NHỒI D1500 ĐẠI TRÀ				 28.203.271.265 	
+III.1	THI CÔNG CỌC KHOAN NHỒI D1500 ĐẠI TRÀ				 27.824.669.825 	
+51	Lắp đặt ống vách cọc khoan nhồi trên cạn, đường kính cọc D1500mm	 md 	 894,000 	 -   	 Bao gồm 	
+52a	Khoan vào đất trên cạn, đường kính lỗ khoan D1500mm 	 md 	 3.495,000 	 1.496.337 	 5.229.697.815 	
+52b	Khoan vào đá phong hóa trên cạn, đường kính lỗ khoan D1500mm 	 md 	 600,000 	 2.437.429 	 1.462.457.400 	
+53	Khoan vào đá, đường kính lỗ khoan D1500mm 	 md 	 74,500 	 21.174.579 	 1.577.506.136 	
+54	Cung cấp và thi công Bentonite chống sạt thành hố khoan.	 m3 	 7.368,040 	 169.397 	 1.248.123.872 	Bentonite/Polymer (Công ty ứng dụng công nghệ Hà Nội, Công ty An Phát, C.ty Hùng Ngọc/ PolymerNUOERFLOC A-7952)
+55	Sản xuất, lắp dựng cốt thép cọc khoan nhồi, cọc trên cạn					Thép Hòa Phát, Miền Nam, Việt Mỹ, Tung Hô, Việt Nhật / tương đương
+	- Thép chủ	 kg 	 233.536,280 	 16.469 	 3.846.108.995 	
+	- Thép đai định vị	 kg 	 27.584,870 	 16.469 	 454.295.224 	
+	- Thép đai xoắn	 kg 	 100.801,080 	 16.469 	 1.660.092.987 	
+	- Kẽm buộc, con kê	 Gói 		 -   	 Bao gồm 	
+56	Lắp đặt ống thép đường kính 60mm 	 md 	 6.935,300 	 89.404 	 620.043.561 	(Lắp ống 50% số cọc)
+57	Lắp đặt ống thép đường kính 114mm 	 md 	 143,100 	 221.157 	 31.647.567 	(Lắp ống 2% số cọc)
+58	Lắp đặt nút bịt đầu ống thép đường kính 60mm	 Cái 	 604,000 	 18.822 	 11.368.488 	
+58	Lắp đặt nút bịt đầu ống thép đường kính 114mm 	 Cái 	 5,000 	 -   	 Bao gồm 	
+59	Bê tông cọc nhồi trên cạn đường kính >1m đá 1x2, vữa BT M600 (B45) 	 m3 	 6.319,345 	 1.712.788 	 10.823.698.284 	Công ty CC1; Công ty Uni Easterm; Công ty Hồng Hà, Namvisai / tương đương
+60	Vữa lấp ống siêu âm M100	 m3 	 21,070 	 4.517.244 	 95.178.331 	Tối thiểu vữa M100
+61	Vận chuyển đất, bùn khoan cọc ra khỏi công trình 	 m3 	 6.341,430 	 112.931 	 716.144.031 	
+62	Lắp đầu cọc khoan nhồi bằng đất khoan chọn lọc	 m3 	 1.026,610 	 47.055 	 48.307.134 	
+III.2	THÍ NGHIỆM CỌC KHOAN NHỒI D1500 ĐẠI TRÀ				 378.601.440 	
+63	Thí nghiệm KODEN cọc thử tĩnh	 cọc 	 149,000 	 2.070.403 	 308.490.047 	Thí nghiệm 50% số cọc
+64	Thí nghiệm siêu âm 	 cọc 	 23,000 	 1.411.639 	 32.467.697 	Thí nghiệm 15% số cọc
+65	Thí nghiệm khoan kiểm tra mùn dưới mũi cọc	 cọc 	 4,000 	 9.410.924 	 37.643.696 	Thí nghiệm 2% số cọc
+IV	CÔNG TÁC CHUẨN BỊ PRELIMS / CÔNG TÁC ĐẢM BẢO CHẤT LƯỢNG				 1.573.567.206 	
+66	Chi phí thực hiện mặt bằng phục vụ thi công (Tole lót đường thi công, xử lý mặt bằng ra vô công trình, Container VP, kho chứa)	 Gói 	 1,000 	 879.921.394 	 879.921.394 	
+67	Chi phí tiện ích prelims (Chi phí điện nước vệ sinh phục vụ thi công, điện nước sinh hoạt chung, thu gom rác thải, vệ sinh chung công trường, Chi phí làm hồ sơ, chi phí máy phát điện phục vụ thi công v.v…)	 Gói 	 1,000 	 235.273.100 	 235.273.100 	
+68	Chi phí huy động thiết bị thi công	 Gói 	 1,000 	 364.202.759 	 364.202.759 	
+69	Chi phí xử lý vật cản ngầm trong giới hạn từ mặt đất tự nhiên dến cao độ sâu 3m	 Gói 	 1,000 	 -   	 Bao gồm 	
+70	Trắc đạc	 Gói 	 1,000 	 94.169.953 	 94.169.953 	
+71	Ca bơm	 Ca 	 1,000 	 -   	 Bao gồm 	
+72	Chi phí bảo hiểm, sửa chữa nhà, công trình lân cận	 Gói 	 1,000 	 -   	 Bao gồm 	
+B	 GIAI ĐOẠN 2 				 1.963.445.815 	
+I	CỌC KHOAN NHỒI D1200 ĐẠI TRÀ				 330.193.809 	
+I.1	THI CÔNG CỌC KHOAN NHỒI D1200 ĐẠI TRÀ				 324.923.692 	
+1	Lắp đặt ống vách cọc khoan nhồi trên cạn, đường kính cọc D1200mm	 md 	 12,000 	 -   	 Bao gồm 	
+2a	Khoan vào đất trên cạn, đường kính lỗ khoan D1200 	 md 	 54,000 	 1.204.598 	 65.048.292 	
+2b	Khoan vào đá phong hóa, đường kính lỗ khoan D1200 	 md 	 -   	 2.145.691 	 Bao gồm 	
+3	Khoan vào đá, đường kính lỗ khoan D1200 	 md 	 2,000 	 13.645.840 	 27.291.680 	
+4	Cung cấp và thi công Bentonite chống sạt thành hố khoan.	 m3 	 63,340 	 169.397 	 10.729.606 	Bentonite/Polymer (Công ty ứng dụng công nghệ Hà Nội, Công ty An Phát, C.ty Hùng Ngọc/ PolymerNUOERFLOC A-7952)
+5	Sản xuất, lắp dựng cốt thép cọc khoan nhồi, cọc trên cạn					Thép Hòa Phát, Miền Nam, Việt Mỹ, Tung Hô, Việt Nhật / tương đương
+	- Thép chủ	 kg 	 5.522,880 	 16.469 	 90.956.311 	
+	- Thép đai định vị	 kg 	 307,860 	 16.469 	 5.070.146 	
+	- Thép đai xoắn	 kg 	 1.024,020 	 16.469 	 16.864.585 	
+	- Kẽm buộc, con kê	 Gói 		 -   	 Bao gồm 	
+6	Lắp đặt ống thép đường kính 60mm 	 md 	 91,600 	 89.404 	 8.189.406 	(Lắp ống 50% số cọc)
+7	Lắp đặt ống thép đường kính 114mm 	 md 		 -   	 Bao gồm 	(Lắp ống 2% số cọc)
+8	Lắp đặt nút bịt đầu ống thép đường kính 60mm	 Cái 	 8,000 	 14.116 	 112.928 	
+9	Lắp đặt nút bịt đầu ống thép đường kính 114mm	 Cái 		 -   	 Bao gồm 	
+10	Bê tông cọc nhồi trên cạn đường kính >1m đá 1x2, vữa BT M600 (B450) 	 m3 	 54,250 	 1.712.788 	 92.918.749 	Công ty CC1; Công ty Uni Easterm; Công ty Hồng Hà, Namvisai / tương đương
+11	Vữa lấp ống siêu âm M100	 m3 	 0,259 	 4.517.244 	 1.169.966 	Tối thiểu vữa M100
+12	Vận chuyển đất, bùn khoan cọc ra khỏi công trình 	 m3 	 54,520 	 112.931 	 6.156.998 	
+13	Lắp đầu cọc khoan nhồi bằng đất khoan chọn lọc	 m3 	 8,820 	 47.055 	 415.025 	
+I.2	THÍ NGHIỆM CỌC KHOAN NHỒI D1200 ĐẠI TRÀ				 5.270.117 	
+14	Thí nghiệm KODEN cọc đại trà	 cọc 	 2,000 	 2.070.403 	 4.140.806 	Thí nghiệm 50% số cọc
+15	Thí nghiệm siêu âm 	 cọc 	 1,000 	 1.129.311 	 1.129.311 	Thí nghiệm 15% số cọc
+16	Thí nghiệm khoan kiểm tra mùn dưới mũi cọc	 cọc 		 -   	 -   	Thí nghiệm 2% số cọc
+II	CỌC KHOAN NHỒI D1500 ĐẠI TRÀ				 1.162.705.806 	
+II.1	THI CÔNG CỌC KHOAN NHỒI D1500 ĐẠI TRÀ				 1.148.871.749 	
+17	Lắp đặt ống vách cọc khoan nhồi trên cạn, đường kính cọc D1500mm	 md 	 36,000 	 -   	 Bao gồm 	
+18a	Khoan vào đất trên cạn, đường kính lỗ khoan D1500mm 	 md 	 157,000 	 1.496.337 	 234.924.909 	
+18b	Khoan vào đá phong hóa trên cạn, đường kính lỗ khoan D1500mm 	 md 	 12,000 	 2.437.429 	 29.249.148 	
+19	Khoan vào đá, đường kính lỗ khoan D1500mm 	 md 	 3,000 	 21.174.579 	 63.523.737 	
+20	Cung cấp và thi công Bentonite chống sạt thành hố khoan.	 m3 	 303,940 	 169.397 	 51.486.524 	Bentonite/Polymer (Công ty ứng dụng công nghệ Hà Nội, Công ty An Phát, C.ty Hùng Ngọc/ PolymerNUOERFLOC A-7952)
+24	Sản xuất, lắp dựng cốt thép cọc khoan nhồi, cọc trên cạn			 -   		Thép Hòa Phát, Miền Nam, Việt Mỹ, Tung Hô, Việt Nhật / tương đương
+	- Thép chủ	 kg 	 9.646,690 	 16.469 	 158.871.338 	
+	- Thép đai định vị	 kg 	 1.220,960 	 16.469 	 20.107.990 	
+	- Thép đai xoắn	 kg 	 4.149,840 	 16.469 	 68.343.715 	
+	- Kẽm buộc, con kê	 Gói 		 -   	 Bao gồm 	
+25	Lắp đặt ống thép đường kính 60mm 	 md 	 359,500 	 89.404 	 32.140.738 	(Lắp ống 50% số cọc)
+26	Lắp đặt ống thép đường kính 114mm 	 md 	 22,100 	 221.157 	 4.887.570 	(Lắp ống 2% số cọc)
+27	Lắp đặt nút bịt đầu ống thép đường kính 60mm	 Cái 	 30,000 	 18.822 	 564.660 	
+28	Lắp đặt nút bịt đầu ống thép đường kính 114mm 	 Cái 	 1,000 	 -   	 Bao gồm 	
+29	Bê tông cọc nhồi trên cạn đường kính >1m đá 1x2, vữa BT M600 (B45) 	 m3 	 261,305 	 1.712.788 	 447.560.068 	Công ty CC1; Công ty Uni Easterm; Công ty Hồng Hà, Namvisai / tương đương
+30	Vữa lấp ống siêu âm M100	 m3 	 1,242 	 4.517.244 	 5.610.417 	Tối thiểu vữa M100
+31	Vận chuyển đất, bùn khoan cọc ra khỏi công trình 	 m3 	 262,600 	 112.931 	 29.655.681 	
+32	Lắp đầu cọc khoan nhồi bằng đất khoan chọn lọc	 m3 	 41,340 	 47.055 	 1.945.254 	
+II.2	THÍ NGHIỆM CỌC KHOAN NHỒI D1500 ĐẠI TRÀ				 13.834.057 	
+31	Thí nghiệm KODEN cọc thử tĩnh	 cọc 	 6,000 	 2.070.403 	 12.422.418 	
+32	Thí nghiệm siêu âm 	 cọc 	 1,000 	 1.411.639 	 1.411.639 	
+33	Thí nghiệm khoan kiểm tra mùn dưới mũi cọc	 cọc 			 Bao gồm 	
+III	CÔNG TÁC CHUẨN BỊ PRELIMS / CÔNG TÁC ĐẢM BẢO CHẤT LƯỢNG				 470.546.200 	
+34	Chi phí thực hiện mặt bằng phục vụ thi công (Tole lót đường thi công, xử lý mặt bằng ra vô công trình, Container VP, kho chứa)	 Gói 	 1,000 	 159.985.708 	 159.985.708 	
+35	Chi phí tiện ích prelims (Chi phí điện nước vệ sinh phục vụ thi công, điện nước sinh hoạt chung, thu gom rác thải, vệ sinh chung công trường, Chi phí làm hồ sơ, chi phí máy phát điện phục vụ thi công v.v…)	 Gói 	 1,000 	 47.054.620 	 47.054.620 	
+36	Chi phí huy động thiết bị thi công	 Gói 	 1,000 	 235.273.100 	 235.273.100 	
+37	Chi phí xử lý vật cản ngầm trong giới hạn từ mặt đất tự nhiên dến cao độ sâu 3m	 Gói 	 1,000 		 Bao gồm 	
+38	Trắc đạc	 Gói 	 1,000 	 28.232.772 	 28.232.772 	
+39	Ca bơm	 Ca 	 1,000 	 -   	 Bao gồm 	
+40	Chi phí bảo hiểm, sửa chữa nhà, công trình lân cận	 Gói 	 1,000 	 -   	 Bao gồm 	
+TỔNG CỘNG GIÁ TRỊ TRƯỚC THUẾ VAT					 42.000.000.000 	
+Bằng chữ: Bốn mươi hai tỷ đồng chẵn./.						
 	Loại hợp đồng:
 •	Loại hợp đồng trọn gói theo Hồ sơ thiết kế (bản vẽ, chỉ dẫn kỹ thuật) được Bên A ban hành hoặc chấp thuận.
 •	Giá trị được điều chỉnh khi: Khi Chủ đầu tư thay đổi bản vẽ và giá trị phát sinh được phê duyệt từ Ban Giám đốc Bên A. Giá trị khối lượng điều chỉnh chỉ tính theo đơn giá trong hợp đồng (không tính thêm các chi phí khác), chỉ được thực hiện khi có thông báo bằng văn bản của Bên A và tiến hành ký phụ lục hợp đồng để làm cơ sở để thanh toán.
