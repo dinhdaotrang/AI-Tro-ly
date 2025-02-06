@@ -1072,5 +1072,433 @@ Nếu Bên B không thực hiện một trong số các hạng mục trong hợp
 	Hợp đồng có hiệu lực kể từ ngày ký và sau khi hai Bên hoàn thành trách nhiệm, nghĩa vụ trong hợp đồng, thì hợp đồng tự động thanh lý.
 	Hợp đồng được lập thành 04 (bốn) bản Tiếng Việt có giá trị pháp lý ngang nhau, Bên A giữ 02 (hai) bản, Bên B giữ 02 (hai) bản./.
 
+HỢP ĐỒNG THI CÔNG XÂY DỰNG
+Số: 206/2024/HÐTCXD-BDH/BCONS-VD
+DỰ ÁN	: KHU CHUNG CƯ TÂN ĐÔNG HIỆP
+ĐỊA ĐIỂM	: PHƯỜNG TÂN ĐÔNG HIỆP, THÀNH PHỐ DĨ AN, TỈNH BÌNH DƯƠNG
+HẠNG MỤC	: CUNG CẤP VẬT TƯ PHỤ, NHÂN CÔNG VÀ MÁY THI CÔNG, THI CÔNG ÉP CỌC BÊ TÔNG LY TÂM PHC
+Giữa
+CÔNG TY CỔ PHẦN ĐẦU TƯ XÂY DỰNG BCONS
+Và
+CÔNG TY CP TMDV VÀ XÂY DỰNG NỀN MÓNG BÊ TÔNG VIỄN ĐÔNG
+CĂN CỨ KÝ KẾT HỢP ĐỒNG
+-	Căn cứ Luật Xây dựng số 50/2014/QH13 ngày 18/6/2014;
+-	Căn cứ Luật số 62/2020/QH14 ngày 17/6/2020. Sửa đổi, bổ sung một số điều của Luật xây dựng;
+-	Căn cứ Văn bản hợp nhất Luật xây dựng số 07/VBHN-VPQH đã được sửa đổi, bổ sung một số điều theo Văn bản hợp nhất Luật xây dựng số 02/VBHN-VPQH ngày 15/07/2020; 
+-	Căn cứ bộ Luật Dân sự  số 91/2015/QH13 ngày 24/11/2015 của Quốc hội;
+-	Căn cứ Luật Đấu thầu số 22/2023/QH15 ngày 23/06/2023;
+-	Văn bản hợp nhất Luật Đấu thầu số 12/VBHN-VPQH ký ngày 04/7/2019;
+-	Căn cứ Nghị định số 136/2020/NĐ-CP ngày 24/11/2020 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Phòng cháy và chữa cháy và Luật sửa đổi, bổ sung một số điều của Luật Phòng cháy và chữa cháy;
+-	Căn cứ Nghị định 24/2024/NĐ-CP ngày 27/02/2024 của Chính phủ về việc quy định chi tiết thi hành một số điều của Luật Đấu thầu và lựa chọn nhà thầu;
+-	Căn cứ Nghị định số 10/2021/NĐ-CP ký ngày 9/2/2021 về việc quản lý chi phí đầu tư xây dựng;
+-	Căn cứ Nghị định số 37/2015/NĐ-CP ngày 22/4/2015 của Chính phủ quy định chi tiết về hợp đồng xây dựng;
+-	Căn cứ Nghị định số 06/2021/NĐ-CP ngày 26/01/2021 của Chính phủ về quy định chi tiết một số nội dung về quản lý chất lượng, thi công xây dựng và bảo trì công trình xây dựng;
+-	Căn cứ Nghị định số 15/2021/NĐ-CP ngày 03/3/2021 của Chính phủ quy định chi tiết một số nội dung về quản lý dự án đầu tư xây dựng công trình;
+-	Căn cứ Thông tư số 10/2021/TT-BXD ngày 25/08/2021 của Bộ xây dựng về việc Hướng dẫn một số điều và biện pháp thi hành Nghị định số 06/2021/NĐ-CP ngày 26 tháng 01 năm 2021 và Nghị định số 44/2016/NĐ-CP ngày 15 tháng 05 năm 2016 của Chính Phủ;
+-	Căn cứ Thông tư số 02/2021-BXD ký ngày 19/05/2021 ban hành quy chuẩn kỹ thuật quốc gia về an toàn cháy cho nhà và công trình;
+-	Căn cứ Thông tư số 06/2022/TT-BXD ký ngày 30/11/2022 ban hành quy chuẩn kỹ thuật quốc gia về an toàn cháy cho nhà và công trình;
+-	Căn cứ Thông tư số 02/2023/TT-BXD ngày 30/03/2023 của Bộ Xây dựng về việc Hướng dẫn hợp đồng thi công xây dựng công trình;
+-	Căn cứ Điều khoản chung của các hợp đồng giao thầu thi công được ban hành theo Quyết định số 01/QĐ-KĐT ký ngày 04/01/2022 của Công ty Cổ phần Đầu tư Xây dựng Bcons;
+-	Các biên bản làm việc, biên bản phỏng vấn, trao đổi nội dung của gói thầu giữa Công ty Cổ phần Đầu tư Xây dựng Bcons và Công ty CP TMVD và Xây dựng Nền móng bê tông Viễn Đông.
+Căn cứ nhu cầu và khả năng thực hiện của hai Bên
+Hôm nay, ngày 04 tháng 12 năm 2024, tại văn phòng Công ty Cổ phần Đầu tư Xây dựng Bcons, chúng tôi gồm các Bên dưới đây: 
+	BÊN GIAO THẦU ("Bên A"):
+CÔNG TY CỔ PHẦN ĐẦU TƯ XÂY DỰNG BCONS
+•	Đại diện Ông	: HỒ KỲ LÂN	Chức vụ: Giám đốc Khối Thi công
+(Theo giấy ủy quyền số 19/UQ-BCONS ngày 02/10/2024)
+•	Địa chỉ	: 176/1-176/3 Nguyễn Văn Thương, Phường 25, quận Bình Thạnh, TP.HCM
+•	Điện Thoại	: (028). 3512 9632	Fax: (028). 3512 9632
+•	Mã số thuế	: 0 3 1 2 1 7 3 5 3 7
+•	Tài khoản   	: 1350 951 997 tại Ngân hàng TMCP Đầu tư và Phát triển Việt Nam (BIDV) – Chi nhánh Gia định, TP.HCM
+	: 7008008 tại Ngân hàng TMCP Á Châu (ACB) – PGD Phạm Ngọc Thạch
+	BÊN NHẬN THẦU ("Bên B"):
+CÔNG TY CP TMDV VÀ XÂY DỰNG NỀN MÓNG BÊ TÔNG VIỄN ĐÔNG
+•	Đại diện Ông	: ĐẶNG TRỌNG NAM	Chức vụ: Giám đốc
+•	Địa chỉ	: 13 Lý Tế Xuyên, KP.4, Phường Linh Đông, Tp. Thủ Đức, TP.HCM
+•	Điện Thoại	: (028). 3720 6191	
+•	Mã số thuế	: 0 3 0 5 4 2 5 7 0 5
+•	Tài khoản   	: 34508509 tại Ngân hàng TMCP Á Châu – Chi nhánh Thủ Đức
+Sau khi thỏa thuận, hai Bên thống nhất ký kết hợp đồng này và đồng thời áp dụng Điều khoản chung của các hợp đồng giao thầu thi công được ban hành theo Quyết định số 01/QĐ-KĐT ký ngày 04/01/2022 của CÔNG TY CỔ PHẦN ĐẦU TƯ XÂY DỰNG BCONS.
+Hai Bên cũng đồng ý chỉnh sửa, bổ sung một số nội dung trong Điều khoản chung của các hợp đồng giao thầu thi công được ghi nhận cụ thể như sau:
+I.	Nguyên tắc chung khi hai Bên đàm phán, ký kết hợp đồng:
+Bên A sẽ phối hợp với Bên B để cung cấp sản phẩm, công việc, dịch vụ tốt nhất cho Chủ đầu tư, Nhà thầu chính, Khách hàng của Bên A. Qua đó, hai Bên sẽ trở thành đối tác tin cậy, ổn định để cùng nhau phát triển cho tất cả các dự án về sau.
+Do đó, khi đàm phán, báo giá, Bên B phải đảm bảo cung cấp sản phẩm, công việc, dịch vụ tốt nhất cho Bên A, bất kỳ đơn giá, chi phí nào khác có liên quan (bao gồm khoản chiết khấu, hoa hồng, quà tặng …) đều đã được Bên B loại trừ trong giá hợp đồng. Trường hợp trong quá trình thực hiện hợp đồng mà Bên B có bất kỳ khoản tiền chiết khấu, hoa hồng, quà tặng nào cho Nhân viên của Bên A thì các khoản đó được xem là nhằm che giấu sai sót, khuyết tật của sản phẩm, công việc, dịch vụ của Bên B. Khi đó, Bên A có thể đơn phương chấm dứt hợp đồng này bất kỳ lúc nào, Bên B phải chịu phạt và bồi thường toàn bộ giá trị hợp đồng cho Bên A.
+II.	Hợp đồng, hồ sơ đính kèm hợp đồng và thứ tự ưu tiên giải thích khi có sự mâu thuẫn giữa các tài liệu:
+Stt	Tên hồ sơ	Đính kèm	Ghi chú
+1	Hợp đồng này	Có	Những nội dung khác biệt giữa hợp đồng này và Điều khoản chung sẽ ưu tiên theo hợp đồng này.
+2	Điều khoản chung 	Có	
+3	Hồ sơ thiết kế, bản vẽ kỹ thuật (do Bên A cung cấp hoặc chấp thuận)	Có	
+4	Tiêu chuẩn kỹ thuật/Quy trình thi công	 Có	
+5	Bảng đơn giá/Khối lượng	Có	Đính kèm theo hợp đồng.
+6	Bảng tiến độ	Có	
+7	Catalogue	Có	Theo yêu cầu chủng loại vật tư cụ thể sử dụng.
+8	Quy định thưởng - phạt việc không tuân thủ công tác an toàn lao động, vệ sinh trên công trường.	Có	Quy định tại Điều khoản chung
+9	Hồ sơ mời thầu, hồ sơ dự thầu, các biên bản làm việc, các email phản hồi cung cấp thông tin trong quá trình dự thầu.	Có	
+	Các phụ lục khác	Có	Phụ lục hợp đồng số 01.
+III.	 Nội dung hợp đồng:
+Stt	Nội dung	Tham chiếu Điều khoản chung	Kết quả đàm phán
+1	Tên công trình
+Địa điểm thi công.	Điều 1	Tên công trình: KHU CHUNG CƯ TÂN ĐÔNG HIỆP
+Địa điểm: PHƯỜNG TÂN ĐÔNG HIỆP, THÀNH PHỐ DĨ AN, TỈNH BÌNH DƯƠNG
+2	Nội dung hợp đồng và phạm vi công việc	Điều 2	Bên A đồng ý giao và Bên B đồng ý nhận “Cung cấp vật tư phụ, nhân công và máy thi công, thi công ép cọc bê tông ly tâm PHC” tại công trình của Bên A.
+	Phạm vi chính công việc của Bên B: 
+•	Cung cấp vật tư phụ, nhân công và máy thi công, thi công ép cọc thử, cọc đại trà theo bản vẽ Bên A ban hành.
+•	Bên B phải đảm bảo thi công đạt chất lượng theo cam kết, phù hợp theo Tiêu chuẩn Việt Nam và yêu cầu kỹ thuật theo bản vẽ được Bên A ban hành và được BCH.CT Bên A chấp thuận.
+(Chi tiết công việc theo Phụ lục hợp đồng số 01).
+3	Giá trị hợp đồng và loại hợp đồng	Điều 4		Giá trị hợp đồng: Giá trị hợp đồng chưa bao gồm thuế VAT là: 1.486.000.000 VND.
+(Bằng chữ: Một tỷ, bốn trăm tám mươi sáu triệu đồng chẵn./.).
+
+
+
+
+
+	Loại hợp đồng:
+•	Loại hợp đồng trọn gói theo Hồ sơ thiết kế (bản vẽ, chỉ dẫn kỹ thuật) được Bên A ban hành hoặc chấp thuận.
+•	Giá trị được điều chỉnh khi: Khi Chủ đầu tư thay đổi bản vẽ và giá trị phát sinh được phê duyệt từ Ban Giám đốc Bên A. Giá trị khối lượng điều chỉnh chỉ tính theo đơn giá trong hợp đồng (không tính thêm các chi phí khác), chỉ được thực hiện khi có thông báo bằng văn bản của Bên A và tiến hành ký phụ lục hợp đồng để làm cơ sở để thanh toán.
+•	Nếu Bên B không thực hiện một trong số các hạng mục trong bảng chi tiết giá trị hợp đồng trọn gói thì giá trị quyết toán hợp đồng bằng giá trị hợp đồng trọn gói trừ đi giá trị các hạng mục không thực hiện thực tế mà Bên B phải cung cấp nguồn lực để thực hiện. Việc không thực hiện hạng mục nào trong hợp đồng sẽ do đại diện Chủ đầu tư quyết định.
+4	Đơn giá			Đơn giá trọn gói bao gồm: 
+•	Toàn bộ vật tư phụ, nhân công và máy móc, thiết bị thi công, các vật tư phụ và các chi phí khác cần thiết để hoàn thành các hạng mục công việc theo khối lượng bản vẽ Bên A ban hành kèm theo hợp đồng.
+•	Chi phí trắc đạc, định vị tim mốc trong quá trình thi công (Bên A chỉ cung cấp mốc GPS).
+•	Chi phí xử lý vật cản ngầm trong giới hạn từ mặt đất tự nhiên đến độ sâu 3m. Đối với các vật cản ngầm có độ sâu trên 3m thì chi phí xử lý này sẽ được hai bên thương lượng và xác định.
+•	Chi phí thí nghiệm kiểm tra, xác định chất lượng công việc Nhà thầu thực hiện đầy đủ theo TCVN như: Thí nghiệm, kiểm tra vật tư trước khi thi công v.v...
+•	Chi phí đảm bảo phục vụ công tác thi công, an toàn lao động thi công trong mùa mưa, căng cờ cảnh báo hố đào, hố khoan.
+•	Chi phí vận chuyển vật tư, nhân công, máy thi công để thi công và vận chuyển đi để giao trả mặt bằng khi hoàn thành công việc (bao gồm chi phí tole lót đường khi vận chuyển máy móc thi công và các khâu chuẩn bị mặt bằng thi công). Trường hợp trong quá trình thi công máy móc Bên B bị sự cố, hư hỏng phải sửa chữa quá 48h00 thì Bên B phải bố sung máy móc thiết bị thi công để đáp ứng theo tiến độ cam kết.
+•	Chi phí bảo hiểm cho thiết bị, người lao động trong quá trình thi công công trình theo quy định của Nhà nước. Bên B phải bồi thường các thiệt hại do tai nạn lao động đối với cá nhân do đơn vị mình quản lý và những tổn thất do Bên B gây nên. 
+•	Chi phí tole lót đường khi thi công và các khâu chuẩn bị mặt bằng thi công.
+•	Chi phí máy thổi rửa và nhân công xịt rửa xe, vệ sinh công trường, vệ sinh đường, khu vực công cộng nguyên nhân gây ra bởi Bên B.
+•	Đền bù nhà dân nếu gây hư hỏng do máy móc thiết bị của Bên B gây ra.
+•	Che chắn lỗ cọc khi ép âm chắn đất vào lòng cọc và đảm bảo an toàn cho các bên tham gia thi công tại công trường.
+•	Chi phí khắc phục, sửa chữa đường hiện trạng công cộng bên ngoài dự án nếu có hư hỏng do xe vận chuyển thiết bị, máy móc, bùn đất… của Bên B gây ra.
+•	Các chi phí như bảo trì, bảo dưỡng, sửa chữa, phụ tùng thay thế máy móc thiết bị, Chi phí tiện ích công trường như điện, nước phục vụ thi công. 
+•	Chi phí hàn điện để hàn nối cọc, quét bitum chống thấm 02 lớp…
+•	Toàn bộ chi phí để hoàn thành hạng mục công trình theo thiết kế. Bên B đảm bảo sẽ xử lý các vấn đề phát sinh trong quá trình thi công thuộc phạm vi gói thầu (nếu có) không phát sinh chi phí trong quá trình thi công.
+•	Ban chỉ huy của Bên B, văn phòng BCH.CT của Bên B duy trì trong suốt thời gian xây dựng, vẽ biện pháp, vẽ shopdrawing in ấn và trình duyệt trước thi công, chi phí lập, vẽ và in ấn trình duyệt bản vẽ hoàn công. Chi phí bảo hiểm công nhân, kỹ sư trong thời gian thi công và các bảo hộ lao động cần thiết.
+•	Chi phí thí nghiệm kiểm tra, xác định chất lượng công việc Bên B thực hiện khi Bên A yêu cầu.
+•	Các chi phí liên quan tới ATLĐ, vệ sih môi trường và chịu trách nhiệm hoàn toàn về ATLĐ trong quá trình thi công như căng cờ cảnh báo hố đào, hố khoan, hố cọc.
+•	Thí nghiệm, kiểm tra vật tư trước khi thi công (nếu có).
+•	Chi phí làm hồ sơ thanh toán, hồ sơ quyết toán, hồ sơ hoàn công, nhật ký thi công. (Bao gồm 2 giai đoạn phục vụ hồ sơ pháp lý theo yêu cầu của Bên A)
+Các công việc không thuộc phạm vi công việc được liệt kê trong phạm vi công việc của Bên A và Bên B, nhưng thực tế phải thực hiện để hoàn thành sản phẩm hoặc công việc của Bên B thì mặc nhiên trách nhiệm thuộc về Bên B, Bên B phải thực hiện và Bên B đã tính toán chi phí đó vào giá dự thầu.
+	Đơn giá không bao gồm: 
+•	Đơn giá chưa bao gồm thuế giá trị gia tăng VAT (phần thuế giá trị gia tăng VAT sẽ được xuất và thanh toán theo quy định của Nhà nước tại thời điểm xuất hóa đơn).
+•	Bảo hiểm công trình (bao gồm các công trình lân cận và Bên thứ ba). Bảo hiểm công nhân, kỹ sư, máy móc thiết bị nội bộ Bên B đã bao gồm.
+•	Nguồn chính của hệ thống điện/ nước tạm.
+5	Điều kiện - tiêu chuẩn kỹ thuật, chất lượng, bàn giao hạng mục
+Thành phần nghiệm thu.	Điều 7		Điều kiện, tiêu chuẩn kỹ thuật, chất lượng:
+•	Theo Tiêu chuẩn Việt Nam (TCVN).
+•	Bản vẽ thiết kế, chỉ dẫn kỹ thuật được Chủ đầu tư ban hành hoặc chấp thuận.
+•	Thuyết minh, chỉ dẫn kỹ thuật (Spec).
+	Thành phần nghiệm thu:
+•	Chỉ huy trưởng / Ban chỉ huy công trình.
+•	Tư vấn giám sát.
+•	Đại diện Bên A chỉ định / Đại diện Chủ đầu tư.
+6	Bảo lãnh thực hiện hợp đồng	Điều 5		Bảo lãnh thực hiện hợp đồng: Không áp dụng.
+Azq	az	Điều 5		Tạm ứng hợp đồng: Bên A sẽ tạm ứng cho Bên B 15% giá trị hợp đồng trước thuế với số tiền là: 222.900.000 VND.
+(Bằng chữ: Hai trăm hai mươi hai triệu, chín trăm nghìn đồng chẵn./.).
+•	Thời hạn tạm ứng: Trong vòng 25 ngày làm việc, kể từ ngày ký kết hợp đồng và Bên A nhận được hồ sơ tạm ứng hợp lệ từ Bên B.
+•	Hồ sơ tạm ứng bao gồm:
++ Giấy đề nghị tạm ứng.
+	Bảo lãnh tạm ứng: Không áp dụng. 
+8	
+Thanh toán 
+	Điều 5		Thanh toán:
+•	Bên A thanh toán cho Bên B theo từng tháng, ngày nộp hồ sơ là ngày 20 hàng tháng. Mỗi đợt thanh toán Bên A sẽ thanh toán cho Bên B 85% giá trị được nghiệm thu (sau VAT) sau khi được các Bên tham gia nghiệm thu xác nhận.
+•	Tạm ứng được khấu trừ dần đều qua các đợt thanh toán. Khi Bên A thanh toán đến 80% giá trị hợp đồng thì sẽ thu hồi 100% giá trị tạm ứng.
+•	Hạng mục sơ bộ (Preliminary) thanh toán theo từng tháng được tính theo tỷ lệ phần trăm tương ứng giá trị khối lượng được nghiệm thu hoàn thành trên giá trị khối lượng hợp đồng và được BCH.CT Bên A nghiệm thu xác nhận.
+•	Thời gian thanh toán: Theo quy định thanh toán số ĐT.QT03Rev003 ký ngày 10/10/2024 được ban hành bởi Bên A.
+•	Bên A có quyền tạm ngưng thanh toán cho Bên B theo Hợp đồng này nếu Bên B chậm thực hiện việc bảo hành / bảo trì, không tuân thủ việc bảo hành / bảo trì theo quy định ở các Dự án của Bên A mà Bên B đã thi công trước đó hoặc các hành vi trực tiếp hoặc gián tiếp gây ảnh hưởng tới Uy tín và thương hiệu của Bên A mà Bên A đã có biên bản hoặc công văn nhắc nhở 03 (ba) lần. Các khoản chi phí thiệt hại gây ra bởi vấn đề này Bên B chịu trách nhiệm bồi thường cho Bên A và chi phí được khấu trừ trực tiếp vào giá trị thanh toán của Hợp đồng này.
+9	Quyết toán	Điều 5		Quyết toán:
+•	Quyết toán Bên A sẽ thanh toán cho Bên B đến 95% giá trị được nghiệm thu (sau thuế VAT). Sau khi Bên B được xác nhận đã thực hiện xong các công việc của gói thầu (bao gồm biên bản nghiệm thu hoàn thành hạng mục công trình, công trình xây dựng) và hoàn thành hồ sơ quyết toán.
+•	Giá trị đảm bảo bảo hành trị giá 05% giá trị quyết toán cho công tác bảo hành 12 tháng tính từ ngày ký biên bản nghiệm thu hoàn thành hạng mục công trình, công trình xây dựng và hoàn thành hồ sơ quyết toán các hạng mục thuộc phạm vi hợp đồng này. Trong đó:
+-	6 tháng đầu giữ bằng tiền mặt.
+-	6 tháng tiếp theo Bên B cung cấp chứng thư bảo lãnh bảo hành không hủy ngang vô điều kiện của ngân hàng (theo mẫu Bên A ban hành) đang nắm giữ tài khoản Bên B để nhận 05% giá trị quyết toán còn lại. Bên A có quyền cấn trừ các chi phí đã bỏ ra sửa chữa trong quá trình bảo hành (nếu Bên B không thực hiện). Bên B cam kết sẽ thanh toán lại các chi phí này cho Bên A. Đến hết thời gian hết hạn bảo hành Bên B phải cung cấp biên bản xác nhận hết thời hạn bảo hành có xác nhận của Bên A thì chứng thư mới được giải tỏa.
+Nếu Bên B không thực hiện một trong số các hạng mục trong bảng phụ lục hợp đồng đính kèm, thì giá trị quyết toán bằng giá trị hợp đồng trọn gói trừ đi giá trị của một số các hạng mục không thực hiện trong bảng phụ lục hợp đồng đính kèm.
+•	Thời gian quyết toán: Theo quy định quyết toán số ĐT.QT04Rev003 ký ngày 07/10/2023 được ban hành bởi Bên A
+•	Bên A có quyền khấu trừ giá trị bảo hành của Bên B theo Hợp đồng này nếu Bên B chậm thực hiện việc bảo hành / bảo trì, không tuân thủ việc bảo hành / bảo trì theo quy định ở các Dự án của Bên A mà Bên B đã thi công trước đó và Bên A đã có biên bản hoặc công văn nhắc nhở 03 (ba) lần. Các khoản chi phí thiệt hại gây ra bởi vấn đề này Bên B chịu trách nhiệm bồi thường cho Bên A và chi phí được khấu trừ trực tiếp vào giá trị bảo hành của Hợp đồng này.
+10	Thành phần, số lượng hồ sơ thanh toán, quyết toán	Điều 5		Theo quy định tại Điều khoản chung.
+11	Thời gian và tiến độ thực hiện	Điều 3		Tiến độ:
+•	Tiến độ thi công được tính bằng ngày, kể cả chủ nhật, không kể ngày nghỉ lễ theo quy định Nhà nước, cụ thể như sau:
+-	Giai đoạn 1:
++ Ép cọc thử và thời gian thí nghiệm: 20 ngày.
++ Ép cọc đại trà: 25 ngày.
+-	Giai đoạn 2: Tổng tiến độ thi công là 35 ngày
+-	Thời gian bao gồm toàn bộ từ khâu chuẩn bị, thi công, defect, vệ sinh hoàn thiện sản phẩm và bàn giao.
+•	Ngày bắt đầu tính tiến độ được tính từ lúc Bên B nhận bàn giao mặt bằng thi công từ Bên A. Thời gian tính tiến độ thực tế theo tiến độ cam kết tại công trường tùy vào thời điểm nhưng không được vượt quá thời gian thi công trong hợp đồng.
+•	Trường hợp Bên B ký lại tiến độ với BCH.CT (không vượt tiến độ trong hợp đồng), thì tiến độ ký lại với BCH.CT lấy làm cơ sở để phạt nếu Bên B chậm tiến độ thi công.
+•	Trường hợp Bên A chậm trễ duyệt mẫu, shopdrawing, … thì Bên B được cộng số ngày trễ vào tiến độ. Bên B đệ trình tối thiểu trước 72h00 để trình duyệt (chưa bao gồm thời gian điều chỉnh, chỉnh sửa theo yêu cầu Bên A).
+12	Trách nhiệm và quyền hạn của các Bên	Điều 6		Trách nhiệm và quyền hạn của Bên A: 
+•	Cung cấp cho Bên B bản vẽ thiết kế đã được phê duyệt.
+•	Chịu trách nhiệm bàn giao mặt bằng thi công cho Bên B để đảm bảo tiến độ thi công công trình. Chịu trách nhiệm đại diện để giải quyết các vướng mắc liên quan với chính quyền địa phương để đảm bảo đủ điều kiện cho Bên B thi công.
+•	Thông báo đại diện của Bên A và thông báo đại diện Tư vấn của Bên A (nếu có) chính thức cho Bên B (bao gồm danh sách người đại diện, chức năng và nhiệm vụ) để giải quyết tất cả công việc liên quan tới việc tiến hành và thực hiện hợp đồng.
+•	Tạo mọi điều kiện thuận lợi cho Bên A hoàn thành công việc. 
+•	Cung cấp vị trí kho bãi cho Bên B.
+•	Bàn giao mốc tọa độ chuẩn và cao độ chuẩn cho Bên B trước khi thi công.
+•	Cử cán bộ kỹ thuật có đầy đủ chức năng, quyền hạn để quản lý, giám sát và nghiệm thu cho Bên B.
+•	Cung cấp nguồn điện, nước phục vụ cho công tác thi công của Bên B, nhưng Bên B chịu trách nhiệm thanh toán tất cả chi phí liên quan đến quá trình sử dụng điện và nước theo chỉ số đồng hồ tiêu thụ điện và nước tương ứng.
+•	Cung cấp cho Bên B các tài liệu, hồ sơ liên quan đến công trình trong phạm vi cho phép.
+•	Thực hiện việc kiểm tra, phê duyệt hồ sơ thanh toán, quyết toán của Bên B và thực hiện việc thanh toán cho Bên B theo đúng quy định của hợp đồng.
+•	Tạo điều kiện, phối hợp, cung cấp đầy đủ thông tin để Bên B thi công thuận tiện phù hợp tiến độ cũng như đồng bộ với các hạng mục khác có liên quan của Bên A.
+•	Bên A có quyền lập biên bản phạt nếu Bên B không tuân thủ các quy trình, quy định được BCH.CT ban hành cũng như vi phạm về ATLĐ, VSMT, chất lượng theo quy định tại Điều khoản chung.
+•	Bên A có quyền tạm ngưng công tác thi công nếu Bên B không tuân thủ biện pháp thi công, thi công không an toàn, kém chất lượng, thi công không đảm bảo tiến độ, bỏ dở công trình hoặc không có lý do chính đáng mà lại không tiếp tục công trình, thể hiện rõ ràng ý định không tiếp tục thực hiện nghĩa vụ theo hợp đồng… Nếu Bên B liên tục vi phạm, không tuân thủ biện pháp Bên A có quyền đơn phương chấm dứt hợp đồng yêu cầu bồi thường thiệt hại (nếu có).
+•	Bên A phản hồi thông tin các công việc liên quan trong vòng 48h00 khi nhận được thông tin từ Bên B.
+•	Danh sách các bộ phận, cá nhân phụ trách quản lý, theo dõi và thực hiện hợp đồng (lưu ý Bên B không được liên hệ, làm việc vượt cấp theo quy định của Bên A. Trường hợp Bên B liên hệ và làm việc vượt cấp, Bên A sẽ phạt theo quy định):
+1	Giám đốc Khối Đấu thầu	Vương Huy Thăng	Thangvh@bcons.com.vn
+0906 795 286
+		Phụ trách quản lý, theo dõi thực hiện hợp đồng.
+2	Giám đốc Khối Thi công	Hồ Kỳ Lân	lanhk@bcons.com.vn
+0903 648 790
+		Phụ trách quản lý Khối thi công.
+3	CHT.CT	Nguyễn Tiến Đạt	datntien@bcons.com.vn 
+0919 381 385  
+		Phụ trách quản lý, triển khai thi công ở công trình.
+	Trách nhiệm và quyền hạn của Bên B:
+•	Lập kế hoạch vật tư như việc tổ hợp cọc, khối lượng vật tư cọc, biện pháp thi công trình Bên A phê duyệt và cung cấp trong vòng 7 ngày trước khi thi công. Cung cấp cho Bên A khối lượng vật tư chi tiết trước mỗi giai đoạn thi công.
+•	Trình vật tư (nếu có) (bao gồm chi phí thí nghiệm vật liệu đầu vào theo tiêu chuẩn, theo luật quy định hiện hành, spec, v.v..) của dự án trước khi đưa vào sử dụng hoặc khi có sự nghi ngờ của Bên A về chất lượng. Các chi phí liên quan đến biện pháp thi công và trình biện pháp thi công, bản vẽ Shopdrawing cho Bên A phê duyệt trước khi thi công. 
+•	Thực hiện kiểm soát vật tư, thiết bị kho bãi và hoàn trả lại vật tư, thiết bị, kho bãi ….. nếu được Bên A cung cấp. 
+•	Thi công theo đúng bản vẽ, chỉ dẫn kỹ thuật được Bên A ban hành và các tiêu chuẩn, quy chuẩn hiện hành. Chịu trách nhiệm liên quan đến các vấn đề về thi công do quá trình thi công hoặc sản phẩm của Bên B gây ra.
+•	Mọi sự cố xảy ra do lỗi của Bên B thì Bên B đều phải tự xử lý bằng kinh phí của mình và vẫn phải đảm bảo tiến độ thi công đã thỏa thuận.
+•	Trong quá trình thi công, nếu xảy ra sự cố ảnh hưởng đến Bên thứ ba thì Bên B phải hoàn toàn chịu trách nhiệm, bao gồm cả chi phí bồi hoàn các thiệt hại. 
+•	Xử lý, khắc phục, đền bù… các ảnh hưởng gây ra cho các công trình lân cận, cư dân xung quanh công trình khi nhà thầu thi công không đúng biện pháp, không đảm bảo an toàn …gây ra.
+•	Bên B chịu trách nhiệm bồi thường mọi thiệt hại, mất mát hay hư hỏng về tài sản, vật tư, trang thiết bị cho Bên A do lỗi của Bên B gây ra trong quá trình thi công. Việc đền bù được thực hiện sau khi các Bên lập biên bản xác nhận có thiệt hại, mất mát, hư hỏng xảy ra. Trường hợp Bên B không thực hiện đền bù thì Bên A sẽ cấn trừ chi phí này khi thanh toán cho Bên B.
+•	Phối hợp cùng đơn vị cung cấp cọc, Bên A và Bên B xác nhận khối lượng, số lượng cọc, thời gian và tiến độ giao cọc trước khi tiến hành đặt hàng, để cùng nghiệm thu chất lượng cọc khi giao nhận tại công trường. Khi cọc được giao đến công trình, Bên B có 24h kiểm tra chất lượng và cẩu hạ cọc. Bên B có quyền từ chối nhận cọc nếu nhận thấy có sự khuyết tật về cọc và cọc không đảm bảo chất lượng. Nếu Bên B nhận cọc và được xác nhận bằng văn bản thì coi như cọc đó đạt chuẩn về tiêu chuẩn kỹ thuật và Bên B phải hạ cọc trong vòng 24 giờ kể từ khi đơn vị cung cấp cọc đến chân công trường. Nếu quá 01 ngày kể từ thời điểm phương tiện vận chuyển cọc đến địa điểm giao cọc theo thời gian cùng nhau xác nhận của Bên A và Bên B mà Bên B không giải phóng toàn bộ cọc ra khỏi phương tiện vận chuyển mà nguyên nhân không phải lỗi của Bên A thì Bên B phải trả phí chờ phương tiện vận chuyển cho Bên A là 5.000.000 VND/ xe trung chuyển/ ngày.
+•	Nếu quá trình thi công xảy ra sự cố nứt, vỡ đầu cọc trong quá trình thi công thì Bên B được quyền gửi văn bản khiếu nại về chất lượng cọc không đảm bảo thi công kèm theo biên bản hiện trường cho Bên A tối đa trong vòng 48 giờ kể từ ngày xảy ra sự cố. Trong vòng 24 giờ kế tiếp kể từ khi nhận được khiếu nại, Bên A và Bên B cùng đơn vị cung cấp cọc tiến hành họp kiểm tra, lập biên bản xem xét trách nhiệm căn cứ vào các nội dung thỏa thuận giữa hai Bên trước khi thi công:
+-	Nếu do chất lượng cọc gây ra thì Bên đơn vị cung cấp cọc chịu trách nhiệm xử lý các sự cố đó. Có xác nhận bằng biên bản của các Bên.
+-	Nếu sự cố do Bên B gây ra hoặc do quá trình thi công cọc không tuân thủ đúng các quy trình kỹ thuật thì Bên B sẽ phải chịu hoàn toàn chi phí hư hỏng, chi phí cấp cọc bù, chi phí liên quan (nếu có) đối với sự cố đó.
+•	Bên B đã khảo sát vị trí công trình, đường giao thông và hiện trạng cổng ra vào và đã tính toán đến các phương án an toàn giao thông, tải trọng xe vận chuyển thiết bị, vật tư cho công trình đã đủ điều kiện để đưa máy móc, thiết bị thi công theo yêu cầu thiết kế vào bên trong công trình. Nếu việc vận chuyển máy móc thiết bị trong quá trình thi công làm ảnh hưởng đến con đường, nhà dân xung quanh dự án mà nguyên nhân do lỗi chủ quan của Bên B thì Bên B phải chịu chi phí khắc phục sửa chữa.
+•	Tự cung cấp máy và nhân sự trắc đạc triển khai tim mốc trong quá trình thi công.
+•	Bên B phải sắp xếp và giải quyết các vấn đề nếu trong quá trình thi công của Bên B gây ra ảnh hưởng sự thuận tiện của công chúng, chiếm lĩnh đường đi, vỉa hè.
+•	Bên B có trách nhiệm phải che chắn xung quanh lỗ cọc, biển báo hố khoan để đảm bảo an toàn cho các bên tham gia thi công tại công trường và ngăn đất vào đầu cọc.
+•	Chịu chi phí vệ sinh đầu cọc nếu để đất lấp đầy đầu cọc trong diện tích đổ bê tông neo.
+•	Tiếp nhận mặt bằng từ các đơn vị thi công khác để thi công và sau khi thi công xong, Bên B phải bàn giao mặt bằng thi công của Bên B cho các đơn vị khác thi công được. Trường hợp Bên B không nhận mặt bằng phải có biên bản ghi nhận lý do nếu mặt bằng không đảm bảo. Nếu Bên B không chứng minh được vấn đề trên thì mặc nhiên trách nhiệm thuộc về Bên B.
+•	Bảo hiểm cho thiết bị, người lao động trong quá trình thi công công trình theo quy định của Nhà nước. Bên B tự chịu trách nhiệm về an toán lao động trong suốt thời gian thi công, các thiệt hại do tai nạn lao động đối với cá nhân do đơn vị mình quản lý và những tổn thất do Bên B gây nên trong quá trình thi công công trình theo quy định của Nhà nước. Nếu Bên B gây thiệt hại về tài sản hay về người Bên B phải bồi thường ngay lập tức và phải chủ động khắc phục sửa chữa, bồi thường tất cả các chi phí mà pháp luật quy định bao gồm cả những thiệt hại, mất mát hay những chi phí thực tế phát sinh do hậu quả từ việc này gây ra cho Bên A, Bên B và Bên thứ ba (nếu có).
+•	Bên B bằng mọi biện pháp đảm bảo huy động nhân công đạt một số mốc nút thắt tiến độ, rút ngắn lại tiến độ bị trễ do lỗi của Bên B như tăng ca, làm đêm, làm ngoài giờ, làm việc ngày nghỉ, ngày lễ... và không được tính chi phí phát sinh cho Bên A.
+•	Thực hiện thi công các công tác phải đảm bảo ATLĐ và VSMT, phòng chống cháy nổ theo cam kết từ BCH.CT và pháp luật hiện hành. Đảm bảo sinh hoạt an toàn hàng ngày. Bên B phải duy trì mặt bằng thi công gọn gàng. Xà bần, rác thải tập kết đúng nơi quy định và vận chuyển đi theo quy định chung từ BCH.CT Bên A.
+•	Có biện pháp thi công tránh ảnh hưởng đến sản phẩm các các đơn vị khác trên công trường.
+•	Nghiệm thu từng giai đoạn thi công với Bên A (theo quy định được BCH.CT Bên A ban hành).
+•	Bên B đảm bảo rằng tất cả các công việc Bên B thực hiện theo hợp đồng này phải phù hợp với phương án kỹ thuật được duyệt, yêu cầu của Bên A, tuân thủ các tiêu chuẩn, quy chuẩn, tiêu chuẩn thiết kế và các quy định hiện hành, tuân thủ theo các quy định đã được ban hành bởi Bên A.
+•	Trường hợp Bên B thi công không đúng biện pháp kỹ thuật, thi công thiếu vật tư theo định mức hợp đồng hoặc sau khi hoàn thành xảy ra hiện tượng thấm nước thì sẽ tự khắc phục bằng chi phí của Bên B mà không đòi hỏi bất kỳ chi phí nào từ Bên A.
+•	Bằng kinh nghiệm của Bên B, Bên B phải thông báo kịp thời cho Bên A nếu phát hiện bất kỳ sai khác nào khác giữa thiết kế, hợp đồng và điều kiện hiện trường. Cảnh báo cho Bên A các tình huống có khả năng gây ra ảnh hưởng đến chất lượng của sản phẩm thi công của Bên B (với điều kiện cảnh báo là hợp lý, do lỗi của Bên A và có thể thực hiện được). Trong trường hợp Bên B không thông báo đến Bên A thì mặc nhiên trách nhiệm thuộc về Bên B và Bên B phải xử lý, khắc phục bằng chi phí của Bên B mà không đòi hỏi bất kỳ chi phí nào từ Bên A. 
+•	Tư vấn kỹ thuật và đưa ra biện pháp hiệu quả, dễ dàng cho công tác vận hành về sau. Chịu trách nhiệm xử lý các vướng mắc khi xảy ra sự cố về kỹ thuật trong phạm vi mà Bên B thi công.
+•	Nếu bất cứ hạng mục công trình thi công không đạt yêu cầu về kỹ thuật, chất lượng theo hồ sơ thiết kế, Bên B phải thực hiện và sửa chữa ngay các sai hỏng trong khoảng thời gian hợp lý và phải được sự thống nhất của Bên A (tối đa 48h00 kể từ lúc nhận được yêu cầu của Bên A).
+•	Bên B phải bố trí nhân sự BCH.CT đủ năng lực để phục vụ công tác thi công theo tiến độ công trình (theo cam kết và yêu cầu trong biên bản phỏng vấn thầu và hồ sơ mời thầu). Bộ máy BCH.CT của Bên B theo hợp đồng / Phụ lục hợp đồng này là tối thiểu, trường hợp không đáp ứng được yêu cầu và tiến độ thực tế tại công trường, Bên A có thể yêu cầu tăng số lượng mà không phát sinh bất kỳ chi phí nào cho Bên A.
+•	Danh sách các bộ phận, cá nhân phụ trách quản lý, theo dõi và thực hiện hợp đồng Bên B:
+1	P. Giám đốc	Lê Văn Tài	viendongvantai@gmail.com
+0909 236 727
+		Phụ trách đàm phán, thực hiện hợp đồng Bên B.
+2	CHT.CT	Trần Văn Linh	linhctviendong@gmail.com
+0989 757 555
+		Phụ trách quản lý triển khai thi công tại công trình
+
+13	Bảo hành công trình	Điều 8	•	Thời gian bảo hành: 12 tháng (Mười hai tháng) kể từ ngày ký biên bản nghiệm thu hoàn thành hạng mục công trình, công trình xây dựng và hoàn thành hồ sơ quyết toán. 
+•	Phạm vi bảo hành: Khắc phục, sửa chữa thay thế vật tư, sản phẩm hư hỏng, khiếm khuyết xảy ra do lỗi kỹ thuật thi công hoặc do vật tư Bên B cung cấp.
+•	Các nội dung khác theo quy định tại Điều khoản chung.
+	Mọi thay đổi, bổ sung nội dung hợp đồng này phải được lập thành phụ lục hợp đồng được đại diện có thẩm quyền của hai Bên ký xác nhận trước khi thực hiện.
+	Hợp đồng có hiệu lực kể từ ngày ký và sau khi hai Bên hoàn thành trách nhiệm, nghĩa vụ trong hợp đồng, thì hợp đồng tự động thanh lý.
+	Hợp đồng được lập thành 04 (bốn) bản Tiếng Việt có giá trị pháp lý ngang nhau, Bên A giữ 02 (hai) bản, Bên B giữ 02 (hai) bản./.
+
+HỢP ĐỒNG THI CÔNG XÂY DỰNG
+Số: 207/2024/HĐTCXD-BDH/BCONS-OVAN
+DỰ ÁN	: KHU CHUNG CƯ TÂN ĐÔNG HIỆP
+ĐỊA ĐIỂM	: PHƯỜNG TÂN ĐÔNG HIỆP, THÀNH PHỐ DĨ AN, TỈNH BÌNH DƯƠNG
+HẠNG MỤC	: CUNG CẤP VẬT TƯ, NHÂN CÔNG VÀMÁY THI CÔNG, THI CÔNG CỌC KHOAN NHỒI.
+Giữa
+CÔNG TY CỔ PHẦN ĐẦU TƯ XÂY DỰNG BCONS
+Và
+CÔNG TY TNHH KIẾN TRÚC XÂY DỰNG Ô VAN
+CĂN CỨ KÝ KẾT HỢP ĐỒNG
+-	Căn cứ Luật Xây dựng số 50/2014/QH13 ngày 18/6/2014;
+-	Căn cứ Luật số 62/2020/QH14 ngày 17/6/2020. Sửa đổi, bổ sung một số điều của Luật xây dựng;
+-	Căn cứ Văn bản hợp nhất Luật xây dựng số 07/VBHN-VPQH đã được sửa đổi, bổ sung một số điều theo Văn bản hợp nhất Luật xây dựng số 02/VBHN-VPQH ngày 15/07/2020; 
+-	Căn cứ bộ Luật Dân sự  số 91/2015/QH13 ngày 24/11/2015 của Quốc hội;
+-	Căn cứ Luật Đấu thầu số 22/2023/QH15 ngày 23/06/2023;
+-	Văn bản hợp nhất Luật Đấu thầu số 12/VBHN-VPQH ký ngày 04/7/2019;
+-	Căn cứ Nghị định số 136/2020/NĐ-CP ngày 24/11/2020 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Phòng cháy và chữa cháy và Luật sửa đổi, bổ sung một số điều của Luật Phòng cháy và chữa cháy;
+-	Căn cứ Nghị định 24/2024/NĐ-CP ngày 27/02/2024 của Chính phủ về việc quy định chi tiết thi hành một số điều của Luật Đấu thầu và lựa chọn nhà thầu;
+-	Căn cứ Nghị định số 10/2021/NĐ-CP ký ngày 9/2/2021 về việc quản lý chi phí đầu tư xây dựng;
+-	Căn cứ Nghị định số 37/2015/NĐ-CP ngày 22/4/2015 của Chính phủ quy định chi tiết về hợp đồng xây dựng;
+-	Căn cứ Nghị định số 06/2021/NĐ-CP ngày 26/01/2021 của Chính phủ về quy định chi tiết một số nội dung về quản lý chất lượng, thi công xây dựng và bảo trì công trình xây dựng;
+-	Căn cứ Nghị định số 15/2021/NĐ-CP ngày 03/3/2021 của Chính phủ quy định chi tiết một số nội dung về quản lý dự án đầu tư xây dựng công trình;
+-	Căn cứ Thông tư số 10/2021/TT-BXD ngày 25/08/2021 của Bộ xây dựng về việc Hướng dẫn một số điều và biện pháp thi hành Nghị định số 06/2021/NĐ-CP ngày 26 tháng 01 năm 2021 và Nghị định số 44/2016/NĐ-CP ngày 15 tháng 05 năm 2016 của Chính Phủ;
+-	Căn cứ Thông tư số 06/2022/TT-BXD ký ngày 30/11/2022 ban hành quy chuẩn kỹ thuật quốc gia về an toàn cháy cho nhà và công trình;
+-	Căn cứ Thông tư số 02/2023/TT-BXD ngày 30/03/2023 của Bộ Xây dựng về việc Hướng dẫn hợp đồng thi công xây dựng công trình;
+-	Căn cứ Điều khoản chung của các hợp đồng giao thầu thi công được ban hành theo Quyết định số 01/QĐ-KĐT ký ngày 04/01/2022 của Công ty Cổ phần Đầu tư Xây dựng Bcons;
+-	Các biên bản làm việc, biên bản phỏng vấn, trao đổi nội dung của gói thầu giữa Công ty Cổ phần Đầu tư Xây dựng Bcons và Công ty TNHH Kiến trúc Xây dựng Ô Van.
+Căn cứ nhu cầu và khả năng thực hiện của hai Bên
+Hôm nay, ngày 04 tháng 12 năm 2024, tại văn phòng Công ty Cổ phần Đầu tư Xây dựng Bcons, chúng tôi gồm các Bên dưới đây:
+	BÊN GIAO THẦU ("Bên A"):
+CÔNG TY CỔ PHẦN ĐẦU TƯ XÂY DỰNG BCONS
+•	Đại diện Ông	: HỒ KỲ LÂN	Chức vụ: Giám đốc Khối Thi công
+(Theo giấy ủy quyền số 19/UQ-BCONS ngày 02/10/2024)
+•	Địa chỉ	: 176/1-176/3 Nguyễn Văn Thương, Phường 25, quận Bình Thạnh, TP.HCM.
+•	Điện Thoại	: (028). 3512 9632	Fax: (028). 3512 9632
+•	Mã số thuế	: 0 3 1 2 1 7 3 5 3 7
+•	Tài khoản   	: 1350 951 997 tại Ngân hàng TMCP Đầu tư và Phát triển Việt Nam (BIDV) – Chi nhánh Gia định, TP.HCM.
+: 7008008 tại Ngân hàng TMCP Á Châu (ACB) – PGD Phạm Ngọc Thạch.
+	BÊN NHẬN THẦU ("Bên B"):
+CÔNG TY TNHH KIẾN TRÚC XÂY DỰNG Ô VAN
+•	Đại diện Ông	: VÕ VĂN CƯỜNG	Chức vụ: Giám đốc
+•	Địa chỉ	: 702/11G Lê Văn Lương, Xã Phước Kiển, Huyện Nhà Bè, TP.HCM
+•	Điện Thoại	: 0918 639 210	
+•	Mã số thuế	: 0 3 0 4 2 4 1 2 5 4
+•	Tài khoản   	: 280768 tại Ngân hàng TMCP Sài Gòn Thương Tín (Sacombank) – PGD Hoàng Hoa Thám, TP.HCM (Bên B xác nhận đây là số tài khoản duy nhất Bên A thanh toán và tạm ứng cho Bên B theo hợp đồng này).
+Sau khi thỏa thuận, hai Bên thống nhất ký kết hợp đồng này và đồng thời áp dụng Điều khoản chung của các hợp đồng giao thầu thi công được ban hành theo Quyết định số 01/QĐ-KĐT ký ngày 04/01/2022 của CÔNG TY CỔ PHẦN ĐẦU TƯ XÂY DỰNG BCONS.
+Hai Bên cũng đồng ý chỉnh sửa, bổ sung một số nội dung trong Điều khoản chung của các hợp đồng giao thầu thi công được ghi nhận cụ thể như sau:
+I.	Nguyên tắc chung khi hai Bên đàm phán, ký kết hợp đồng: 
+Bên A sẽ phối hợp với Bên B để cung cấp sản phẩm, công việc, dịch vụ tốt nhất cho Chủ đầu tư, Nhà thầu chính, Khách hàng của Bên A. Qua đó, hai Bên sẽ trở thành đối tác tin cậy, ổn định để cùng nhau phát triển cho tất cả các dự án về sau. 
+Do đó, khi đàm phán, báo giá, Bên B phải đảm bảo cung cấp sản phẩm, công việc, dịch vụ tốt nhất cho Bên A, bất kỳ đơn giá, chi phí nào khác có liên quan (bao gồm khoản chiết khấu, hoa hồng, quà tặng …) đều đã được Bên B loại trừ trong giá hợp đồng. Trường hợp trong quá trình thực hiện hợp đồng mà Bên B có bất kỳ khoản tiền chiết khấu, hoa hồng, quà tặng nào cho Nhân viên của Bên A thì các khoản đó được xem là nhằm che giấu sai sót, khuyết tật của sản phẩm, công việc, dịch vụ của Bên B. Khi đó, Bên A có thể đơn phương chấm dứt hợp đồng này bất kỳ lúc nào, Bên B phải chịu phạt và bồi thường toàn bộ giá trị hợp đồng cho Bên A.
+II.	Hợp đồng, hồ sơ đính kèm hợp đồng và thứ tự ưu tiên giải thích khi có sự mâu thuẫn giữa các tài liệu:
+Stt	Tên hồ sơ	Đính kèm	Ghi chú
+1	Hợp đồng này	Có	Những nội dung khác biệt giữa hợp đồng này và Điều khoản chung sẽ ưu tiên theo hợp đồng này.
+2	Điều khoản chung 	Có	
+3	Hồ sơ thiết kế, bản vẽ kỹ thuật (do Bên A cung cấp hoặc chấp thuận)	Có	
+4	Tiêu chuẩn kỹ thuật/Quy trình thi công	 Có	
+5	Bảng đơn giá/Khối lượng	Có	Đính kèm theo hợp đồng.
+6	Bảng tiến độ	Có	
+7	Catalogue	Có	Theo yêu cầu chủng loại vật tư cụ thể sử dụng.
+8	Quy định thưởng - phạt việc không tuân thủ công tác an toàn lao động, vệ sinh trên công trường.	Có	Quy định tại Điều khoản chung
+9	Hồ sơ mời thầu, hồ sơ dự thầu các biên bản làm việc, các email phản hồi cung cấp thông tin trong quá trình dự thầu.	Có	
+	Các phụ lục khác	Có	Phụ lục hợp đồng số 01.
+III.	 Nội dung hợp đồng:
+Stt	Nội dung	Tham chiếu Điều khoản chung	Kết quả đàm phán
+1	Tên công trình
+Địa điểm thi công.	Điều 1	Tên công trình: KHU CHUNG CƯ TÂN ĐÔNG HIỆP
+Địa điểm: PHƯỜNG TÂN ĐÔNG HIỆP, THÀNH PHỐ DĨ AN, TỈNH BÌNH DƯƠNG
+2	Nội dung hợp đồng và phạm vi công việc	Điều 2	Bên A đồng ý giao và Bên B đồng ý nhận “Cung cấp vật tư, nhân công và máy thi công, thi công cọc khoan nhồi” tại công trình của Bên A.
+	Phạm vi chính công việc của Bên B: 
+•	Cung cấp trọn gói vật tư, nhân công, máy thi công cọc khoan nhồi theo bản vẽ Bên A ban hành và phê duyệt.
+•	Các công tác để đảm bảo thi công theo đúng tiêu chuẩn kỹ thuật hiện hành, hồ sơ thiết kế bản vẽ thi công được Bên A phê duyệt và ban hành.
+•	Bên B phải đảm bảo thi công đạt chất lượng theo cam kết, phù hợp theo Tiêu chuẩn, quy chuẩn hiện hành và yêu cầu kỹ thuật theo hồ sơ thiết kế bản vẽ thi công được Bên A ban hành và được BCH.CT Bên A chấp thuận.
+(Chi tiết công việc theo Phụ lục hợp đồng số 01).
+3	Giá trị hợp đồng và loại hợp đồng	Điều 4		Giá trị hợp đồng: Giá trị hợp đồng chưa bao gồm thuế VAT là: 42.000.000.000 VND.
+(Bằng chữ: Bốn mươi hai tỷ đồng chẵn./.).
+	Loại hợp đồng:
+•	Loại hợp đồng trọn gói theo Hồ sơ thiết kế (bản vẽ, chỉ dẫn kỹ thuật) được Bên A ban hành hoặc chấp thuận.
+•	Giá trị được điều chỉnh khi: Khi Chủ đầu tư thay đổi bản vẽ và giá trị phát sinh được phê duyệt từ Ban Giám đốc Bên A. Giá trị khối lượng điều chỉnh chỉ tính theo đơn giá trong hợp đồng (không tính thêm các chi phí khác), chỉ được thực hiện khi có thông báo bằng văn bản của Bên A và tiến hành ký phụ lục hợp đồng để làm cơ sở để thanh toán.
+•	Nếu Bên B không thực hiện một trong số các hạng mục trong bảng chi tiết giá trị hợp đồng trọn gói thì giá trị quyết toán hợp đồng bằng giá trị hợp đồng trọn gói trừ đi giá trị các hạng mục không thực hiện thực tế mà Bên B phải cung cấp nguồn lực để thực hiện. Việc không thực hiện hạng mục nào trong hợp đồng sẽ do đại diện Chủ đầu tư quyết định.
+4	Đơn giá			Đơn giá trọn gói bao gồm: 
+•	Toàn bộ các khâu chuẩn bị như vệ sinh khu vực thi công, hoàn thiện, căng dây cảnh báo và vận chuyển bùn đất, đá, bentonite, rác thải của Bên B… ra khỏi công trình sau khi thi công để hoàn thành một khối lượng công việc.
+•	Toàn bộ vật tư, vật tư phụ, nhân công và máy móc, thiết bị thi công, các vật tư phụ và các chi phí khác cần thiết để hoàn thành các hạng mục công việc theo khối lượng bản vẽ Bên A ban hành kèm theo hợp đồng.
+•	Chi phí khoan giếng sử dụng nước và bàn giao lại giếng và bơm cho Bên A sau khi thi công.
+•	Chi phí thi công cầu rửa xe, máy thổi rửa, nhân công xịt rửa xe, vệ sinh công trường và vệ sinh đường khu vực công cộng gây ra bởi Bên B.
+•	Chi phí trắc đạc, định vị tim mốc trong quá trình thi công (Bên A chỉ cung cấp mốc GPS).
+•	Chi phí xử lý vật cản ngầm trong giới hạn từ mặt đất tự nhiên đến độ sâu 3m. Đối với các vật cản ngầm có độ sâu trên 3m thì chi phí xử lý này sẽ được hai bên thương lượng và xác định.
+•	Chi phí thí nghiệm kiểm tra, xác định chất lượng công việc Nhà thầu thực hiện đầy đủ theo TCVN như: Thí nghiệm, kiểm tra vật tư trước khi thi công v.v...
+•	Chi phí đảm bảo phục vụ công tác thi công, an toàn lao động thi công trong mùa mưa, căng cờ cảnh báo hố đào, hố khoan.
+•	Bảo quản các thiết bị, vật tư, vật dụng hiện trạng của Bên B hoặc các thiết bị, vật dụng Bên A cấp cho Bên B sử dụng (nếu có). Đai kiện lại vật tư, thiết bị bàn giao lại cho Bên A. Bảo vệ nội bộ kho bãi và khu vực thi công của Bên B.
+•	Ban chỉ huy của Bên B, văn phòng BCH duy trì trong suốt thời gian xây dựng, vẽ biện` pháp, vẽ shopdrawing in ấn và trình duyệt trước thi công, chi phí lập, vẽ và in ấn trình duyệt bản vẽ hoàn công. Chi phí bảo hiểm công nhân, kỹ sư trong thời gian thi công và các bảo hộ lao động cần thiết.
+•	Toàn bộ chi phí tiện ích công trường của Bên B để phục vụ thi công hoàn thành công việc. Chi phí sử dụng điện, nước Bên B phải trả theo số tiền do BCH.CT Bên A phân bổ thực tế, chi phí tiện ích công trường cho BCH.CT Bên A hoặc 01 Nhà thầu của Bên A chỉ định thu để chi trả chi phí cho đơn vị cung cấp tiện ích công trường.
+•	Chi phí vận chuyển vật tư, nhân công, máy thi công để thi công và vận chuyển đi để giao trả mặt bằng khi hoàn thành công việc (bao gồm chi phí tole lót đường khi vận chuyển máy móc thi công và các khâu chuẩn bị mặt bằng thi công). Trường hợp trong quá trình thi công máy móc Bên B bị sự cố, hư hỏng phải sửa chữa quá 48h00 thì Bên B phải bố sung máy móc thiết bị thi công để đáp ứng theo tiến độ cam kết.
+•	Đền bù nhà dân, công trình hiện hữu nếu lỗi gây ra do máy móc thiết bị của Bên B gây ra.
+•	Chi phí in ấn và hoàn thành hồ sơ thanh toán, quyết toán, bản vẽ hoàn công.
+Các công việc không thuộc phạm vi công việc được liệt kê trong phạm vi công việc của Bên A và Bên B, nhưng thực tế phải thực hiện để hoàn thành sản phẩm hoặc công việc của Bên B thì mặc nhiên trách nhiệm thuộc về Bên B, Bên B phải thực hiện và Bên B đã tính toán chi phí đó vào giá dự thầu.
+	Đơn giá không bao gồm: 
+•	Thí nghiệm xác định cường độ đá theo từng móng / hố khoan (nếu có).
+•	Khảo sát / hồ sơ báo cáo quan trắc lún.
+•	Xử lý cơ sở hạ tầng hiện hữu ngầm trong lòng đất (Cáp, đường điện, viễn thông, ống nước, hố ga).
+•	Hàng rào công trường, cổng công trường.
+•	Chi phí thi công đài cọc liên kết vào móng.
+•	Chi phí giải phóng, tháo dỡ công trình hiện hữu.
+•	Đơn giá chưa bao gồm thuế giá trị gia tăng VAT (phần thuế giá trị gia tăng VAT sẽ được xuất và thanh toán theo quy định của Nhà nước tại thời điểm xuất hóa đơn).
+•	Bảo hiểm công trình (bao gồm các công trình lân cận và Bên thứ ba). Bảo hiểm công nhân, kỹ sư, máy móc thiết bị nội bộ Bên B đã bao gồm.
+5	Điều kiện - tiêu chuẩn kỹ thuật, chất lượng, bàn giao hạng mục
+Thành phần nghiệm thu.	Điều 7		Điều kiện, tiêu chuẩn kỹ thuật, chất lượng:
+•	Theo Tiêu chuẩn Việt Nam (TCVN).
+•	Bản vẽ thiết kế, chỉ dẫn kỹ thuật được Chủ đầu tư ban hành hoặc chấp thuận.
+•	Thuyết minh, chỉ dẫn kỹ thuật (Spec).
+	Thành phần nghiệm thu:
+•	Chỉ huy trưởng / Ban chỉ huy công trình.
+•	Tư vấn giám sát.
+•	Đại diện Bên A chỉ định / Đại diện Chủ đầu tư.
+6	Bảo lãnh thực hiện hợp đồng	Điều 5		Bảo lãnh thực hiện hợp đồng: Không áp dụng.
+7	Tạm ứng	Điều 5		Tạm ứng hợp đồng: Bên A sẽ tạm ứng cho Bên B 15% giá trị hợp đồng trước thuế với số tiền là: 6.300.000.000 VND.
+(Bằng chữ: Sáu tỷ, ba trăm triệu đồng chẵn./.).
+•	Thời hạn tạm ứng: Trong vòng 25 ngày làm việc, kể từ ngày ký kết hợp đồng và Bên A nhận được hồ sơ tạm ứng hợp lệ từ Bên B.
+•	Hồ sơ tạm ứng bao gồm:
++ Giấy đề nghị tạm ứng.
+	Bảo lãnh tạm ứng: Không áp dụng
+8	
+Thanh toán 
+	Điều 5		Thanh toán:
+•	Bên A thanh toán cho Bên B theo từng tháng, ngày nộp hồ sơ là ngày 20 hàng tháng. Mỗi đợt thanh toán Bên A sẽ thanh toán cho Bên B 85% giá trị được nghiệm thu (sau VAT) sau khi được các Bên tham gia nghiệm thu xác nhận.
+•	Tạm ứng được khấu trừ dần đều qua các đợt thanh toán. Khi Bên A thanh toán đến 80% giá trị hợp đồng thì sẽ thu hồi 100% giá trị tạm ứng.
+•	Hạng mục sơ bộ (Preliminary) thanh toán theo từng tháng được tính theo tỷ lệ phần trăm tương ứng giá trị khối lượng được nghiệm thu hoàn thành trên giá trị khối lượng hợp đồng và được BCH.CT Bên A nghiệm thu xác nhận.
+•	Thời gian thanh toán: Theo quy định thanh toán số ĐT.QT03Rev003 ký ngày 07/10/2023 được ban hành bởi Bên A.
+•	Bên A có quyền tạm ngưng thanh toán cho Bên B theo Hợp đồng này nếu Bên B chậm thực hiện việc bảo hành / bảo trì, không tuân thủ việc bảo hành / bảo trì theo quy định ở các Dự án của Bên A mà Bên B đã thi công trước đó hoặc các hành vi trực tiếp hoặc gián tiếp gây ảnh hưởng tới Uy tín và thương hiệu của Bên A mà Bên A đã có biên bản hoặc công văn nhắc nhở 03 (ba) lần. Các khoản chi phí thiệt hại gây ra bởi vấn đề này Bên B chịu trách nhiệm bồi thường cho Bên A và chi phí được khấu trừ trực tiếp vào giá trị thanh toán của Hợp đồng này.
+9	Quyết toán	Điều 5		Quyết toán:
+•	Quyết toán Bên A sẽ thanh toán cho Bên B đến 95% giá trị được nghiệm thu (sau thuế VAT). Sau khi Bên B được xác nhận đã thực hiện xong các công việc của gói thầu (bao gồm biên bản nghiệm thu hoàn thành hạng mục công trình, công trình xây dựng) và hoàn thành hồ sơ quyết toán.
+•	Giá trị đảm bảo bảo hành trị giá 05% giá trị quyết toán cho công tác bảo hành 12 tháng tính từ ngày ký biên bản nghiệm thu hoàn thành hạng mục công trình, công trình xây dựng và hoàn thành hồ sơ quyết toán các hạng mục thuộc phạm vi hợp đồng này. Trong đó:
+-	6 tháng đầu giữ bằng tiền mặt.
+-	6 tháng tiếp theo Bên B cung cấp chứng thư bảo lãnh bảo hành không hủy ngang vô điều kiện của ngân hàng (theo mẫu Bên A ban hành) đang nắm giữ tài khoản Bên B để nhận 05% giá trị quyết toán còn lại. Bên A có quyền cấn trừ các chi phí đã bỏ ra sửa chữa trong quá trình bảo hành (nếu Bên B không thực hiện). Bên B cam kết sẽ thanh toán lại các chi phí này cho Bên A. Đến hết thời gian hết hạn bảo hành Bên B phải cung cấp biên bản xác nhận hết thời hạn bảo hành có xác nhận của Bên A thì chứng thư mới được giải tỏa.
+Nếu Bên B không thực hiện một trong số các hạng mục trong bảng phụ lục hợp đồng đính kèm, thì giá trị quyết toán bằng giá trị hợp đồng trọn gói trừ đi giá trị của một số các hạng mục không thực hiện trong bảng phụ lục hợp đồng đính kèm.
+•	Thời gian quyết toán: Theo quy định quyết toán số ĐT.QT04Rev003 ký ngày 07/10/2023 được ban hành bởi Bên A
+•	Bên A có quyền khấu trừ giá trị bảo hành của Bên B theo Hợp đồng này nếu Bên B chậm thực hiện việc bảo hành / bảo trì, không tuân thủ việc bảo hành / bảo trì theo quy định ở các Dự án của Bên A mà Bên B đã thi công trước đó và Bên A đã có biên bản hoặc công văn nhắc nhở 03 (ba) lần. Các khoản chi phí thiệt hại gây ra bởi vấn đề này Bên B chịu trách nhiệm bồi thường cho Bên A và chi phí được khấu trừ trực tiếp vào giá trị bảo hành của Hợp đồng này.
+10	Thành phần, số lượng hồ sơ thanh toán, quyết toán	Điều 5		Theo quy định tại Điều khoản chung.
+11	Thời gian và tiến độ thực hiện	Điều 3		Tiến độ:
+•	Tiến độ thi công được tính bằng ngày, kể cả chủ nhật, không kể ngày nghỉ lễ theo quy định Nhà nước, cụ thể như sau:
+•	Tổng tiến độ thi công: 222 ngày. (Thời gian bao gồm toàn bộ từ khâu chuẩn bị, thi công, defect, vệ sinh hoàn thiện sản phẩm và bàn giao).
+•	Ngày bắt đầu tính tiến độ được tính từ lúc Bên B nhận bàn giao mặt bằng thi công từ Bên A. Thời gian tính tiến độ thực tế theo tiến độ cam kết tại công trường tùy vào thời điểm nhưng không được vượt quá thời gian thi công trong hợp đồng.
+•	Trường hợp Bên B ký lại tiến độ với BCH.CT (không vượt tiến độ trong hợp đồng), thì tiến độ ký lại với BCH.CT lấy làm cơ sở để phạt nếu Bên B chậm tiến độ thi công.
+•	Trường hợp Bên A chậm trễ duyệt mẫu, shopdrawing, … thì Bên B được cộng số ngày trễ vào tiến độ. Bên B đệ trình tối thiểu trước 72h00 để trình duyệt (chưa bao gồm thời gian điều chỉnh, chỉnh sửa theo yêu cầu Bên A).
+12	Trách nhiệm và quyền hạn của các Bên	Điều 6		Trách nhiệm và quyền hạn của Bên A: 
+•	Cung cấp cho Bên B bản vẽ thiết kế đã được phê duyệt.
+•	Chịu trách nhiệm bàn giao mặt bằng thi công cho Bên B để đảm bảo tiến độ thi công công trình. Chịu trách nhiệm đại diện để giải quyết các vướng mắc liên quan với chính quyền địa phương để đảm bảo đủ điều kiện cho Bên B thi công.
+•	Thông báo đại diện của Bên A và thông báo đại diện Tư vấn của Bên A (nếu có) chính thức cho Bên B (bao gồm danh sách người đại diện, chức năng và nhiệm vụ) để giải quyết tất cả công việc liên quan tới việc tiến hành và thực hiện hợp đồng.
+•	Tạo mọi điều kiện thuận lợi cho Bên A hoàn thành công việc. 
+•	Cung cấp vị trí kho bãi cho Bên B.
+•	Bàn giao mốc tọa độ chuẩn và cao độ chuẩn cho Bên B trước khi thi công.
+•	Cử cán bộ kỹ thuật có đầy đủ chức năng, quyền hạn để quản lý, giám sát và nghiệm thu cho Bên B.
+•	Cung cấp nguồn chính điện, nước phục vụ cho công tác thi công của Bên B, nhưng Bên B chịu trách nhiệm thanh toán tất cả chi phí liên quan đến quá trình sử dụng điện và nước theo chỉ số đồng hồ tiêu thụ điện và nước tương ứng.
+•	Cung cấp cho Bên B các tài liệu, hồ sơ liên quan đến công trình trong phạm vi cho phép.
+•	Thực hiện việc kiểm tra, phê duyệt hồ sơ thanh toán, quyết toán của Bên B và thực hiện việc thanh toán cho Bên B theo đúng quy định của hợp đồng.
+•	Tạo điều kiện, phối hợp, cung cấp đầy đủ thông tin để Bên B thi công thuận tiện phù hợp tiến độ cũng như đồng bộ với các hạng mục khác có liên quan của Bên A.
+•	Bên A có quyền lập biên bản phạt nếu Bên B không tuân thủ các quy trình, quy định được BCH.CT ban hành cũng như vi phạm về ATLĐ, VSMT, chất lượng theo quy định tại Điều khoản chung.
+•	Bên A có quyền tạm ngưng công tác thi công nếu Bên B không tuân thủ biện pháp thi công, thi công không an toàn, kém chất lượng, thi công không đảm bảo tiến độ, bỏ dở công trình hoặc không có lý do chính đáng mà lại không tiếp tục công trình, thể hiện rõ ràng ý định không tiếp tục thực hiện nghĩa vụ theo hợp đồng… Nếu Bên B liên tục vi phạm, không tuân thủ biện pháp Bên A có quyền đơn phương chấm dứt hợp đồng yêu cầu bồi thường thiệt hại (nếu có).
+•	Bên A có quyền tạm ngưng thanh toán cho Bên B đến khi Bên B hoàn thành khắc phục các vấn đề có xác nhận bằng văn bản từ Đại diện Bên A nếu Bên B vi phạm không tuân thủ biện pháp thi công, thi công không an toàn, kém chất lượng, thi công không đảm bảo tiến độ của Dự án.
+•	Có quyền yêu cầu kiểm tra chất lượng cọc thông qua kết quả nén mẫu R7. Kiểm tra tại chỗ tại nhà máy sản xuất Bên B hoặc kiểm tra tại Bên cơ quan thứ 3 do Bên A chỉ định (nhưng không vượt quá 40km từ nhà máy Bên B).
+•	Bên A phản hồi thông tin các công việc liên quan trong vòng 48h00 khi nhận được thông tin từ Bên B.Danh sách các bộ phận, cá nhân phụ trách quản lý, theo dõi và thực hiện hợp đồng (lưu ý Bên B không được liên hệ, làm việc vượt cấp theo quy định của Bên A. Trường hợp Bên B liên hệ và làm việc vượt cấp, Bên A sẽ phạt theo quy định):
+1	Giám đốc Khối Đấu thầu	Vương Huy Thăng	Thangvh@bcons.com.vn
+0906 795 286
+		Phụ trách quản lý, theo dõi thực hiện hợp đồng.
+2	Giám đốc Khối Thi công	Hồ Kỳ Lân	lanhk@bcons.com.vn
+0903 648 790
+		Phụ trách quản lý Khối thi công.
+3	CHT.CT	Đào Tăng Định	dinhdt@bcons.com.vn 
+0792 284 777 
+		Phụ trách quản lý, triển khai thi công ở công trình.
+	Trách nhiệm và quyền hạn của Bên B:
+•	Lập kế hoạch vật tư, thi công, biện pháp thi công trình Bên A phê duyệt và cung cấp trong vòng 7 ngày trước khi thi công. Cung cấp cho Bên A khối lượng vật tư chi tiết trước mỗi giai đoạn thi công.
+•	Trình vật tư (bao gồm chi phí thí nghiệm vật liệu đầu vào theo tiêu chuẩn, theo luật quy định hiện hành, spec, v.v..) của dự án trước khi đưa vào sử dụng hoặc khi có sự nghi ngờ của Bên A về chất lượng. Các chi phí liên quan đến biện pháp thi công và trình biện pháp thi công, bản vẽ Shopdrawing cho Bên A phê duyệt trước khi thi công.
+•	Khi thi công sử dụng nước sạch và phù hợp được Bên A chấp thuận để thổi rửa cọc nhồi, có bồn chứa bentonite để thi công cọc nhồi.
+•	Bên B khoan giếng để phục vụ thi công và bàn giao lại cho Ban chỉ huy công trình khi thi công xong (bao gồm máy bơm).
+•	Thực hiện kiểm soát vật tư, thiết bị kho bãi và hoàn trả lại vật tư, thiết bị, kho bãi ….. nếu được Bên A cung cấp. 
+•	Mọi sự cố xảy ra do lỗi của Bên B thì Bên B đều phải tự xử lý bằng kinh phí của mình và vẫn phải đảm bảo tiến độ thi công đã thỏa thuận.
+•	Trong quá trình thi công, nếu xảy ra sự cố ảnh hưởng đến Bên thứ ba thì Bên B phải hoàn toàn chịu trách nhiệm, bao gồm cả chi phí bồi hoàn các thiệt hại. 
+•	Bên B đã khảo sát vị trí công trình, đường giao thông và hiện trạng cổng ra vào và đã tính toán đến các phương án an toàn giao thông, tải trọng xe vận chuyển thiết bị, vật tư cho công trình đã đủ điều kiện để đưa máy móc, thiết bị thi công theo yêu cầu thiết kế vào bên trong công trình. Nếu việc vận chuyển máy móc thiết bị trong quá trình thi công làm ảnh hưởng đến đường, nhà dân,… xung quanh dự án mà nguyên nhân do lỗi chủ quan của Bên B thì Bên B phải chịu chi phí xử lý, khắc phục, đền bù….
+•	Tự cung cấp máy và nhân sự trắc đạc triển khai tim mốc trong quá trình thi công.
+•	Bên B chịu trách nhiệm bồi thường mọi thiệt hại, mất mát hay hư hỏng về tài sản, vật tư, trang thiết bị cho Bên A do lỗi của Bên B gây ra trong quá trình thi công. Việc đền bù được thực hiện sau khi các Bên lập biên bản xác nhận có thiệt hại, mất mát, hư hỏng xảy ra. Trường hợp Bên B không thực hiện đền bù thì Bên A sẽ cấn trừ chi phí này khi thanh toán cho Bên B.
+•	Tiếp nhận mặt bằng từ các đơn vị thi công khác để thi công và sau khi thi công xong, Bên B phải bàn giao mặt bằng thi công của Bên B cho các đơn vị khác thi công được. Trường hợp Bên B không nhận mặt bằng phải có biên bản ghi nhận lý do nếu mặt bằng không đảm bảo. Nếu Bên B không chứng minh được vấn đề trên thì mặc nhiên trách nhiệm thuộc về Bên B
+•	Bảo hiểm cho thiết bị, người lao động trong quá trình thi công công trình theo quy định của Nhà nước. Bên B tự chịu trách nhiệm về an toán lao động trong suốt thời gian thi công, các thiệt hại do tai nạn lao động đối với cá nhân do đơn vị mình quản lý và những tổn thất do Bên B gây nên trong quá trình thi công công trình theo quy định của Nhà nước. Nếu Bên B gây thiệt hại về tài sản hay về người Bên B phải bồi thường ngay lập tức và phải chủ động khắc phục sửa chữa, bồi thường tất cả các chi phí mà pháp luật quy định bao gồm cả những thiệt hại, mất mát hay những chi phí thực tế phát sinh do hậu quả từ việc này gây ra cho Bên A, Bên B và Bên thứ ba (nếu có).
+•	Bên B bằng mọi biện pháp đảm bảo huy động nhân công đạt một số mốc nút thắt tiến độ, rút ngắn lại tiến độ bị trễ do lỗi của Bên B như tăng ca, làm đêm, làm ngoài giờ, làm việc ngày nghỉ, ngày lễ... và không được tính chi phí phát sinh cho Bên A.
+•	Thực hiện thi công các công tác phải đảm bảo ATLĐ và VSMT, phòng chống cháy nổ theo cam kết từ BCH.CT và pháp luật hiện hành. Đảm bảo sinh hoạt an toàn hàng ngày. Bên B phải duy trì mặt bằng thi công gọn gàng. Xà bần, rác thải tập kết đúng nơi quy định và vận chuyển đi theo quy định chung từ BCH.CT Bên A.
+•	Có biện pháp thi công tránh ảnh hưởng đến sản phẩm các các đơn vị khác trên công trường.
+•	Nghiệm thu từng giai đoạn thi công với Bên A (theo quy định được BCH.CT Bên A ban hành).
+•	Bên B đảm bảo rằng tất cả các công việc Bên B thực hiện theo hợp đồng này phải phù hợp với phương án kỹ thuật được duyệt, yêu cầu của Bên A, tuân thủ các tiêu chuẩn, quy chuẩn, tiêu chuẩn thiết kế và các quy định hiện hành, tuân thủ theo các quy định đã được ban hành bởi Bên A. Chịu trách nhiệm liên quan đến các vấn đề về thi công do quá trình thi công hoặc sản phẩm của Bên B gây ra.
+•	Trường hợp Bên B thi công không đúng biện pháp kỹ thuật, thi công thiếu vật tư theo định mức hợp đồng hoặc sau khi hoàn thành xảy ra hiện tượng thấm nước thì sẽ tự khắc phục bằng chi phí của Bên B mà không đòi hỏi bất kỳ chi phí nào từ Bên A.
+•	Bằng kinh nghiệm của Bên B, Bên B phải thông báo kịp thời cho Bên A nếu phát hiện bất kỳ sai khác nào khác giữa thiết kế, hợp đồng và điều kiện hiện trường. Cảnh báo cho Bên A các tình huống có khả năng gây ra ảnh hưởng đến chất lượng của sản phẩm thi công của Bên B (với điều kiện cảnh báo là hợp lý, do lỗi của Bên A và có thể thực hiện được). Trong trường hợp Bên B không thông báo đến Bên A thì mặc nhiên trách nhiệm thuộc về Bên B và Bên B phải xử lý, khắc phục bằng chi phí của Bên B mà không đòi hỏi bất kỳ chi phí nào từ Bên A. 
+•	Tư vấn kỹ thuật và đưa ra biện pháp hiệu quả, dễ dàng cho công tác vận hành về sau. Chịu trách nhiệm xử lý các vướng mắc khi xảy ra sự cố về kỹ thuật trong phạm vi mà Bên B thi công.
+•	Nếu bất cứ hạng mục công trình thi công không đạt yêu cầu về kỹ thuật, chất lượng theo hồ sơ thiết kế, Bên B phải thực hiện và sửa chữa ngay các sai hỏng trong khoảng thời gian hợp lý và phải được sự thống nhất của Bên A (tối đa 48h00 kể từ lúc nhận được yêu cầu của Bên A).
+•	Bên B phải bố trí nhân sự BCH.CT đủ năng lực để phục vụ công tác thi công theo tiến độ công trình (theo cam kết và yêu cầu trong biên bản phỏng vấn thầu và hồ sơ mời thầu). Bộ máy BCH.CT của Bên B theo Hợp đồng / Phụ lục hợp đồng này là tối thiểu, trường hợp không đáp ứng được yêu cầu và tiến độ thực tế tại công trường, Bên A có thể yêu cầu tăng số lượng mà không phát sinh bất kỳ chi phí nào cho Bên A.
+•	Danh sách các bộ phận, cá nhân phụ trách quản lý, theo dõi và thực hiện hợp đồng Bên B:
+1	Giám đốc	Võ Văn Cường	congty.ovan@gmail.com
+0918 639 210
+		Phụ trách đàm phán, thực hiện hợp đồng Bên B.
+2	CHT.CT	Nguyễn Đình Phúc	phuongthinh.cic@gmail.com 0908 164 828
+		Phụ trách quản lý triển khai thi công tại công trình
+
+13	Bảo hành công trình	Điều 8	•	Thời gian bảo hành: 12 tháng (Mười hai tháng) kể từ ngày ký biên bản nghiệm thu hoàn thành hạng mục công trình, công trình xây dựng và hoàn thành hồ sơ quyết toán. 
+•	Phạm vi bảo hành: Khắc phục, sửa chữa thay thế vật tư, sản phẩm hư hỏng, khiếm khuyết xảy ra do lỗi kỹ thuật thi công hoặc do vật tư Bên B cung cấp.
+•	Các nội dung khác theo quy định tại Điều khoản chung.
+	Mọi thay đổi, bổ sung nội dung hợp đồng này phải được lập thành phụ lục hợp đồng được đại diện có thẩm quyền của hai Bên ký xác nhận trước khi thực hiện.
+	Hợp đồng có hiệu lực kể từ ngày ký và sau khi hai Bên hoàn thành trách nhiệm, nghĩa vụ trong hợp đồng, thì hợp đồng tự động thanh lý.
+	Hợp đồng được lập thành 04 (bốn) bản Tiếng Việt có giá trị pháp lý ngang nhau, Bên A giữ 02 (hai) bản, Bên B giữ 02 (hai) bản./.
 
 
