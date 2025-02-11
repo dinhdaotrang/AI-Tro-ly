@@ -2234,4 +2234,146 @@ Văn hóa chữ tín – Giá trị cốt lõi làm nên thành công
 
 Chính những giá trị đó đã giúp anh Nguyễn Hoàng Long trở thành một nhà quản lý xuất sắc, góp phần đưa Dự án Tâm Đông Hiệp phát triển mạnh mẽ và khẳng định uy tín trên thị trường xây dựng.
 Tiến độ thi công đến ngày hôm nay : Cọc ép : 26/200, cọc khoan nhồi cẩu tháp 7/16
+1	DA0172	Vương Huy Thăng	Giám đốc khối	Đại học Bách Khoa - Đại học Quốc gia Thành phố Hồ Chí Minh	Kỹ sư xây dựng dân dụng và công nghiệp	2010	Hạng 1	"- Hạng I: Quản lý dự án đầu tư xây dựng - Quản lý dự án đầu tư xây dựng công trình dân dụng và công nghiệp (T6/2025)
+- Hạng I: Giám sát công tác xây dựng công trình dân dụng - công nghiệp và hạ tầng kỹ thuật. (Đã hết hạn)
+- Hạng I: Thiết kế xây dựng công trình - Thiết kế kết cấu công trình (T7/2029)"	090 679 5286	Thangvh@bcons.com.vn
+II	QS	Phòng QS					KTC			
+1	TC0173	Trần Thanh Đông	QS	Đại học Bách Khoa - Đại học Quốc gia Thành phố Hồ Chí Minh	Kỹ sư xây dựng dân dụng và công nghiệp	2018			090 495 1710	dongtt@bcons.com.vn
+2	BC1073	Nguyễn Thị Thanh Thủy	QS	Cao đẳng Xây dựng thành phố Hồ Chí Minh	Quản lý xây dựng	2024			034 394 8495	thuyntt@bcons.com.vn
+3	TC0540	Bùi Quang Đại	QS	Đại học Bách Khoa - Đại học Quốc gia Thành phố Hồ Chí Minh	Cảng - công trình biển 	2024			098 165 7427	daibq@bcons.com.vn
+4	TE0447	Nguyễn Tuấn Anh	QS MEP	Đại học Giao Thông Vận Tải TP. Hồ Chí Minh	Điện Công Nghiệp	2021			037 742 9354	anhntu@bcons.com.vn
+5	BC1063	Lê Hiếu	QS	Đại học Bách Khoa - Đại học Quốc gia Thành phố Hồ Chí Minh	Kỹ sư xây dựng dân dụng và công nghiệp	2020	Hạng 3	Hạng 3: Giám sát thi công xây dựng công trình - Giám sát công tác xây dựng công trình dân dụng - công nghiệp và hạ tầng kỹ thuật	097 714 8819	hieule@bcons.com.vn
+6	BC1059	Ngư Thành Danh	QS	Cao đẳng Xây dựng thành phố Hồ Chí Minh	Kỹ thuật công trình xây dựng	2020			034 215 3252	danhngt@bcons.com.vn
+III		Điện Trung Thế					KTC			
+1		Đào Trung Hòa	TT Điện Trung Thế						091 821 1000	hoadtr@bcons.com.vn
+IV	KTC-PKH	Khối TC-Phát Khang và Greenland					KTC			
+1	TC0425	Nguyễn Văn Ngọ	Chỉ Huy Trưởng	Đại học Giao Thông Vận Tải TP. Hồ Chí Minh	Kỹ sư kỹ thuật xây dựng công trình giao thông (Xây dựng cầu đường)	2013	Hạng 3	- Hạng 3: Giám sát công tác xây dựng công trình dân dụng - công nghiệp.	097 929 9780	ngonv@bcons.com.vn
+2	TC0150	Đoàn Văn Thắng	Trưởng tháp	Đại học Kỹ Thuật Công Nghệ Tp.HCM	Kỹ thuật xây dựng công trình dân dụng và công nghiệp	2008	Hạng 1	- Hạng 1: Giám sát công tác xây dựng công trình dân dụng - công nghiệp và hạ tầng kỹ thuật.	098 103 8178	thangdv@bcons.com.vn
+3	TC0288	Nguyễn Bảo Vũ	GS ATLĐ	Đại học Ngô Quyền	Công nghệ kỹ thuật công trình xây dựng	2015			090 139 3779	Vunb@bcons.com.vn
+4	TC0459	Hà Thị Kim Trâm	QA/QC	Đại học Bách khoa Đà Nẵng	Kỹ thuật công trình xây dựng	2019			079 239 614	tramhtk@bcons.com.vn
+5	TC0363	Nguyễn Vũ Ký	GS hiện trường XD	Trường Cao đẳng Cần Thơ	Kỹ thuật công trình xây dựng	2015			094 584 3459	Kynv@bcons.com.vn
+6	TC0314	Nguyễn Đình Chương	GS hiện trường XD	Trường cao đẳng kỹ nghệ II	Kỹ thuật xây dựng dân dụng và công nghiệp	2020			097 212 4336	Chuongnd@bcons.com.vn
+7	TC0342	Nguyễn Thanh Bòng	GS hiện trường XD	Đại Học Quy Nhơn	Kỹ thuật xây dựng dân dụng và công nghiệp	2015	Hạng 2	- Hạng 2: Giám sát công tác xây dựng công trình dân dụng - công nghiệp và hạ tầng kỹ thuật	093 414 4609	bongnt@bcons.com.vn
+8	TC0353	Lưu Ngọc Oanh	GS hiện trường XD	Đại Học Tôn Đức Thắng	Kỹ thuật xây dựng dân dụng và công nghiệp	2013	Hạng 2	- Hạng 2: Giám sát công tác xây dựng công trình dân dụng - công nghiệp và hạ tầng kỹ thuật. (Đã hết hạn)	090 341 6238	Oanhln@bcons.com.vn
+9	TC0348	Nguyễn Minh Hòa	GS hiện trường XD	Đại Học Tôn Đức Thắng	Kỹ thuật xây dựng dân dụng và công nghiệp	2015			094 789 2669	Hoanm@bcons.com.vn
+V	KTC-BCT	Khối TC-Bcons City					KTC			
+1	TC0175	Nguyễn Tiến Đạt	Chỉ Huy Trưởng	Đại học Kỹ thuật Công nghệ Tp.HCM	Kỹ thuật xây dựng	2011	Hạng 1	- Hạng 1: Giám sát công tác xây dựng công trình dân dụng - công nghiệp và hạ tầng kỹ thuật. hạn đến thang 6/2025	091 938 1385	datntien@bcons.com.vn
+2	TC0424	Lê Vũ Hoàng	GS Thiết bị	Đại học Nha Trang	Tài chính- kế toán	2011			093 545 4055	hoanglv@bcons.com.vn
+3	TC0156	Nguyễn Minh Hiếu	Thủ Kho						035 673 4525	Không lập mail
+4	VT0016	Nguyễn Trung Quốc	Thủ Kho						909.909.557	quocnt@bcons.com.vn
+5	BC0640	Võ Đăng Khoa	GS Trắc đạc	ĐH Tài Nguyên và Môi Trường Thành phố Hồ Chí Minh	Kỹ Thuật Trắc Địa - Bản Đồ	2022			033 717 3691	khoavd@bcons.com.vn
+6	TC0040	Nguyễn Thành Danh	GS Trắc đạc	ĐH Tài Nguyên và Môi Trường Thành Phố Hồ Chí Minh	Kỹ Thuật Trắc Địa - Bản Đồ				090 720 5902	danhnt@bcons.com.vn
+7	TC0167	Cao Minh Tuấn Khoa	GS Trắc đạc	ĐH Tài Nguyên và Môi Trường Thành phố Hồ Chí Minh	Kỹ Thuật Trắc Địa - Bản Đồ	2018			036 748 0397	khoacmtk@bcons.com.vn
+		Bộ phận An Toàn					KTC			
+8	TC0158	Nguyễn Đức Tiến	Trưởng ban ATLĐ Dự án	ĐH Tôn Đức Thắng 	Bảo hộ lao động	2016			093 856 1714	Tiennd@bcons.com.vn
+9	BC0989	Nguyễn Hồng Phúc	GS ATLĐ	ĐH Công Nghệ Đồng Nai	Công nghệ kỹ thuật môi trường 	2019			085 802 2279	phucnh@bcons.com.vn
+10	TC0126	Hà Mai Tiến	GS ATLĐ	ĐH Tôn Đức Thắng 	Bảo hộ lao động	2018			086 860 7622	Tienhm@bcons.com.vn
+11	BC1902	Trần Anh Pháp	GS ATLĐ	CĐ Giao Thông Vận Tải 3	Xây dựng dân dụng 	2014			093 457 4786	phapta@bcons.com.vn
+		Bộ phận Văn phòng					KTC			
+12	TC0087	Đặng Trần Quang	Trưởng tháp	Trường Đại học Văn Lang	Xây dựng dân dụng và công nghiệp	15/03/2014	Hạng 3	- Hạng 3: Giám sát công tác xây dựng công trình dân dụng và công nghiệp	038 849 0355	Quangdt@bcons.com.vn
+13	TC0575	Hoàng Ngọc Phong	QA/QC	Đại học Sư Phạm Kỹ thuật TP. HCM	Xây dựng dân dụng và công nghiệp	04/11/2022			096 358 6605	phonghn@bcons.com.vn
+14	BC0641	Lê Thị Ngọc Giàu	QA/QC	Đại học Cần Thơ	Xây dựng dân dụng và công nghiệp	2017			098 189 0805	giaultn@bcons.com.vn
+16	KC0031	Vũ Minh Hàn	QA/QC	Đại học Bách Khoa - Đại học Quốc gia Thành phố Hồ Chí Minh	Xây dựng Cảng - Công trình biển	2013			093 610 1188	hanvm@bcons.com.vn
+										
+		Bộ phận Xây dựng Khu A					KTC			
+16	TC0098	Nguyễn Thành Hiển	Chỉ Huy Phó	Đai học kiến trúc TP.HCM	Kỹ thuật xây dựng dân dụng và công nghiệp	2016	Hạng 3	- Hạng 3: Giám sát công tác xây dựng công trình dân dụng và công nghiệp	035 603 2870	Hiennt@bcons.com.vn
+		Khu A1.a					KTC			
+17	TB0282	Nguyễn Kế Cao Nguyên	Trưởng tháp	Trường Đại Học Bách Khoa - ĐH Đà Nẵng	Xây dựng dân dụng và công nghiệp	28/12/2018	Hạng 2	- Hạng 2: Giám sát công tác xây dựng công trình dân dụng  - công nghệp và hạ tầng kỹ thuật.	038 557 0359	nguyennkc@bcons.com.vn
+18	TC0451	Đặng Quang Thái	GS hiện trường XD	Trường Cao Đẳng Xây Dựng Số 2	Xây dựng dân dụng và công nghiệp	2014			079 881 3232	thaidq@bcons.com.vn
+21		Phạm Châu Phước	GS hiện trường XD	Trường Đại Học Mở TP.HCM	Xây dựng dân dụng và công nghiệp	2013	Hạng 1	- Hạng 1: Giám sát công tác xây dựng công trình dân dụng và công nghiệp	097 335 9002	phuocpc@bcons.com.vn
+22			GS hiện trường XD							
+		Khu A1.b					KTC			
+23	TC0248	Đinh Văn Hà	Trưởng tháp	Đại học Giao thông vận tải Tp.HCM	Kỹ thuật kết cấu công trình	2017	Hạng 1	"- Hạng 1: Giám sát công tác xây dựng công trình dân dụng và công nghiệp
+- Hạng 2: Giám sát thi công xây dựng công trình - Giám sát công tác xây dựng công trình dân dụng - công nghiệp và hạ tầng kỹ thuật
+- Hạng 2: Quản lý dự án đầu tư xây dựng - Quản lý dự án đầu tư xây dựng công trình dân dụng - công nghiệp và hạ tầng kỹ thuật (cấp nước - thoát nước)"	0366421206	Hadv@bcons.com.vn
+24	TC0164	Đinh Minh Trí	GS hiện trường XD	Trường Đại học RMIT	Quản lý công trình xây dựng	2019			077 972 8760	Tridm@bcons.com.vn
+24	BC0635	Trần Thế Tài	GS hiện trường XD	Đại học Mở TPHCM	Xây dựng dân dụng và công nghiệp	2020	Hạng 3	- Hạng 3: Giám sát công tác xây dựng công trình dân dụng  - công nghệp và hạ tầng kỹ thuật.	094 940 0012	taitt@bcons.com.vn
+25	TC0243	Phạm Quang Linh	GS hiện trường XD	Đai học kiến trúc TP.HCM	Kỹ thuật xây dựng	2014			097 513 4546	Linhpq@bcons.com.vn
+		Khu A2					KTC			
+26	TC0418	Phan Viết Trọng Hiếu	Trưởng tháp	Đại Học Bách Khoa - ĐH Đà Nẵng	Xây dựng dân dụng và CN	2018	Hạng 3	- Hạng 3: Giám sát công tác xây dựng công trình dân dụng và công nghiệp	097 250 1131	hieupvt@bcons.com.vn
+27	TC0462	Nguyễn Trường An	GS hiện trường XD	Cao đẳng kỹ nghệ II	Kỹ thuật xây dựng	2021			079 680 4756	annt@bcons.com.vn
+28	BC0987	Trang Hữu Khang	GS hiện trường XD	Đại học Công nghiệp Tp.HCM	Xây dựng dân dụng và công nghiệp	2023			076 524 6966	khangth@bcons.com.vn
+29	TC0367	Võ Xuân Hướng	GS hiện trường XD	ĐH Giao Thông Vận Tải phân hiệu TP HCM	Kỹ thuật xây dựng	2016	Hạng 2	 Hạng 2- Giám sát thi công xây dựng công trình - Giám sát công tác xây dựng công trình Dân dụng - Công nghiệp	083 720 0555	Huongvx@bcons.com.vn
+4	TK0542	Phạm Hồng Thái	GS hiện trường XD	Đại học Bách Khoa - Đại học Quốc gia Thành phố Hồ Chí Minh	Kỹ thuật công trình xây dựng	2020			098 114 9895	thaiph@bcons.com.vn
+		Bộ phận XD Khu BCT & BNS					KTC			
+30	TC0165	Nguyễn Trung Đạt	Chỉ Huy Phó	ĐH Công Nghệ Sài Gòn	Kỹ thuật xây dựng dân dụng	2016	Hạng 1	Hạng 1	093 444 4243	datntr@bcons.com.vn
+31	TC0127	Hồ Sĩ Quyền	Trưởng tháp	Đại học Bách khoa - ĐH Đà Nẵng	Kỹ thuật xây dựng	19/10/2018	Hạng 3	- Hạng 3: Giám sát công tác xây dựng công trình dân dụng và công nghiệp	089 648 8425	Quyenhs@bcons.com.vn
+32	TC0344	Bùi Thanh Tuấn	GS hiện trường XD	Đại học sư phạm kỹ thuật TP HCM	Xây dựng dân dụng và công nghiệp	2015			093 579 7899	Tuanbt@bcons.com.vn
+33	TC0546	Vũ Trung Kiên	GS hiện trường XD	Đại học Bách Khoa - Đại học Quốc gia Thành phố Hồ Chí Minh	Kỹ thuật dân dụng và công nghiệp	2021			098 466 3116	kienvt@bcons.com.vn
+34	TC0452	Phạm Hồng Thiên	GS hiện trường XD	Trường Đại học Ngô Quyền	Kỹ thuật xây dựng công trình dân dụng và công nghiệp	2021			039 371 0248	thienph@bcons.com.vn
+35	TC0061	Nguyễn Hoàng Linh	GS hiện trường XD	ĐH Duy Tân 	Kỹ thuật xây dựng công trình dân dụng và công nghiệp		Hạng 2	- Hạng 2 : Giám sát công tác xây dựng công trình dân dụng - công nghiệp và hạ tầng kỹ thuật. - Hạng 2  : Quản lý dự án.	093 593 0706	linhnh@bcons.com.vn
+36	TC0174	Nguyễn Nguyên	GS hiện trường XD	Trường ĐH Giao Thông vận tải  - Cơ sở 2 (phân hiệu Hồ Chí Minh).	Xây dựng dân dụng và công nghiệp	2016			098 709 6628	Nguyenn@bcons.com.vn
+37	TC0177	Nguyễn Anh Tuấn	GS hiện trường XD	Trường Trung Cấp Xây Dựng TP HCM	Xây dựng dân dụng và công nghiệp	2021			098 920 5758	tuannanh@bcons.com.vn
+		Bộ phận XD Khu B & BH2					KTC			
+38	TC0404	Mai Trọng Tiến	Chỉ Huy Phó	Đại học Bách Khoa - Đại học Quốc gia Thành phố Hồ Chí Minh	Xây dựng dân dụng và công nghiệp	2017	Hạng 3	- Hạng 3: Giám sát công tác xây dựng công trình dân dụng và công nghiệp	096 955 7697	tienmt@bcons.com.vn
+		Khu B1					KTC			
+39	TC0591	Đoàn Đỗ Phước Sang	Trưởng tháp	Đại Học Kiến Trúc TP. Hồ Chí Minh	Kỹ thuật xây dựng dân dụng và công nghiệp	2020			034 559 4559	sangddp@bcons.com.vn
+40	TC0280	Ngô Quốc Đạt	GS hiện trường XD	Đại Học Giao Thông Vận Tải Phân hiệu TP.HCM	Kỹ thuật công trình xây dựng	2020			033 528 2238	datnq@bcons.com.vn
+40	TK0287	Vương Quỳnh Nhã	GS hiện trường XD				Hạng 3	- Hạng 3: Giám sát công tác xây dựng công trình dân dụng và công nghiệp	086 861 2794	Nhavq@bcons.com.vn
+41	BC0988	Nguyễn Phạm Minh Nhựt	GS hiện trường XD	Đại Học Kiến Trúc TP. Hồ Chí Minh	Kỹ thuật xây dựng dân dụng và công nghiệp	2023			081 791 1113	nhutnpm@bcons.com.vn
+		Khu B2					KTC			
+42	TC0237	Đinh Hữu Tài	Trưởng tháp	Trường Đại Học Công Nghệ Sài Gòn	Kỹ thuật công trình xây dựng	2018			085 847 3505	Taidh@bcons.com.vn
+43	TC0405	Trang Sĩ Bảo	GS hiện trường XD	Trường Đại Học Công Nghệ Sài Gòn	Kỹ thuật công trình xây dựng	2020			093 318 3182	baots@bcons.com.vn
+44		Lý Trần Ngọc Thuận Hòa	GS hiện trường XD	Trường Đại học Công Nghiệp Thành Phố Hồ Chí Minh	Kỹ thuật xây dựng dân dụng và công nghiệp	2024			094 114 4671	hoaltnt@bcons.com.vn
+45		Nguyễn Ngọc Danh	GS hiện trường XD		Kỹ thuật công trình xây dựng	2016	Hạng 1	Hạng I: Giám sát công tác xây dựng công trình dân dụng - công nghiệp và hạ tầng kỹ thuật. 	090 525 4045	danhnn@bcons.com.vn
+46		Đặng Thông Thuận	GS hiện trường XD	Đại học Sư Phạm Kỹ thuật TP. HCM	Xây dựng dân dụng và công nghiệp	2012	Hạng 1	Hạng I: Giám sát công tác xây dựng công trình dân dụng - công nghiệp và hạ tầng kỹ thuật. 		
+47		Võ Đắc Thọ	GS hiện trường XD						093 125 0787	Thovd@bcons.com.vn
+		Khu BH2					KTC			
+48	TC1148	Nguyễn Văn Dũng	Trưởng tháp	Trường cao đẳng kỹ thuật công nghiệp Quảng Ngãi	Xây dựng dân dụng và công nghiệp	2013			083 203 2579	dungnv@bcons.com.vn
+49	BC0652	Nguyễn Duy Nhật Minh	GS hiện trường XD	Đại học Bách Khoa Đà Nẵng	Xây dựng dân dụng và công nghiệp	2015	Hạng 2	Hạng II: Giám sát công tác xây dựng công trình dân dụng - công nghiệp và hạ tầng kỹ thuật	091 254 3940	minhndn@bcons.com.vn
+50			GS hiện trường XD							
+		Bộ phận MEPF					KTC			
+		MEPF Khu A  & BCT2					KTC			
+51	ME0091	Phạm Văn Lương	Trưởng Tháp MEP	Trường Đại Học Công Nghiệp Tp.Hồ Chí Minh	Công nghệ kỹ thuật điện  	2012	Hạng 1	Hạng 1 : Giám sát công tác lắp đặt thiết bị vào công trình	097 374 0122	Luongpv@bcons.com.vn
+52	TK0384	Phạm Tài Thắng	GSHT MEPF	ĐH Tài Nguyên và môi trường TP HCM 	Công nghệ kỹ thuật công trình xây dựng (cấp thoát nước)	2015	Hạng 3	"-Hạng 3: Giám sát thi công xây dựng công trình - Giám sát công tác xây dựng công trình dân dụng - công nghiệp và hạ tầng kỹ thuật
+-Hạng 3: Giám sát công tác lắp đặt thiết bị cấp - thoát nước vào công trình dân dụng - công nghiệp
+-Chứng chỉ bồi dưỡng kiến thức PCCC cho cá nhân hành nghề tư vấn thiết kế,  tư vấn giám sát về PCCC
+"	097 524 0901	thangtp@bcons.com.vn
+53	TE0586	Nguyễn Hoàng Khanh	GSHT MEPF	CĐ Kỹ Thuật Cao Thắng	Điện công nghiệp	2022			034 289 9853	khanhnh@bcons.com.vn
+54	TE0552	Nguyễn Ngọc Bảo	GSHT MEPF	Trường Cao đẳng Kỹ thuật và Công nghệ TP.HCM	Điện công nghiệp	2022			038 339 4248	baonn@bcons.com.vn
+55	TE0478	Lê Minh Vương	GSHT MEPF	ĐH Tài Nguyên và môi trường TP HCM 	Công nghệ kỹ thuật công trình xây dựng 	2018	Hạng 3	Hạng 3: Giám sát công tác lắp đặt thiết bị cấp thoát nước vào công trình dân dụng công nghiệp	032 834 1194	vuonglm@bcons.com.vn
+56	TE0526	Nguyễn Trung Tín	GSHT MEPF	Trường Đại Học Công Nghệ Tp.Hồ Chí Minh	Điện công nghiệp	2016			088 811 0294	tinnt@bcons.com.vn
+		MEPF Khu B và BH2&BNS					KTC			
+57	TE0262	Võ Xuân Thành	Trưởng Tháp MEP	Đại học Sư Phạm Kỹ thuật TP. HCM	Điện công nghiệp	2014	Hạng 1	Hạng 1 : Giám sát công tác lắp đặt thiết bị vào công trình	038 666 2002	Thanhvx@bcons.com.vn
+58	TE0419	Nguyễn Thanh Mẫn	GSHT MEPF	Đại học Sư Phạm Kỹ thuật TP. HCM	Công nghệ kỹ thuật điện - điện tử 	2019			096 648 5111	mannt@bcons.com.vn
+59		Nguyễn Vĩnh Hưng	GSHT MEPF	Đại học Sư Phạm Kỹ thuật TP. HCM	Điện công nghiệp	2013	Hạng 1	Hạng 1 : Giám sát công tác lắp đặt thiết bị vào công trình	098 984 2393	Hungnv@bcons.com.vn
+60		Trương Quang Chi	GSHT MEPF	Trường cao đẳng Nguyễn Tất Thành 	Công nghệ kỹ thuật điện - điện tử 	2010			090 688 8646	chitq@bcons.com.vn
+61	TE0619	Nguyễn Văn Nhật Huy	GSHT MEPF	Đại học Bách Khoa - Đại học Đà Nẵng	Kỹ thuật điện - điện tử	2022			086 909 5018	huynvn@bcons.com.vn
+VI	KTC-BTT	Khối TC-Lê Trọng Tấn					KTC			
+1	TC0323	Hồ Quang Hữu	Chỉ Huy Trưởng		Kỹ thuật xây dựng		Hạng 1	- Hạng 1: Giám sát công tác xây dựng công trình dân dụng - công nghiệp và hạ tầng kỹ thuật. 	090 838 0327	Huuhq@bcons.com.vn
+2	TC0429	Nguyễn Văn Chính	Trưởng tháp	Trường Đại Học Công Nghệ Tp.Hồ Chí Minh	Xây dựng dân dụng và công nghiệp	2022			090 929 9856	chinhnv@bcons.com.vn
+3	TC0152	Lê Xuân Ngọc	GS ATLĐ		Xây dựng dân dụng và công nghiệp	2015	Hạng 2	-Hạng 2: Giám sát công tác xây dựng công trình dân dụng- công nghiệp và hạ tầng kỹ thuật	093 367 4147	ngoclx@bcons.com.vn
+4	TC0358	Đinh Duy Phúc	QA/QC		Xây dựng dân dụng và công nghiệp	2016	Hạng 3	- Hạng 3: Giám sát công tác xây dựng công trình dân dụng và công nghiệp	035 908 2292	Phucdd@bcons.com.vn
+5	TK0206	Phạm Hoàng Long	GS hiện trường XD		Xây dựng dân dụng và công nghiệp	2018			070 780 2086	Longph@bcons.com.vn
+6	TC0356	Đinh Minh Trang	GS hiện trường XD	Đai học kiến trúc TP.HCM	Kỹ thuật xây dựng	2018			091 527 3719	Trangdm@bcons.com.vn
+7	TC0138	Nguyễn Văn Tú	GS hiện trường XD	Đại học xây dựng Miền Trung	Xây dựng dân dụng và công nghiệp	2018	Hạng 3	- Hạng 3: Giám sát công tác xây dựng công trình dân dụng 	093 774 5403	Tunv@bcons.com.vn
+8	BC 1022	Lê Chiêu Hoàng	GS hiện trường XD	Đại học Công Nghệ thành phố Hồ Chí Minh	Kỹ thuật công trình xây dựng	2024			090 643 1870	hoanglc@bcons.com.vn
+9	BC0836	Ngô Minh Mẫn	GS hiện trường XD		Kỹ thuật xây dựng dân dụng và công nghiệp	2022			035 926 4004	mannm@bcons.com.vn
+10	TK0278	Nguyễn Văn Hải	GS hiện trường XD	Đại học xây dựng	Kỹ thuật xây dựng công trính	2013	Hạng 1	"Hạng 1: - Giám sát công tác xây dựng công trình dân dụng  - công nghiệp và hạ tầng kỹ thuật
+Hạng 1: - QLDA  công tác xây dựng công trình dân dụng  - công nghiệp và hạ tầng kỹ thuật"	098 861 8862	Hainv@bcons.com.vn
+11	TE0513	Nguyễn Ngọc Quí Anh	Thủ Kho	CĐ xây dựng TP.HCM	Công nghệ kỹ thuật công trình xây dựng	2022			033 713 3144	anhnnq@bcons.com.vn
+12	BC1085	Nguyễn Tấn Lộc	GS Trắc đạc	ĐH Tài Nguyên và Môi Trường TPHCM	Kỹ sư Trắc địa (Kỹ thuật Trắc địa - Bản đồ)	2022			035 475 4099	locnt@bcons.com.vn
+VII	KTC-BDH	Khối TC-Tân Đông Hiệp					KTC			
+1	TC0067	Đào Tăng Định	Chỉ Huy Trưởng	Đại học giao thông vận tải	Kinh tế xây dựng	2007	Hạng 1	- Hạng 1: Giám sát công tác xây dựng công trình dân dụng và công nghiệp	079 228 4777	Dinhdt@bcons.com.vn
+2	TC0290	Cao Văn Dũng	Chỉ Huy Phó		Kỹ thuật công trình xây dựng	2011	Hạng 1	- Hạng 1: Giám sát công tác xây dựng công trình dân dụng - công nghiệp và hạ tầng kỹ thuật. 	090 890 8378	Dungcv@bcons.com.vn
+3	TC0137	Hồ Văn Nhuần	Trưởng tháp XD	Đại học bách khoa Đà Nẵng	Xây dựng dân dụng và công nghiệp	2013			098 835 7841	Nhuanhv@bcons.com.vn
+4	TE0368	Dương Văn Ngoan Em	Trưởng tháp XD	Đai học kiến trúc TP.HCM	Kỹ thuật xây dựng dân dụng và công nghiệp	2015	Hạng 1	- Hạng 1: Giám sát công tác xây dựng công trình dân dụng và công nghiệp	098 708 1676	emdvn@bcons.com.vn
+5	TK0227	Nguyễn Minh Tiến	Trưởng tháp VP		Kỹ sư kỹ thuật	2012	Hạng 1	"- Hạng 1: Giám sát công tác xây dựng công trình dân dụng và công nghiệp (09/2026)
+- Hạng 1: QLDA  đầu tư xây dựng công trình dân dụng  - công nghiệp và hạ tầng kỹ thuật (06/2029)"	081 938 3838	tiennm@bcons.com.vn
+6	TC0550	Hồ Văn Hiếu	GS ATLĐ	Đại học Sư phạm kỹ thuật TPHCM	Công nghệ kỹ thuật môi trường	2021			090 210 0528	hieuhvan@bcons.com.vn
+7	TC0320	Thái Văn Việt	GS hiện trường XD	Đại học giao thông vận tải	Xây dựng dân dụng và công nghiệp	2016			097 710 5993	Viettv@bcons.com.vn
+8	TC0267	Phan Hà Tuyên	GS hiện trường XD	Trường Cao đẳng GTVT II	Công nghệ kỹ thuật công trình xây dựng	2013			094 486 6287	Tuyenph@bcons.com.vn
+9	KT0013	Lý Quốc Thanh	Thủ Kho	Đại học Văn Lang	Kế toán	2001			091 426 0376	thanhlq@bcons.com.vn
+10	TC0294	Nguyễn Minh Hoàng	GS Trắc đạc	Đại học tài nguyên và môi trường TPHCM	Kĩ thuật trắc địa và bản đồ 	2017			096 970 9428	Hoangnm@bcons.com.vn
+VIII	KTC-BBT	Khối TC-Bình Thắng					KTC			
+1	TC0149	Nguyễn Anh Hào	Q.CHT	Đại học Tôn Đức Thắng	Xây dựng dân dụng và công nghiệp	2015	Hạng 1	- Hạng 1: Giám sát công tác xây dựng công trình dân dụng - công nghiệp và hạ tầng kỹ thuật. 	093 505 5179	haona@bcons.com.vn
+2	DA0123	Vương Thái Hòa	Trưởng tháp	Đại học Sư Phạm Kỹ thuật TP. HCM	Xây dựng dân dụng và công nghiệp	2017	Hạng 2	- Hạng 2: Giám sát công tác xây dựng công trình dân dụng  - công nghệp và hạ tầng kỹ thuật.	083 223 4725	Hoavt@bcons.com.vn
+3	TC0538	Lê Hoàng Linh	GS ATLĐ	" Đại Học 
+Tài Nguyên và Môi Trường TPHCM"	Quản lý tài nguyên và môi trường 	2022			090 454 0658	linhlh@bcons.com.vn
+4	TC0421	Nguyễn Trung Lịnh	GS hiện trường XD	Trường Đại học GTVT TPHCM	Xây dựng dân dụng và công nghiệp	2016			035 397 5697	linhnt@bcons.com.vn
+5	TC0475	Ngô Hoàng Anh	GS hiện trường XD	Đại học GTVT TP.HCM	Xây dựng dân dụng và công nghiệp	04/05/2019	Hạng 2	Hạng 2: Giám sát công tác xây dựng công trình dân dụng - công nghiệp và hạ tầng kỹ thuật.	038 412 7793	anhnh@bcons.com.vn
+6	TC0583	Nguyễn Công Danh	GS hiện trường XD	Đại học Sư Phạm Kỹ thuật TP. HCM	Công nghệ kỹ thuật công trình xây dựng	04/11/2022			096 274 3102	danhnc@bcons.com.vn
+7	TE0465	Thiệu Công Chí	GSHT MEPF	Đại học bách khoa Đà Nẵng	Kỹ thuật điện	2016	Hạng 1	Hạng 1: Giám sát công tắc lắp đặt thiết bị vào công trình	039 800 3811	chitc@bcons.com.vn
+8	TC0115	Ngô Nhật Trường	QA/QC	Đại học Sư Phạm Kỹ thuật TP. HCM	Công nghệ kỹ thuật công trình xây dựng	2021			090 256 3395	Truongnn@bcons.com.vn
+9	TE0512	Phạm Văn Việt	Thủ Kho						079 654 3321	vietpv@bcons.com.vn
 
