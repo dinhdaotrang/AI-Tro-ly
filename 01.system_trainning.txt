@@ -1268,7 +1268,7 @@ I.1	THI CÔNG CỌC KHOAN NHỒI D1200 ĐẠI TRÀ				 324.923.692
 2a	Khoan vào đất trên cạn, đường kính lỗ khoan D1200 	 md 	 54,000 	 1.204.598 	 65.048.292 	
 2b	Khoan vào đá phong hóa, đường kính lỗ khoan D1200 	 md 	 -   	 2.145.691 	 Bao gồm 	
 3	Khoan vào đá, đường kính lỗ khoan D1200 	 md 	 2,000 	 13.645.840 	 27.291.680 	
-4	Cung cấp và thi công Bentonite chống sạt thành hố khoan.	 m3 	 63,340 	 169.397 	 10.729.606 	Bentonite/Polymer (Công ty ứng dụng công nghệ Hà Nội, Công ty An Phát, C.ty Hùng Ngọc/ PolymerNUOERFLOC A-7952)
+4	Cung cấp và thi công Bentonite chống sạt thành hố́khoan.	 m3 	 63,340 	 169.397 	 10.729.606 	Bentonite/Polymer (Công ty ứng dụng công nghệ Hà Nội, Công ty An Phát, C.ty Hùng Ngọc/ PolymerNUOERFLOC A-7952)
 5	Sản xuất, lắp dựng cốt thép cọc khoan nhồi, cọc trên cạn					Thép Hòa Phát, Miền Nam, Việt Mỹ, Tung Hô, Việt Nhật / tương đương
 	- Thép chủ	 kg 	 5.522,880 	 16.469 	 90.956.311 	
 	- Thép đai định vị	 kg 	 307,860 	 16.469 	 5.070.146 	
@@ -1953,3 +1953,257 @@ Nếu Bên B không thực hiện một trong số các hạng mục trong bản
 	Mọi thay đổi, bổ sung nội dung hợp đồng này phải được lập thành phụ lục hợp đồng được đại diện có thẩm quyền của hai Bên ký xác nhận trước khi thực hiện.
 	Hợp đồng có hiệu lực kể từ ngày ký và sau khi hai Bên hoàn thành trách nhiệm, nghĩa vụ trong hợp đồng, thì hợp đồng tự động thanh lý.
 	Hợp đồng được lập thành 04 (bốn) bản Tiếng Việt có giá trị pháp lý ngang nhau, Bên A giữ 02 (hai) bản, Bên B giữ 02 (hai) bản./.
+QUY ĐỊNH VÈ XỬ PHẠT VI PHẠM AN TOÀN LAO ĐỘNG,
+VỆ SINH MÔI TRƯỜNG, PHÒNG CHỐNG CHÁY NỔ,
+HAO HỤT VẬT TƯ VÀ QUẢN LÝ CHẤT LƯỢNG.
+(Đề nghị xem xét kỹ không khiến nại về sau)
+KÈM THEO ĐIỀU KHOẢN CHUNG
+(ÁP DỤNG CHO CÁC DỰ ÁN CỦA TẬP ĐOÀN BCONS)
+Cập nhật số: 02, 02/2024 
+CÃN CỨ LẬP QUY ĐỊNH
+-	Bộ luật lao động số 45/2019/QH14 của Quốc hội 14;
+-	Nghị định số 88/2020/NĐ-CP và ngày 15/09/2020 của Chính Phủ về an toàn lao động, vệ sinh lao động;
+-	Luật bảo vệ môi trường số 72/2020/QH14 ngày 17/11/2020 của Quốc hội 14;
+-	Luật phòng cháy chữa cháy số 40/2013/QH13 ngày 22/11/2013 của Quốc hội 13.
+-	Tình hình vi phạm an toàn lao động, vệ sinh môi trường và PCCC tại các dự án.
+1.	ĐỔI TƯỢNG ÁP DỤNG
+- Các tổ chức, cá nhân liên quan tham gia thi công trực tiếp hay gián tiếp tại công trình.
+II. CÁC LỎI VI PHẠM VÀ MỨC PHẠT
+Lỗi vi phạm/ Acts of violation	Tiền phạt/
+Penalty (VND)
+1.	Nội quy công trường- Site regulations
+1.1	Không đeo thẻ ra vào cổng, từ chối không xuất trình thẻ khi được yêu cầu.
+Fail to wear the entry card when enter site or refuse to present the card when requested.
+1.2	Vào công trường không thông qua cổng quy định 
+Enter site through different means other than the main gate
+1.3	Không tham gia huấn luyện an toàn theo quy định
+Fail to attend toolbox meeting
+1.4	Có mùi rượu bia khi đang làm việc trên công trường 
+Drink or have alcohol smell during working hours
+1.5	Gây lộn, đánh nhau trên công trường giữa công nhân - argue/fighting at the site between workers
++	Đối với cá nhân - for individuals:
++	Đối với các nhóm - for group:
+1.6	Tổ chức, tham gia đánh bài, cờ bạc trong công trường 
+Organize or participate in gambling at the site
+1.7	Mặc áo đồng phục Bcons (cán bộ) ngồi hàng quán trong giờ làm việc
+Sitting at coffeeshop outside the site during work time, wearing Bcons uniform	200.000
+500.000
+500.000/người
+1.000.000
+2.000.000
+5.000.000
+2.000.000
+200.000
+ 
+1.8	Tự ý sứ dụng vật liệu/vật tư khi chưa có sự dồng ý cùa đơn vị sở hữu vật liệu
+Using of any material/equipments without the acknowledgement of the owner	200.000
+1.9	Tự ý lái các loại xe cơ giới khi không có chứng chỉ và không được giao nhiệm vụ
+Operate any motored construction vehicles when not in duty or without license	2.000.000
+1.10	Tự ý điều khiển vận thăng khi không có chứng chi và không được giao nhiệm vụ
+Operate any lifting equipment or lifting tools when not in duty or without license	2.000.000
+1.11	Sử dụng máy tời. câu, máy xúc để nâng/hạ người 
+Using tower/lorry crane/excavator to hoist passenger	1.000.000
+1.12	Có thái độ hăm dọa, thách thức đối với cán bộ kỹ thuật hoặc cán bộ quản lý cúa CĐT, Nhà thầu chính, TVGS
+Act of aggression or violent towards Client. Main Contractor or Consultant staff
++ Hăm dọa, gây hấn - Act of aggression:
++ Xâm hại thân thể, tài sản - Body and property harm.	20.000.000
+50.000.000
+1.13	Ăn uống, nghỉ trưa không đúng nơi quy định 
+Eating or sleeping outside designated area	200.000
+2. Vệ	Sinh Môi Truong - Site cleanliness and Hygene	
+  2.1	Vứt rác không đúng nơi quy định 
+Dispose rubbish at undesignated location	200.000
+  2.2	Không dọn dẹp rác/vật liệu phát sinh ở khu vực làm việc vào cuối ngày
+Fail to clear rubbish/leftover material at working area end of the day	200.000
+  2.3	Ăn uống/ngủ không đúng khu vực quy định 
+Eating or sleeping at undesignated area	200.000
+2.4	Hút thuốc ngoài khu vực cho phép 
+Smoking outside designated area	200.000
+  2.5	Phát hiện tàn thuốc ngoài khu vực hút thuốc quy định 
+Cigarette buds found outside designated smoking area	200.000/ vị trí
+  2.6	Để đọng nước trên sàn hoặc các hố đào
+Leave ponding water on slab or inside excavated pit	200.000
+
+Trang 4/111. A 
+2.7	Để đọng nước trong công trình gây muỗi
+Leave ponding water causing mosquitoes to breed	500.000
+2.8	Đi vệ sinh ngoài khu vực quy định
+Improper actions outside designated toilet area	500.000
+2.9	Không rửa xe trước khi rời khỏi công trường dẫn đến bùn đất làm dơ đường công cộng
+Fail to clean vehicles exiting from site, allow mud and soil to dirty public road	1.000.000
+3. Bảo Hộ Lao Động (BHLĐ) - Personal Protective Equipment	
+ 3.1	Không mang công cụ BHLĐ cá nhân: mũ an toàn, giày bảo hộ, áo phản quang trong phạm vi công trường
+Fail to wear personal protective equipment (PPE): safety helmet, safety shoes and safety vest on site.	200.000
+ 3.2	Không đeo kính bảo hộ và găng tay khi thực hiện các công việc cần thiết: hàn, đục, cắt/mài thép
+Fail to wear protective goggles and gloves when performing work that require to wear either of those	200.000
+ 3.3	Sử dụng mũ/áo khác mẫu quy định của dự án khi chưa có sự chấp thuận của Bcons
+Wearing helmet/safety vest different from approved design without agreement from Bcons	200.000
+ 3.4	Đội mũ BHLĐ sai quy cách (đội ngược, không cài quai, v.v) Wearing helmet improperly	200.000
+ 3.5	Sử dụng công cụ BHLĐ hỏng hoặc không đạt tiêu chuẩn	200.000
+4. Làm việc trên cao - Working at Height	
+ 4.1	Không lắp lan can an toàn ở mép tòa nhà, ô chờ cửa sổ, cầu thang bộ hoặc các khu vực mở có khả năng ngã từ độ cao lớn hơn 1.5m.
+Fail to install handrail at open edges, windows, staircases with the possibility to fall from height more than 1.5m.	1.000.000
+ 4.2	Không lắp dây cứu sinh ở các khu vực làm việc không có khả năng lắp lan can và có khả năng ngã từ độ cao lớn hơn 1.5m 
+Fail to install lifelines at open edges with the possibility to fall from height more than 1.5 m that cannot install handrails	1.000.000
+
+T r a n g ^11 
+ 4.3	Không mang dây an toàn khi làm việc trên cao ở khu vực không có hàng rào an toàn.
+Fail to equip safety harness when working at height at area that has no barricade	1.000.000
+ 4.4	Không móc dây an toàn vào điểm cố định/dây cứu sinh khi làm việc trên cao ở khu vực không có hàng rào an toàn 
+Failure to anchor the safety harness onto a fixed point or lifeline when working at height at area that has no barricade	1.000.000
+ 4.5	Không giăng dây và lắp bảng cảnh báo chung quanh khu vực đang thi công trên cao.
+Fail to install warning line and signages around working area that can lead to people falling down from 1.5m or more	2.000.000
+ 4.6	Không trang bị hoặc sử dụng bề mặt/giàn giáo không đủ tiêu chuẩn/không an toàn khi làm việc trên giàn giáo bao che/sàn thao tác.
+Use of improper/unsafe platform or scaffold when working at outer barricade system	500.000
+ 4.7	Lắp/Tháo gỡ giàn giáo bao che khi chưa có BPTC được phê duyệt
+Install or remove outer barricade system without approved method of statement	5.000.000
+ 4.8	Lắp/tháo gỡ giàn giáo bao che khi chưa có giấy phép làm việc trên cao.
+Install or remove outer barricade system without Permit to Work	2.000.000
+ 4.9	Tự ý tháo gỡ/thay đổi cấu kiện cùa giàn giáo bao che mà không có sự đồng ý của Bcons
+Illegally modify or removing outer barricade system without approval from Bcons	5.000.000
+ 4.10	May/buộc lưới bao che không đạt tiêu chuẩn làm lưới bị bung, rách.
+Sewing or tieing barricade nest improperly causing damage to the nest	2.000.000
+ 4.11	Cung cấp sàn thao tác không đúng quy định của dự án cho công nhân (thiếu mâm, thiếu chéo, thiếu lan can an toàn, v.v) 
+Providing scaffolds that fail to comply with approved design for workers.	500.000
+ 4.12	Cung cap giàn giáo/sàn thao tác sử dụng cấu kiện không đạt tiêu chuân cho công nhân.
+Providing scaffolds with improper components for workers	1.000.000
+ 
+ 4.13	Sử dụng các bề mặt tự chế làm sàn thao tác (gạch, thùng nhựa, ván gỗ, v.v).
+Using self made metarial as working platform	500.000
+ 4.14	Di chuyển giàn giáo khi công nhân khác đang còn ở trên 
+Moving of scaffolds while worker (s) is working on it	500.000
+ 4.15	Sử dụng thang/ghế không đúng mẫu phê duyệt của dự án hoặc không đạt chất lượng, (cong, vênh, rỉ sét hoặc thiếu cấu kiện) 
+Using improper or not approved ladders (bent, rusty or missing parts)	500.000
+ 4.16	Không che chắn các lỗ hỏng trên bề mặt sàn có thể dẫn tới vật liệu/công cụ có thể rơi xuống các tầng dưới.
+Fail to cover openings on slab surfaces, which may lead to tools/material falling down to floor below	500.000
+ 4.17	Ném dụng cụ/vật tư từ tầng trên xuống hoặc từ tầng dưới lên Throwing of materials, equipment or tools from floor below or above.	500.000
+ 4.18	Không tạo lối đi an toàn đến các hố đào hoặc các móng đang thi công
+Fail to provide safe access way to excavated area or pile cap area under construction	500.000
+5. Tháo lắp cốp pha - Assembling and Removing formwork	
+ 5.1	Tháo cốp pha các cấu kiện betông khi chưa có giấy phép tháo 
+Remove formwork in support of structure without license	5.000.000
+ 5.2	Khu vực tháo/lắp đặt cốp pha không có dây và bảng cảnh báo. 
+Fail to barricade and put warning at formwork areas under assembling or removal	500.000
+ 5.3	Không tuân thủ biện pháp/trình tự thi công và biện pháp an toàn đã được duyệt khi tháo cốp pha
+(Fail to follow approved method of statement and safety conditions while removing formwork)	1.000.000
+ 5.4	Mắc võng bên dưới hệ cốp pha
+Putting Hammock on scaffolding in use of supporting structure	200.000
+ 5.5	Không giăng dây tạo lối đi rõ ràng và không có biển chỉ hướng bên dưới hệ cốp pha
+(Fail to provide clear passage way with direction boards)	500.000
+ 5.6	Tháo/lắp cốp pha mà để xà gồ/ván rơi ra ngoài mép công trình Let timber or metal formwork components fall out of building edge during assembling or removing formwork	
+	+ Không gây tai nạn: phạt + cảnh cáo kĩ sư BCH, kĩ sư NTP 
++ Gây tai nạn không nghiêm trọng: phạt + cấm kĩ sư BCH, kĩ sư NTP và tổ đội khỏi dự án, cảnh cáo CHT BCH và NTP 
++ Gây tai nạn nghiêm trọng: phạt + đề nghị chấm dứt hợp đồng với NTP	5.000.000
+20.000.000
+50.000.000
+6	Công tác nóng - Hot works.	
+ 6.1	Thợ hàn không có chứng chỉ hàn.
+Fail to provide certificate ofiwelders	1.000.000
+ 6.2	Không trang bị bình chữa cháy/mền chống cháy hoặc trang bị bình không sử dụng được tại khu vực thực hiện công tác hàn. 
+Fail to provide fire extinguisher/fire blanket at hot work areas	500.000
+ 6.3	Hàn, cắt bang bình khí, bình gas nhưng không láp van chống cháy ngược và van điều áp.
+Using gas-welding equipment without the installation of flash back arrestors and regulators	1.000.000
+ 6.4	Ton trữ bình khí/gas dễ cháy trong tầng hầm hoặc trong không gian kín.
+Placing combustible gas cylinders inside basements or confined space	1.000.000
+ 6.5	Sứ dụng dây dẫn gas bị rò rỉ hoặc hư hỏng.
+Using leaking or damaged hoses for gas welding	500.000
+ 6.6	Bình gas/khí đặt ờ nơi không an toàn hoặc đặt nằm, không có nút che đậy
+Gas cylinders left unsecured and unattended or lying down horizontally, without cover lid	500.000
+ 6.7	Sử dụng thanh/dụng cụ kim loại làm dây mát cho máy hàn. 
+Using metal components or equipments as earthing line	500.000
+ 6.8	Thợ hàn làm việc ngoài trời khi trời mưa hoặc đứng nơi ẩm ướt khi hàn.
+Welders working under rain or stand in wet place	500.000
+7 Thiết bị/máy móc/dụng cụ - Tools/Machìnery/Equipment	
+ 7.1	Sử dụng các thiết bị chưa dán tem kiềm tra theo tháng. Use of equipments/machines without monthly test stamp	500.000
+ 7.2	Dán tem kiêm tra theo tháng nhưng không có ngày hoặc chữ kí cúa CHT
+Attach monthly test stamp without date or PM's signature	500.000
+
+ 
+7.3	Sử dụng máy cắt cầm tay không có chụp bảo vệ đĩa cắt.
+Using rotating cutting machinery such as hand grinder without the installation of protective guards	500.000
+7.4	Sử dụng không đúng chức năng của thiết bị thi công 
+Improper use of equipments/machines from its original usage	500.000
+7.5	Không rút điện các thiết bị cầm tay khi rời khỏi khu vực làm việc.
+Fail to remove power source from ecpiipments when leaving working area	500.000
+8 An toàn điện - Electrical safety	
+ 8.1	Không trang bị các ELCB chống giật trong các tủ điện phân phối.
+Fail to use ELCB in distribution panels	1.000.000
+ 8.2	Tự ý mở tủ điện để đóng, cắt điện
+Illegally open electrical cabinets to turn on, turn off the power without approval.	500.000
+ 8.3	Tủ điện không có thông tin liên lạc người quản lý an toàn điện  
+No contact information of engineer-in-charge on cabinet	500.000
+ 8.4	Tự ý sửa chữa, câu móc, đấu nối thiết bị điện 
+Illegal tampering with electrical appliances and system	500.000
+ 8.5	Sử dụng ổ cấm điện 2 lỗ dân dụng nằm trong danh mục cấm của Bcons
+Using of electrical outlet with 2 holes in the prohibited list of Bcons	1.000.000
+ 8.6	Sử dụng dây điện 2 lõi dân dụng trong công trường Using of electrical wires with 2 cords	500.000
+ 8.7	Cắm trực tiếp dây điện vào ổ cắm.
+Connecting bare wires intoelectrical sockets	1.000.000
+ 8.8	Treo, móc dây điện trực tiếp vào vật kim loại mà không có vật liệu cách điện đúng yêu cầu.
+Hanging or hooking electric wires directly to metal objects without appropriate insulation	500.000
+ 8.9	Để dây điện nằm trên sàn, trên mặt đất
+Leaving electric wires on the floor or on the ground	500.000 (Khô)
+2.000.000 (Ướt)
+ 8.10	Không treo dây điện lên cao tối thiểu 1,6m
+Fail to hang electrical wires to a minimum height of 1.6m	500.000
+ 
+8.11 Sứ dụng ô cắm chia 3 trong công trường
+Use 1 way to 3 pin industrial plug in the site
+8.12 Đấu nối dây vào thiêt bị điện không đúng quy cách gây mất	200.000
+200.000
+	an toàn
+Connect electrical cable to equipment improperly	
+9.	PCCC - Fire and explosion safety	
+ 9.1	Có hành vi phá hoại các thiết bị chữa cháy. 
+Acts of vandalism offirefighting equipment.	5.000.000
+ 9.2	Không trang bị bình chữa cháy tại các khu vực có nguy cơ cháy nổ cao (các khu vực có công tác nóng, văn phòng, kho chứa vật tư, vận thăng, khu vực tập kết rác, khu hút thuốc) 
+Fail to provide fire extinguisher near dangerous area.	1.000.000
+ 9.3	Sừ dụng bình chữa cháy không đạt tiêu chuẩn (không tem kiểm tra, không còn áp suất, hỏng chốt an toàn, v.v).
+Using of unqualified fire extinguisher (without warranty stamp, pressure lost, without locking pin, etc)	500.000
+ 9.4	Đê xảy ra cháy nổ trong công trường 
+Fire of explosion within site parameter	20.000.000
+ 9.5	Không báo cáo các vấn đề cháy, nổ phát sinh ở công trường cho BCH/BQLDA
+Fail to report fire or explosion occurred on site to the main contractor or PMU	5.000.000
+10	Làm việc trong không gian kín - Working in enclosed area	
+ 10.1	Không lắp đặt lối lên xuống đảm bảo an toàn 
+Fail to provide safe access to working location	500.000
+ 10.2	Không bố trí đủ nguồn sáng khi thi công
+Fail to provide adequate lightning source	500.000
+ 10.3	Không lap đặt thiết bị thông gió/cấp khí tươi khi thi công Fail to provide air supply/ventiỉator	1.000.000
+ 10.4	Không có giấy phép thi công trong khu vực kín 
+Start work without Permit to Work in enclosed area	500.000
+11	Quản lý hành chính - Documents management	
+11.1	Phản hồi trễ các NCR/Nhắc nhờ về ATLĐ-VSMT và các NCR về chất lượng (trong vòng 24h sau thời hạn được giao) 
+Respond late to reminders/NCR about safety and hygene (within 24 hours after deadline)	500.000
+
+Trang 10/11 I
+ÍWv 
+11.2 Không phản hồi các NCR/Nhắc nhờ về ATLĐ-VSMT (vượt quá 24h sau thời hạn được giao)
+Respond late to reminders/NCR about safety and hygene (exceed 24 hours after deadline)	1.000.000
+11.3 Phản hồi NCR/Nhắc nhở về ATLĐ-VSMT nhưng không đúng thực tế (không khắc phục mà dùng hình ảnh vị trí khác) 
+        Respond to Safety NCR improperly (using photo of another area)	2.000.000
+11.4 Không thực hiện công tác đóng NCR cho các công tác hoàn thiện (vượt quá 24h sau thời hạn được giao)
+Fail to close NCR for finishing work within the given time (exceed 24 hours after deadline)	5.000.000
+11.5 Không thực hiện công tác đóng NCR đối với cấu kiện kết cấu chính: cột, vách, dầm, sàn (vượt quá 24h sau thời hạn được giao)
+Fail to close NCR for finishing work within the given time (exceed 24 hours after deadline)	10.000.000
+11.6 Không thực hiện cam kết trong biên bản hiện trường, biên bản họp.
+Fail to respond to Site Memo, Minutes of Meeting 
++ Trong 24h sau deadline: phạt, nhắc nhở phản hồi 
++ 24-48h sau deadline: phạt x2, nhắc nhở biên bản + Sau 48h sau deadline: phạt x4, cảnh cáo biên bản	1.000.000
+11.7 Không thực hiện chỉ thị công trường trong thời hạn yêu cầu.
+        Fail to respond to Site Instruction
++ Trong 24h sau deadline: phạt, nhắc nhở phản hồi
++ 24-48h sau deadline: phạt x2, nhắc nhở biên bản
++ Sau 48h sau deadline: phạt x4, cảnh cáo biên bản	2.000.000
+11.8 Tổng số NCR/Biên bản/Chỉ thị chưa thực hiện:
+Total NCR not closed added up:
++	Đến 1 công tác - up to 1 time: nhắc nhở miệng/zalo
++	Đến 2 công tác — up to 2 time: nhắc nhở bằng biên bản
++	Đến 3 công tác - up to 3 time: cảnh cáo bằng biên bản
++	Đến 4 công tác - up to 4 time: Yêu cầu cán bộ kỹ thuật phụ trách rời khỏi dự án.	
+
+Chú thích:
+	Vi phạm cùng một lỗi lần 2 sẽ bị phạt áp dụng mức tiền phạt nhân 2 mức công bố trên.
+Vi phạm cùng một lỗi lần 3 sẽ bị phạt áp dụng mức tiền phạt nhân 4 mức công bô trên.
+	Ngoài những lôi quy định trên, tùy thuộc vào thực tế và mức độ thiếu ATLĐ- VSMT tại công trình mà BQLDA có thế đình chỉ thi công hạng mục/khu vực trong khoảng thời gian cần thiết đế khắc phục.
+
