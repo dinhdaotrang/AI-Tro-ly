@@ -2600,12 +2600,12 @@ Văn hóa học tập và kế thừa:
 
 Bảo hiểm công nhân				
 NHÀ THẦU OVAN				
-HẠNG MỤC: THI CÔNG CỌC KHOAN NHỒI - n				
+HẠNG MỤC: THI CÔNG CỌC KHOAN NHỒI				
 STT	Họ và tên	Chức vụ	Giới tính	Năm sinh	Ngày mua BHTN	Ngày hết hạn BHTN
 1	Võ Văn Cường	CHT	Nam	1980	10/02/2025	10/05/2025
-2	Nguyễn Đình Phúc	CHT	Nam	1975	10/02/2025	10/05/2025
+2	Nguyễn Đình Phúc	CHT	Nam	1975	10/01/2025	15/02/2025
 3	Nguyễn Trung Hiếu	GSHT	Nam	1989	10/02/2025	10/05/2025
-4	Đỗ Ngọc Nguyên	GSHT	Nam	1983	10/02/2025	10/05/2025
+4	Đỗ Ngọc Nguyên	GSHT	Nam	1983	05/01/2025	10/02/2025
 5	Đỗ Quang Bảng	GSHT	Nam	1984	10/02/2025	10/05/2025
 6	Võ Văn Thành	GSHT	Nam	1984	10/02/2025	10/05/2025
 7	Nguyễn Tấn Minh	GSHT	Nam	1999	10/02/2025	10/05/2025
@@ -2651,7 +2651,6 @@ STT	Họ và tên	Chức vụ	Giới tính	Năm sinh	Ngày mua BHTN	Ngày h�
 47	Lê Văn Ngoại	CN	Nam	1989	10/02/2025	10/05/2025
 48	Danh Linh Tâm	CN	Nam	1992	10/02/2025	10/05/2025
 49	Lê Đức Tuấn	CN	Nam	1988	10/02/2025	10/05/2025
-
 
 
 
