@@ -2651,6 +2651,17 @@ STT	Họ và tên	Chức vụ	Giới tính	Năm sinh	Ngày mua BHTN	Ngày h�
 47	Lê Văn Ngoại	CN	Nam	1989	10/02/2025	10/05/2025
 48	Danh Linh Tâm	CN	Nam	1992	10/02/2025	10/05/2025
 49	Lê Đức Tuấn	CN	Nam	1988	10/02/2025	10/05/2025
+#<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+<body>
+    <p>
+        Người quản lý: <span style="color: yellow; font-weight: bold;">Đỗ Ngọc Nguyên</span> đã hết hạn bảo hiểm.
+    </p>
+</body>
 
 
 
