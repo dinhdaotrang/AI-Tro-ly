@@ -2603,9 +2603,9 @@ NHÀ THẦU OVAN
 HẠNG MỤC: THI CÔNG CỌC KHOAN NHỒI				
 STT	Họ và tên	Chức vụ	Giới tính	Năm sinh	Ngày mua BHTN	 BHTN CÓ GIÁ TRỊ ĐẾN
 1	Võ Văn Cường	CHT	Nam	1980	10/02/2025	10/05/2025
-2	Nguyễn Đình Phúc	CHT	Nam	1975	10/01/2025	14/02/2025
+2	Nguyễn Đình Phúc	CHT	Nam	1975	10/02/2025	10/05/2025
 3	Nguyễn Trung Hiếu	GSHT	Nam	1989	10/02/2025	10/05/2025
-4	Đỗ Ngọc Nguyên	GSHT	Nam	1983	05/01/2025	10/02/2025
+4	Đỗ Ngọc Nguyên	GSHT	Nam	1983	10/02/2025	10/05/2025
 5	Đỗ Quang Bảng	GSHT	Nam	1984	10/02/2025	10/05/2025
 6	Võ Văn Thành	GSHT	Nam	1984	10/02/2025	10/05/2025
 7	Nguyễn Tấn Minh	GSHT	Nam	1999	10/02/2025	10/05/2025
@@ -2651,6 +2651,31 @@ STT	Họ và tên	Chức vụ	Giới tính	Năm sinh	Ngày mua BHTN	 BHTN CÓ
 47	Lê Văn Ngoại	CN	Nam	1989	10/02/2025	10/05/2025
 48	Danh Linh Tâm	CN	Nam	1992	10/02/2025	10/05/2025
 49	Lê Đức Tuấn	CN	Nam	1988	10/02/2025	10/05/2025
+
+
+
+
+
+Bảo hiểm công nhân NHÀ THẦU OVAN vIỄN ĐÔNG				
+HẠNG MỤC: THI CÔNG CỌC ÉP	
+STT	Họ và tên	Chức vụ	Giới tính	Năm sinh	"Ngày mua 
+BHTN"	 BHTN CÓ GIÁ TRỊ ĐẾN
+1	Trần Văn Linh	CHT	Nam	1977	22/03/2024	22/03/2025
+2	Nguyễn Tiến Đạt	GSHT	Nam	1993	22/03/2024	22/03/2025
+3	Lê Văn Thành 	GSAT	Nam	1974	22/03/2024	22/03/2025
+4	Hà Anh Kiệt	Vận hành xe đào	Nam	1989	22/03/2024	22/03/2025
+5	Đặng Trọng Hiếu	Vận hành robot ép cọc	Nam	1975	22/03/2024	22/03/2025
+6	Trần Lý Tuấn	Vận hành cần trục	Nam	1978	22/03/2024	22/03/2025
+7	Đặng Văn Trung	Vận hành cần trục	Nam	1974	22/03/2024	22/03/2025
+8	Phạm Văn Lập	Thợ hàn	Nam	1978	22/03/2024	22/03/2025
+9	Trần Xuân Đông	Thợ hàn	Nam	1979	22/03/2024	22/03/2025
+10	Nguyễn Hoàng Tú	Thợ hàn	Nam	1999	12/02/2025	11/05/2025
+11	Bùi Văn Y	Thợ hàn	Nam	1988	12/02/2025	11/05/2025
+12	Phạm Bá Tiến	Vận hành robot ép cọc	Nam	1992	12/02/2025	11/05/2025
+13	Huỳnh Bá Ngọc	Vận hành cần trục	Nam	1988	12/02/2025	11/05/2025
+14	Nguyễn Thái Quốc Tuấn	Vận hành cần trục	Nam	1985	22/03/2024	22/03/2025
+15	Đinh Quang Tư	Thợ hàn	Nam	1991	22/03/2024	22/03/2025
+16	Nguyễn Thanh Tuấn	Vận hành robot ép cọc	Nam	1968	22/03/2024	22/03/2025
 
 
 
