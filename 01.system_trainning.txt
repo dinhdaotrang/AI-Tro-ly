@@ -2603,7 +2603,7 @@ NHÀ THẦU OVAN
 HẠNG MỤC: THI CÔNG CỌC KHOAN NHỒI				
 STT	Họ và tên	Chức vụ	Giới tính	Năm sinh	Ngày mua BHTN	Ngày hết hạn BHTN
 1	Võ Văn Cường	CHT	Nam	1980	10/02/2025	10/05/2025
-2	Nguyễn Đình Phúc	CHT	Nam	1975	10/01/2025	15/02/2025
+2	Nguyễn Đình Phúc	CHT	Nam	1975	10/01/2025	14/02/2025
 3	Nguyễn Trung Hiếu	GSHT	Nam	1989	10/02/2025	10/05/2025
 4	Đỗ Ngọc Nguyên	GSHT	Nam	1983	05/01/2025	10/02/2025
 5	Đỗ Quang Bảng	GSHT	Nam	1984	10/02/2025	10/05/2025
