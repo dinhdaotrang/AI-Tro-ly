@@ -2598,6 +2598,61 @@ Văn hóa học tập và kế thừa:
     Bcons chú trọng việc đào tạo và xây dựng đội ngũ kế thừa liên tục, gìn giữ các giá trị văn hóa và không phụ thuộc vào bất kỳ ai )
 
 
+Bảo hiểm công nhân				
+NHÀ THẦU OVAN				
+HẠNG MỤC: THI CÔNG CỌC KHOAN NHỒI - n				
+STT	Họ và tên	Chức vụ	Giới tính	Năm sinh	Ngày mua BHTN	Ngày hết hạn BHTN
+1	Võ Văn Cường	CHT	Nam	1980	10/02/2025	10/05/2025
+2	Nguyễn Đình Phúc	CHT	Nam	1975	10/02/2025	10/05/2025
+3	Nguyễn Trung Hiếu	GSHT	Nam	1989	10/02/2025	10/05/2025
+4	Đỗ Ngọc Nguyên	GSHT	Nam	1983	10/02/2025	10/05/2025
+5	Đỗ Quang Bảng	GSHT	Nam	1984	10/02/2025	10/05/2025
+6	Võ Văn Thành	GSHT	Nam	1984	10/02/2025	10/05/2025
+7	Nguyễn Tấn Minh	GSHT	Nam	1999	10/02/2025	10/05/2025
+8	Hồ Quốc Việt	CN	Nam	1989	10/02/2025	10/05/2025
+9	Trang Thanh Nhàn	CN	Nam	1982	10/02/2025	10/05/2025
+10	Nguyễn Văn Xét	CN	Nam	1986	10/02/2025	10/05/2025
+11	Nguyễn Văn Ân	CN	Nam	1985	10/02/2025	10/05/2025
+12	Trang Thanh Khiêm	CN	Nam	1973	10/02/2025	10/05/2025
+13	Huỳnh Văn Lên	CN	Nam	1986	10/02/2025	10/05/2025
+14	Trang Thanh Phong	CN	Nam	1986	10/02/2025	10/05/2025
+15	Võ Công Chủ	CN	Nam	1975	10/02/2025	10/05/2025
+16	Nguyễn Hoàng Thanh	Thợ vận hành cẩu phục vụ	Nam	1972	10/02/2025	10/05/2025
+17	Lê Sĩ Xuân Chiến	CN	Nam	1983	10/02/2025	10/05/2025
+18	Vũ Thái Hoà	CN	Nam	1997	10/02/2025	10/05/2025
+19	Lê Sĩ Thanh Bình	CN	Nam	1978	10/02/2025	10/05/2025
+20	Lê Chí Tâm	CN	Nam	1973	10/02/2025	10/05/2025
+21	Lê Quang Vũ	CN	Nam	1990	10/02/2025	10/05/2025
+22	Nguyễn Văn Sắm	CN	Nam	1983	10/02/2025	10/05/2025
+23	Châu Vĩnh Toàn	CN	Nam	2002	10/02/2025	10/05/2025
+24	Huỳnh Hiệp Lượng	CN	Nam	1985	10/02/2025	10/05/2025
+25	Đỗ Đức Đạt	CN	Nam	1997	10/02/2025	10/05/2025
+26	Hà Huy Thiện	CN	Nam	1994	10/02/2025	10/05/2025
+27	Lê Văn Bằng	CN	Nam	1976	10/02/2025	10/05/2025
+28	Phạm Ngọc Duyên	CN	Nữ	1982	10/02/2025	10/05/2025
+29	Lê Xuân Thắng	CN	Nam	1976	10/02/2025	10/05/2025
+30	Trang Hoài Thanh	CN	Nam	1979	10/02/2025	10/05/2025
+31	Đặng Văn Hoà	CN	Nam	1985	10/02/2025	10/05/2025
+32	Thái Văn Kha	CN	Nam	1997	10/02/2025	10/05/2025
+33	Vũ Thái Hậu	CN	Nam	1999	10/02/2025	10/05/2025
+34	Lê Sĩ Thắng	CN	Nam	1984	10/02/2025	10/05/2025
+35	Nguyễn Văn Học	CN	Nam	1962	10/02/2025	10/05/2025
+36	Đặng Văn Vang	Thợ vận hành cẩu phục vụ	Nam	1988	10/02/2025	10/05/2025
+37	Lê Quốc Tuấn	Thợ vận hành máy đào	Nam	1984	11/12/2024	11/12/2025
+38	Hà Văn Sỹ	Thợ vận hành máy đào	Nam	1994	05/06/2024	16/06/2025
+39	Đỗ Hoàng Vũ	CN	Nam	1990	10/02/2025	10/05/2025
+40	Phạm Văn Tâm	CN	Nam	1989	10/02/2025	10/05/2025
+41	Nguyễn Văn Ngọc	CN	Nam	1992	10/02/2025	10/05/2025
+42	Phạm Văn Sang	CN	Nam	1987	10/02/2025	10/05/2025
+43	Huỳnh Tuấn Kiệt	CN	Nam	1979	10/02/2025	10/05/2025
+44	Huỳnh Văn Thử	CN	Nam	1994	10/02/2025	10/05/2025
+45	Nguyễn Hoàng Giang	CN	Nam	1991	10/02/2025	10/05/2025
+46	Nguyễn Khánh Ân	CN	Nam	2000	10/02/2025	10/05/2025
+47	Lê Văn Ngoại	CN	Nam	1989	10/02/2025	10/05/2025
+48	Danh Linh Tâm	CN	Nam	1992	10/02/2025	10/05/2025
+49	Lê Đức Tuấn	CN	Nam	1988	10/02/2025	10/05/2025
+
+
 
 
 
