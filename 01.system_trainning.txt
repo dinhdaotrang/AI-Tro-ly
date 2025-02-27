@@ -2906,6 +2906,583 @@ BHTN"	 BHTN CÓ GIÁ TRỊ ĐẾN
 
 
 
+ 	SỔ TAY HOÀN THIỆN 
+(LƯU HÀNH NỘI BỘ)	MS:……….. 
+Ban hành lần: 01
+Ngày phát hành:    /…./2024 
+Ngày hiệu lực:        /…./2024  
+Phân phối tài liệu
+Hội đồng quản trị công ty		Ban An Ninh	
+Ban Tổng Giám đốc		Ban An toàn lao động	
+Khối Hành chính nhân sự		Trung tâm Đào tạo	
+Khối Tài chính Kinh doanh		Ban Cố vấn	
+Khối Quản lý dự án		Công ty CP Dịch vụ Bcons	
+Khối Đấu thầu		Công ty CP Tư vấn Thiết kế Bcons	
+Khối Thi công		Công ty CP Kỹ thuật và Công nghệ Bcons	
+Khối Đầu tư		Công ty CP Phát triển Giáo dục Bcons	
+Khối Kế toán		Công ty CP Địa Ốc Bcons	
+Khối Vật tư thiết bị		Công ty CP BĐS Bcons PS	
+Khối Thiết Kế 1		Công ty CP BĐS Phú Mỹ Hiệp	
+Khối Thiết Kế 2		Công ty CP BĐS Bcons Homes	
+		Công ty CP BĐS Nam Kiếns Phước	
+
+Người lập	Người phối hợp	Người phối hợp	Người phối hợp
+
+
+
+
+
+Vương Huy Thăng
+GĐ Khối đấu thầu	
+
+
+
+
+Nguyễn Ngọc Hòa
+GĐ Khối Thiết kế 1	
+
+
+
+
+Vũ Xuân Dũng
+GĐ Khối Thiết kế 2	
+
+
+
+
+Phạm Ngọc Minh Tâm
+PGĐ Khối VT.TB
+…./ 08 /2024	…./ 08 /2024	…./ 08 /2024	…./ 08 /2024
+			
+Người phối hợp	Người phối hợp	Người kiểm tra	Người phê duyệt
+
+
+
+
+
+
+Nguyễn Xuân Luận
+GĐ Khối thi công	
+
+
+
+
+
+Hồ Kỳ Lân
+GĐ Quản lý dự án	
+
+
+
+
+
+Lê Quang Dũng
+P.Tổng giám đốc 	
+
+
+
+
+
+Dương Kim Quân
+P.Tổng giám đốc TT
+…./ 08 /2024	…./ 08 /2024	…./ 08 /2024	…./ 08 /2024
+Theo dõi sửa đổi 
+Lần sửa 
+đổi	Ngày ban hành	Mục sửa đổi	Nội dung sửa đổi
+			
+			
+			
+Mục đích:
+     - Quy định được viết ra để chuẩn hóa thông tin đầu vào về vật tư hoàn thiện cho Tư vấn Thiết kế.
+     - Quy định được viết ra để thực hiện mời thầu, kiểm soát khối lượng hoàn thiện, kiểm soát chi phí đầu tư xây dựng công trình.
+Phạm vi:
+      - Quy định này được áp dụng cho Khối Quản lý dự án, Thiết kế, Khối Đấu thầu, Hội đồng đấu thầu.
+Thuật Ngữ và các từ viết tắt
+	
+K.QLDA
+K.ĐT
+HĐĐT
+BQLDA
+BCHCT
+BGĐ
+Chủ tịch HĐQT
+TGĐ	Khối Quản lý dự án
+Khối Đấu thầu
+Hội đồng đấu thầu
+Ban Quản lý dự án
+Ban chỉ huy công trường
+Ban giám đốc
+Chủ tịch hội đồng quản trị
+Tổng giám đốc
+NTP	Nhà thầu phụ
+SHCĐ	Sinh hoạt cộng đồng
+PCCC	Phòng cháy chữa cháy
+MSB	Cụm tủ điện chính
+WC	Khu vệ sinh/Phòng vệ sinh
+XLNT	Xử lý nước thải
+
+ 
+STT	VỊ TRÍ	DỰ ÁN DẠNG GIỐNG 
+TÂN ĐÔNG HIỆP	GHI CHÚ
+PHẦN 1: PHẦN XÂY DỰNG 
+I	KHU VỰC HẦM
+1	Hầm 2/ Hầm 1	Trần	Để thô + Defect giáp mí bêtông.	
+		Tường/cột vách	- Sơn dầu Vách bao hầm cao 1000 mm.
+- Sơn dầu Cột, vách bên trong cao 1000 mm.
+- Bả bột Skimcoat ngoài nhà màu xám từ cote hoàn thiện sơn dầu đến trần cho cột, vách.
+- Ốp V (800x100x10mm) phản quang cho cột vách.
+- Sơn phản quang định vị số tên cột (Tên block, số cột, số thứ tự cột).
+- Gương cầu lồi các vị trí đảm bảo giao thông an toàn	
+		Vách tường vây barrette (nếu có)	- Tô xử lý bề mặt hoàn thiện
+- Hoàn thiện tương tự cột vách bao hầm (Sơn dầu Vách bao hầm cao 1000 mm. Bả bột Skimcoat ngoài nhà màu xám từ cote hoàn thiện sơn dầu đến trần cho cột, vách).	
+		Nền	Nền hầm: 
+- Bêtông cắt ron chống nứt sau khi làm mặt.
+- Mài nền và phun tăng cứng.
+- Sơn kẻ vạch giao thông + Ô đậu xe.
+- Gờ chặn xe oto bằng cao su (1 vị trí 2 gờ) kích thước gờ chặn 550x150x100
+Hố ga:
+- Defect betong.
+- Nắp hố ga bằng vỉ thép.
+- Thanh chắn hố gas các vị trí có ống nước trục đứng, cao 300mm, dài theo chiều dài hố gas và cột cho các  vị trí hố gas (Thép ống đen D49 dày 1.4mm, Bản mã thép đen 150x150x5mm bu long liên kết. Sơn dầu chuyên dụng vàng đen)	
+2	Bể nước sinh hoạt, PCCC và bể cân bằng hồ bơi	- Bêtông tạo dốc về rốn bể (500x500x200mm)
+ - Chống thấm chuyên dụng cho bể nước cuộn từ nền lên thành và trần bể nước và toàn bộ các cấu kiện BTCT trong bể . (Sản phẩm sử dụng cho bể nước sinh hoạt phải đảm bảo an toàn cho nguồn nước sinh hoạt theo TCVN hiện hành, thi công mẫu, ngâm nước uống và lấy kết quả test đạt tiêu chuẩn an toàn theo tiêu chuẩn hiện hành mới tiến hành thi công thực tế.)
+- Không cán nền, không trát tường trần và không ốp lát.
+- Dùng thang leo inox 304 thăm bể.
+- Nắp thăm bể dùng inox 304.
+- Các phụ kiện kim loại (vít, ke…) sử dụng trong bể dùng Inox 304	
+3	Bể tự hoại, XLNT	 - Chống thấm chuyên dụng cho bể nước (góc epoxy) cuộn từ nền lên thành và trần bể nước.
+- Không cán nền, không trát tường trần, và không ốp lát.
+- Nắp thăm bể dùng loại chuyên dụng bằng gang (chống mùi).	
+4	Phòng Kỹ thuật 
+(Phòng điện nhẹ, Phòng tủ MSB, Các phòng quạt hút, Phòng bơm nước sinh hoạt-PCCC, phòng bơm hồ bơi, phòng bơm XLNT)	Nền	- Bêtông đổ bằng cao độ bêtông bên ngoài, xoa nền hoàn thiện
+- Thi công kicker cao 100mm so với cote sàn hầm vị trí ngạch cửa.
+- Bệ móng thiết bị Cơ điện cao 150mm so với cote sàn hầm.
+-> Nhà đầu tư điện nhẹ từ đầu tư hoàn thiện hệ thống.	
+		Tường	- Vữa tô trát.
+- Bả bột Skimcoat ngoài nhà màu xám.
+- Cửa thép chống cháy theo Tiêu chuẩn.	
+		Trần	Để thô + Defect bêtông	
+5	Ram dốc	Nền	- Bêtông cốt thép theo kết cấu, xoa nền hoàn thiện.
+- Cắt ron chữ V chống trượt 10-15º @300mm, sâu 20mm
+- Cắt ron dọc hai bên ram dốc.	
+		Tường	-Tầng 1 xuống hầm 1:
+    + Sơn phản quang vị trí chân vách ram dốc (cao 600mm, nghiêng 45º màu vàng đen @300mm)
+    + Sơn gai 2 vách ram dốc từ cote hoàn thiện sơn vàng đen đến trần.
+-Hầm 1 xuống hầm 2:
+   + Sơn phản quang vị trí chân vách ram dốc (Cao 600mm, nghiêng 45º màu vàng đen @300mm).
+    + Bả Skimcoat phần cao độ còn lại đến đáy trần.	
+		Trần	- Tầng 1 xuống hầm 1:
+Sơn dầu theo màu xám đậm mặt ngoài tòa nhà
+- Hầm 1 xuống hầm 2:
+Để thô + Defect betong	
+II	KHU VỰC HÀNH LANG / SẢNH THANG / CẦU THANG BỘ.
+6	Sảnh thang các tầng (trừ tầng kĩ thuật thang máy)	Nền	- Cán nền dày tối thiểu 30mm.
+- Lát gạch semi porcelain (loại giá tốt và tối ưu)
+- Lát đá Granite vị trí ngạch cửa thang máy. Ngạch cửa tạo dốc, hướng dốc đổ từ trong thang ra ngoài nền sảnh.	
+		Tường	* Tường mặt thang máy.
+- Vữa tô trát (vách bêtông không tô).
+- Keo dán gạch chuyên dụng.
+- Ốp Gạch bao gồm viền cửa thang máy (loại giá tốt và tối ưu)
+* Tường ngoài sảnh thang.
+- Vữa tô trát.
+- Bả matit + Sơn 2 lớp hoàn thiện.
+- Len chân tường bằng gạch semi porcelain cùng loại với gạch lát nền.
+(Các vị trí tầng TTTM và Dịch vụ thì vẫn thi công tương tự các dự án NOTM)	
+		Trần	- Trần thạch cao khung chìm, nắp thăm trần.
+- Bả matit + Sơn 2 lớp hoàn thiện.	
+		Cửa các loại	- Cửa các P.KT cửa chống cháy theo Tiêu chuẩn
+- Cửa sổ nhôm kính đầu hồi hành lang: Hệ nhôm 55 dày 1.2mm Kính ghép 6.38mm.	
+7	Hành lang các tầng 	Nền	- Cán nền dày tối thiểu 30mm.
+- Lát gạch xương semi porcelain. (loại giá tốt và tối ưu) 	
+		Tường	- Vữa tô trát tường gạch, (cột/vách bêtông không tô).
+- Kết cấu cột vách Bêtông liền cote tường hoàn thiện hành lang không tô (dán lưới thủy tinh tiếp giáp vách bêtông và tường tô).
+- Bả matit + Sơn 2 lớp hoàn thiện.
+- Len chân tường bằng gạch xương semi porcelain. (loại giá tốt và tối ưu) cùng loại với nền.	
+		Trần	- Trần thạch cao khung nổi 600x1200mm.	
+8	Sàn tầng tum	Nền
+Tường
+Trần	- Cán nền dày tối thiểu 30mm.
+- Lát gạch cùng loại hành lang các tầng theo quy cách hoàn thiện của từng loại Dự án.	
+			- Vữa tô trát.
+- Bả matit + Sơn lót 1 lớp.
+- Louver thông gió và tản nhiệt
+- Cửa thép chống cháy theo Tiêu chuẩn, có khóa.
+- Len gạch cao 100m, cùng loại gạch lát nền	
+			Để thô + Defect bêtông	
+9	Sàn tầng Kỹ thuật thang máy	Nền	- Bêtông đổ bằng cao độ bêtông hoàn thiện, xoa nền hoàn thiện	
+		Tường	- Vữa tô trát.
+- Bả bột Skimcoat ngoài nhà màu xám.
+- Louver thông gió và tản nhiệt
+- Cửa thép chống cháy có khóa theo Tiêu chuẩn.
+- Không thi công len gạch chân tường	
+		Trần	Để thô + Defect bêtông	
+10a	Phòng đệm Cầu thang bộ	Nền	-	Đối với các P.Đệm CTB (thang N3)  Đổ bê tông thô tới cote hoàn thiện.
+-	Đối với các P.Đệm CTB (thang N1) thì đổ bê tông thô tới cote hoàn thiện, 
+-	Chỉ quét chống thấm, cán nền và lát gạch đối với các vị trí sát ô thông gió.	
+		Tường	- Vữa tô trát tường gạch, (cột/vách bêtông không tô).
+- Bả bột Skimcoat ngoài nhà màu xám.	
+		Trần	Để thô + Defect bêtông	
+10b	Cầu thang bộ	Nền	* Bậc thang, chiếu tới, chiếu nghỉ:
+- Để thô theo thiết kế kết cấu, bậc cầu thang đổ Bêtông, defect hoàn thiện.	
+		Tường	- Vữa tô trát tường gạch, (cột/vách bêtông không tô).
+- Bả bột Skimcoat ngoài nhà màu xám.
+- Cấu tạo cầu thang đảm bảo QCXDVN 05:2008/BXD.	
+		Trần	Để thô + Defect bêtông	
+III	PHÒNG KỸ THUẬT ĐIỆN – NƯỚC / P. ĐỆM RÁC VÀ P. RÁC
+11	Phòng kỹ thuật điện/nước	Nền	- Bêtông đổ đến cote sàn hoàn thiện hành lang.
+- Fill betong kín lỗ mở theo tiêu chuẩn PCCC
+- Xoa nền hoàn thiện lúc đổ bê tông.	
+		Tường	- Vữa tô trát tường gạch, (cột/vách bêtông không tô).
+- Bả bột Skimcoat ngoài nhà màu xám
+- Cửa thép chống cháy theo quy chuẩn.
+- Đèn tuýp 600.
+- Có ổ cắm kết hợp công tắc (1 tầng có 1 ổ cắm/tháp)	
+		Trần	Để thô + Defect bêtông.	
+12a	Phòng đệm rác	Nền	- Fill betong kín lỗ mở theo tiêu chuẩn PCCC nếu mở hộp gain. 
+- Chống thấm sàn và phủ qua ngạch cửa 200mm.
+- Lát gạch xương Ceramic (loại tối ưu và rẻ nhất).	
+		Tường	- Chống thấm cuốn chân tường cao 300mm.
+- Vữa tô trát.
+- Bả bột Skimcoat ngoài nhà màu xám
+- Cửa thép chống cháy theo Tiêu chuẩn sử dụng cùi chỏ hơi và thanh panic, không dùng khóa tay nắm.	
+		Trần	Để thô + Defect bêtông.	
+12b	Phòng rác	Nền	- Fill betong kín lỗ mở theo tiêu chuẩn PCCC nếu mở hộp gain. 
+- Chống thấm sàn và phủ qua ngạch cửa 200mm.
+- Cán nền tạo dốc ≥2%, dày tối thiểu 20mm (tạo độ dốc vào phễu thu sàn). 
+- Lát gạch xương Ceramic (loại tối ưu và rẻ nhất), 	
+		Tường	- Chống thấm chân tường cao 300mm.
+- Vữa tô trát.
+- Ốp gạch xương Ceramic (loại rẻ nhất, cao 1200mm. 
+- Bả bột Skimcoat ngoài nhà màu xám (từ hàng gạch ốp trên cùng đi lên đến đáy dầm/sàn).
+- Cửa thép chống cháy sử dụng cùi chỏ hơi, dùng thanh đẩy/kéo.	
+		Trần	Để thô + Defect bêtông.	
+IV	KHU VỰC TRONG CĂN HỘ
+13	Phòng Khách	Nền	- Cán nền dày tối thiểu 30mm.
+- Lát gạch 600x600 xương Semi Porcelain	
+		Tường	- Vữa tô trát tường gạch, (cột/vách bêtông không tô).
+- Bả matit + Sơn 2 lớp hoàn thiện trong nhà
+- Len nhựa chân tường	
+		Trần	- Trần thạch cao khung chìm, cao 2650
+- Bả matit + Sơn 2 lớp hoàn thiện trong nhà.
+- Không có hốc rèm	
+		Cửa các loại	- Cửa thép chống cháy theo quy chuẩn Kết hợp Khóa cơ, Không thi công mắt thần.
+- Cửa logia, cửa trượt hệ nhôm 93 dày 1.2mm gia cường thanh nhôm cánh đứng giữa dày 2.0mm. Kính cường lực 6mm (Kích thước 1.8x2.2m) kết hợp gạch ngạch cửa.	
+		Nội thất	- Tủ bếp trên
+- Tủ bếp dưới
+(Ván MDF lõi xanh chống ẩm, tấm hậu tủ dưới dày 9mm, các vị trí khác dày 17mm.  KES / Ba Thanh / Mộc Phát/ Thanh Thùy / tương đương -Ưu tiên loại giá phù hợp).	
+14	Phòng Ngủ  Master	Nền	- Cán nền.
+- Lát sàn gỗ dày 8mm, form bạc 1 mặt 3mm.	
+		Tường	- Vữa tô trát.
+- Len nhựa chân tường
+- Bả matit + Sơn 2 lớp hoàn thiện trong nhà.	
+		Trần	- Trần thạch cao khung chìm
+- Bả matit + Sơn 2 lớp hoàn thiện trong nhà.
+- Không có hộc rèm	
+		Cửa các loại	 - Cửa ABS Kích thước 800x2100mm kết hợp gạch ngạch cửa 800x800 và nẹp T nhôm.
+- Cửa sổ PN, hệ nhôm 55 dày 1.2mm Kính ghép 6.38mm (Kích thước 1600x1750mm).	
+15	Phòng Ngủ nhỏ	Nền	- Cán nền.
+- Lát sàn gỗ dày 8mm, form bạc 1 mặt 3mm	
+		Tường	- Vữa tô trát.
+- Len nhựa chân tường 
+- Bả matit + Sơn 2 lớp hoàn thiện trong nhà.	
+		Trần	- Trần thạch cao khung chìm
+- Bả matit + Sơn 2 lớp hoàn thiện trong nhà.
+- Không có hộc rèm.	
+		Cửa các loại	- Cửa ABS Kích thước 800x2100mm kết hợp gạch ngạch cửa và nẹp T nhôm.
+- Cửa sổ PN, hệ nhôm T500 dày 1mm, Kính 4mm CL (Kích thước 800x1100mm)	
+16	WC Master	Nền	- Chống thấm sàn và phủ qua ngạch cửa 200mm.
+- Cán nền tạo dốc ≥2%, dày tối thiểu 20mm (vị trí phễu thu). 
+- Lát gạch 300x300mm xương Ceramic 	
+		Tường	- Vữa tô trát.
+- Ốp gạch 300x600mm xương Ceramic đụng trần	
+		Trần	- Trần thạch cao khung chìm, có nắp thăm trần.
+- Bả matit + Sơn 2 lớp hoàn thiện trong nhà.	
+		Cửa các loại	- Cửa ABS Kích thước 700x2100mm kết hợp gạch ngạch cửa.
+- Không làm vách kính tắm đứng.
+- Cửa WC các căn góc hệ nhôm 55 dày 1.2mm Kính ghép 6.38mm	
+17	WC Nhỏ	Nền	- Chống thấm sàn và phủ qua ngạch cửa 200mm.
+- Cán nền tạo dốc ≥2%, dày tối thiểu 20mm (vị trí phễu thu). 
+- Lát gạch 300x300mm xương Ceramic	
+		Tường	- Vữa tô trát.
+- Ốp gạch 300x600mm xương Ceramic đụng trần	
+		Trần	- Trần thạch cao khung chìm, có nắp thăm trần.
+- Bả matit + Sơn 2 lớp hoàn thiện trong nhà.	
+		Cửa các loại	- Cửa ABS Kích thước 700x2100mm kết hợp gạch ngạch cửa.	
+18	Logia	Nền	- Chống thấm sàn và phủ qua ngạch cửa 200mm.
+- Cán nền tạo dốc ≥2%, dày tối thiểu 20mm (vị trí phễu thu). 
+- Lát gạch 400x400mm xương Semi Porcelain	 
+		Tường	- Vữa tô trát.
+- Bả matit + Sơn phủ hoàn thiện ngoài nhà 2 lớp
+- Len gạch chân tường 400x400 xương Semi Porcelain (cùng loại gạch lát nền)	 
+		Trần	- Defect bêtông mài phẳng không tô trát
+- Chỉ nước nổi tròn. 
+- Bả matit + Sơn phủ hoàn thiện ngoài nhà 2 lớp	
+		Lan can	- Chân kicker logia cao 150mm (Sơn phẳng hoàn thiện).
+- Thanh trụ đứng và thanh ngang thép la 40x8mm.
+- Thanh lam đứng thép la 30x5mm.
+- Sơn hoàn thiện dầu màu xám.	
+V	KHU VỰC SHOPHOUSE
+19	Phòng Khách	Nền	- Cán nền dày tối thiểu 30mm.
+- Lát gạch 600x600 xương porcelain.
+ 	
+		Tường	- Vữa tô trát tường gạch, (cột/vách bêtông không tô).
+- Bả matit + Sơn 2 lớp hoàn thiện trong nhà
+ 	
+		Trần	- Trần thạch cao khung chìm, nắp thăm trần.
+- Bả matit + Sơn 2 lớp hoàn thiện trong nhà
+ 	
+		Cửa các loại	- Vách kính CL10mm hệ nhôm 55 dày 1.4mm
+ 	
+20	WC	Nền	- Chống thấm sàn và phủ qua ngạch cửa 200mm.
+- Cán nền tạo dốc ≥2%, dày tối thiểu 20mm (vị trí phễu thu). 
+- Lát gạch 300x300mm xương Ceramic.
+ 	
+		Tường	- Vữa tô trát.
+- Ốp gạch 300x600mm xương Ceramic đụng trần
+ 	
+		Trần	- Trần thạch cao khung chìm, có nắp thăm trần.
+- Bả matit + Sơn 2 lớp hoàn thiện trong nhà
+ 	
+		Cửa các loại	- Cửa ABS Kích thước 700x2100mm kết hợp đá granite xanh đen campuchia ngạch cửa.
+ 	
+VI	MẶT NGOÀI NHÀ
+21	Mặt ngoài nhà	Mặt ngoài
+Từ tầng trệt tới hết gờ chỉ tầng 2	- Vữa tô trát.
+- Bả matit mặt ngoài.
+- Phun sơn gai theo màu phối cảnh đến hết mặt đứng gờ chỉ, Ốp V viền góc cạnh
+ 	
+		Mặt ngoài
+Từ tầng 2 trở lên tầng 6	- Vữa tô trát.
+- Bả matit mặt ngoài + Phun gai mặt ngoài (Chỉ mặt ngoài, không cuộn vào logia).
+ 	
+		Mặt ngoài
+Từ tầng 6 trở lên tới mái	- Vữa tô trát.
+- Không bả matit mặt ngoài + Phun gai mặt ngoài (Chỉ mặt ngoài, không cuộn vào logia).	
+		Mái đón kính	- Khung đỡ kết cấu thép I200x150
+- Polycarbonat, độ vươn: 1600mm. (Lưu ý chỉ thiết kế cho các vị trí shophouse, và lối vào sảnh chính)	
+		Tường bao mái	- Vữa tô trát.
+- Không bả matit mặt ngoài + Phun gai mặt ngoài và trong 	
+		Pegola	Không thi công pegola (Chỉ làm vị trí gắn logo và vị trí có tum thang)	 
+		Chiều cao tầng điển hình	3.1m	 
+VII	KHU VỰC MÁI
+22	Khu sàn tầng mái	Nền	- Sàn bê tông tạo dốc về mương và tạo mương trong kết cấu.(Lưu ý: Không thi công hệ thống MEP âm trong sàn bê tông)
+- Vị trí phễu thoát dùng 1 sleeve chết d114, và phễu thoát nước có ống nòng d90.
+- Chống thấm bằng vật liệu PU cuốn chân tường 300 gốc xi măng
+- Lớp vữa cán nền tạo dốc về phễu
+- Hoàn thiện lát gạch ghế hoặc xây gối và lót tấm đan bê tông nhẹ, có phun lớp chống rêu mốc.	
+		Tường	- Vữa tô trát.
+- Bả matit mặt ngoài và trong.
+- Sơn phẳng mặt ngoài và trong.	
+23	Sàn tum thang	Nền	- Kết cấu bê tông tạo dốc về phễu.
+- Chống thấm.
+- Cán vữa nền.
+- Lát gạch tận dụng vụn và dư tại dự án.	
+		Tường	- Đổ chân kicker cao 150mm
+- Thi công lan can: 
++ Thanh trụ đứng và thanh ngang thép la 40x5mm
++ Thanh lam đứng thép la 40x5mm
++ Sơn hoàn thiện màu xám, Sơn dầu  02 thành phần. 
++ Ổ khóa mật khẩu, thang sắt lên mái tum thang, kỹ thuật.	
+		Thang leo mái	- Thanh ngang thép ống D34 dày 1,4mm 
+- Thanh đứng thép ống D42 dày 2mm
+- Thanh la thép 30x2mm giằng khung
+- Bản mã inox 120x120x5mm + bulong inox 304 M10
+- Sơn hoàn thiện màu xám, Sơn dầu  02 thành phần. 
+- Ổ khóa mật khẩu, lưới chống leo trèo.	
+VIII	KHU VỰC LANDSCAPE VÀ SÂN NỀN / HỒ BƠI
+24	Hồ bơi	Mặt ngoài tiếp giáp đường nội bộ:	- Lớp chống thấm 
+- Ốp gạch/đá 150x300mm	
+		Mặt trong hồ bơi:	- Chống thấm gốc xi măng.
+- Vữa tô trát.
+- Ốp gạch Mosaic bằng keo liên kết. 	
+		Mương tràn:	- Lớp chống thấm toàn bộ nền, vách thành.
+- Ốp gạch ceramic mặt trong, nhựa trong 3 chấu + gia cường inox vỉ nhựa.
+ - Cầu thang hồ bơi Inox 304.
+- Thanh ngăn hồ bơi trẻ em bằng INOX
+- Lan can kính (cường lực 12mm) hồ bơi, thanh đứng inox 304 + cửa an toàn lối ra/vào hồ bơi có khóa chốt mật khẩu.	
+		Sàn đệm Hồ bơi	- Cán vữa hoàn thiện
+- Lát gạch granite khò mặt dán kéo chuyên dụng	
+		Bậc tam cấp hồ bơi	- Cán vữa hoàn thiện
+- Lát gạch granite khò mặt dán kéo chuyên dụng	
+25	Tường rào	Tường
+Bổ trụ giằng tường	- Cột bêtông theo kết cấu.
+- Đà giằng theo kết cấu.
+- Xây gạch block – diện tích phần gạch block để thô
+- Cột và đà giằng tô hoàn thiện, bả matic + Sơn 2 lớp hoàn thiện theo màu xám đậm mặt ngoài tòa nhà.	
+26	Sân nền	Mặt đường: 	+ Bê tông nhựa đường chạy vòng quanh.
++ Khu sân nền trung tâm lát đá.	
+		Mương nước:	- Betong tạo dốc về hố ga
+- Defect betong
+- Nắp mương bằng bê tông cứng.	
+		Hố ga:	- Defect betong
+- Nắp hố ga bằng bê tông cứng.	
+27a	Kicker bồn hoa trên nền hầm
+(kicker bồn hoa thấp 250mm tạo hình lối đi và kicker 450mm loại tạo hình làm ghế ngồi)	Mặt trong:	- Chống thấm gốc xi măng.
+- Hoàn thiện đá rửa theo mặt ngoài cuộn xuống 70mm (hoặc để thô tùy theo kicker).	
+		Mặt ngoài:	- Betong theo tạo hình bồn hoa.
+- Hoàn thiện đá rửa cho kicker loại thấp để tạo hình lới đi và đá mài cho kicker tạo hình ghế ngồi (nếu có).
+	
+		Nền bồn hoa	- Chống thấm gốc xi măng.
+- Vữa cán nền M75, tạo dốc 1,5-2% về phễu (có bọc vãi địa mặt trên phễu) thoát nước, chổ mỏng nhất dày 20mm (vị trí phễu thu chuyên dụng).
+- Vỉ nhựa Vesicell dày 30mm.
+- Vải địa.
+- Đất hữu cơ trồng cây 200mm.
+- Cây xanh theo phối cảnh.	
+27b 	Kicker bồn hoa trên nền hầm
+(bồn hoa cao 800mm cho cây lớn)	Mặt ngoài và mặt trong	- Kicker Betong tạo hình theo bồn hoa.
+- Lớp chống thấm  gốc xi măng sân nền và cuộn lên thành 300mm
+- Ốp đá chẻ hoàn thiện, mặt trên lát đá granite (đá đen campuchia) hoặc Hoàn thiện đá rửa / đá mài theo mặt ngoài cuộn xuống thành trong 70mm. 
+- Sơn dầu hoàn thiện, chỉ ốp đá một số vị trí cần điểm nhấn.	
+		Nền bồn hoa	- Chống thấm gốc xi măng.
+- Vữa cán nền M75, tạo dốc 1,5-2% về phễu (có bọc vãi địa mặt trên phễu) thoát nước, chổ mỏng nhất dày 20mm (vị trí phễu thu chuyên dụng).
+- Vỉ nhựa Vesicell dày 30mm.
+- Vải địa.
+- Đất hữu cơ trồng cây 200mm.
+- Cây xanh theo phối cảnh.	
+28	Trạm điện	Nền trạm	 
+- Đổ betong sàn trạm điện và các bệ máy theo kích thước thiết bị.
+- Kicker tạo hình mương thu dầu cho máy phát điện
+- Lớp chống thấm sàn trạm điện, cuộn lên thành các bệ máy
+- Cán nền bảo vệ chống thấm
+- Lát đá hoàn thiện cùng loại với đá sân nền hoặc Lát đá granite tận dụng từ đá khoét bồn rữa (nếu dự án có chủ trương bàn giao bồn rữa)	
+		Tường mặt ngoài trạm điện	- Bê tông thô defect, quét chống rêu mốc.	
+29	Tháp gió	Mái	- Mái bêtông cốt thép có tạo dốc thoát nước ≥2%.
+- Sơn 2 lớp hoàn thiện theo màu xám đậm mặt ngoài tòa nhà.	
+		Tường mặt trong	- Vữa tô trát.	
+		Tường mặt ngòai	- Vữa tô trát.
+- Bả Matic + Sơn 2 lớp hoàn thiện theo màu xám đậm mặt ngoài tòa nhà	
+   PHẦN 2: PHẦN MEPF 
+I	KHU VỰC CHUNG
+30	Thang máng cáp điện nặng, điện nhẹ	Thang cáp điện	- Toàn bộ thang cáp tole tráng kẽm, không sơn, không nắp (điện nặng dán chỉ hướng màu cam, điện nhẹ dán chỉ hướng màu xanh).
++ Kích thước bề rộng <300 dày 1.0mm
++ Kích thước bề rộng >= 300mm dày 1.2mm
++ Chiều rộng thang cáp các tầng trên giảm xuống còn tối thiểu vừa đủ (tùy theo số lượng dây từng tầng, đặc biệt là các tầng trên cùng của trục đứng).	
+		Máng cáp khu vực có trần	- Toàn bộ máng cáp dùng tole tráng kẽm, không sơn, không nắp (điện nặng dán chỉ hướng màu cam, điện nhẹ dán chỉ hướng màu xanh).
++ Kích thước bề rộng <=300 dày 1.0mm
++ Kích thước bề rộng > 300mm dày 1.2mm
++ Chiều rộng máng cáp giảm xuống tối thiểu vừa đủ (tùy theo số lượng dây bố trí trong máng, đặc biệt là các đoạn cuối của hành lang).	
+31		Máng cáp khu vực không trần, phòng MSB…		
+		Máng cáp phòng kỹ thuật tầng		
+32	Hệ thống chiếu sáng	Bóng đèn hành lang	Đèn chiếu sáng hành lang dùng bóng đèn tuýp dài 1,2m 16~24W, khoảng cách lắp đặt khoảng 3.6~4.2m/cái (tim đèn)
+(Lưu ý khoảng cách thỏa tiêu chuẩn Thiết kế).	
+33		Cấp nguồn chiếu sáng	Toàn bộ đèn led chiếu sáng lắp 2 dây.	
+34		Cảm biến đèn phòng rác	- Phòng đệm và phòng rác mỗi phòng lắp đặt riêng 1 đèn led tuýp dài 600mm, nhưng dùng chung 1 cảm biến.	
+35		Line cấp nguồn chiếu sáng	Chiếu sáng hành lang dùng 2 line dây xen kẽ để chiếu sáng.	
+36		Đèn chiếu sáng sân nền	Đèn sân nền gồm:
++ Đèn trụ 1 bóng cao 5m.
++ Đèn trụ thấp cao 0,6m 8W
++ Đèn trụ 3 bóng cao 2,5m 40W	
+37	Tủ điện	Tủ điện chính MSB	Tủ MSB
+- Bỏ Cuộn kháng 7% cho tụ bù 3P 50KVAR
+- Bỏ Cuộn kháng 7% cho tụ bù 3P 40KVAR	
+		Tủ điện tầng	- Tủ EBD công cộng của tòa nhà 1 Lớp cửa, form 2B.
+- Tủ DB cấp nguồn cho căn hộ (bàn giao điện lực) 2 lớp của, from 2B, dày 1.5mm
+- CB: Chint/Himmel	
+38	Hệ thống Tiếp địa		- Hệ thống tiếp địa điện nặng và điện nhẹ riêng	
+39	Hệ thống điện nhẹ	Camera	- Tối ưu vị trí lắp đặt để giảm chiều dài dây dẫn nhưng vẫn đảm bảo công năng và thống nhất với đơn vị vận hành.
++ 2 Camera tại giữa hành lang và đối chiều nhau (Ghi hình khu vực hành lang).
++ 1 Camera tại sảnh thang (Ghi hình sảnh thang).	
+40	Hệ thống ĐHKK	Miệng gió phòng kỹ thuật
+(P. KT Hồ bơi, P. Bơm, P. Quạt, P.Điện …)	- Chỉ lắp van chặn lửa (FD hoặc MFS trên tường) không lắp kèm miệng gió.
+- Ưu tiên dùng chữa cháy khí cho P.KT Điện, các phòng khác dùng hệ nước) và thõa mãn yêu cầu HSTK thẩm duyệt PCCC.	
+41	Hệ thống cấp thoát nước	Hồ bơi	Lắp đặt hệ thống hồ bơi, hồ cảnh quan.
+(Đèn chiếu sáng hồ bơi loại âm viền)	
+42		Ống thoát nước	Toàn bộ ống thoát nước dùng ống PN6 (nhưng tại các vị trí gom trục đứng dùng ống PN9, thiết kế tính toán chiều dài tối ưu nhất).	
+43		Bồn cấp nước sinh hoạt	Bồn nước inox SUS304 ngang, có khung đế STK + thang thăm nắp bồn. 
+(Thể tích theo tính toán sao cho công suất vửa đủ đối với các dạng dự án NOXH ví dụ thể tích 45m3 thì dùng 1 bồn 25m3 và 1 bồn 20m3).	
+44		Ống cấp nước lên bồn nước mái	Ống PPR DN110 PN16 (phụ thuộc vào bảng tính thiết kế dựa trên cơ sở số tầng/ số căn).	
+45		Bơm cấp nước 	Máy bơm điện cấp nước sinh hoạt dùng Bơm lắp ráp trong nước hoặc chất lượng tương đương. (Công suất và cột áp thõa HSTK)	
+46		Trục thoát nước mưa	- P/A1: Mỗi căn hộ dịch vụ 1 trục thoát nước mưa DN100.
+- P/A2: Thoát nước logia kết nối chung trục thoát sàn toilet căn hộ (Nếu vị trí lắp đặt đảm bảo thông thủy và độ dốc thiết kế).
+- P/A3: Hai căn hộ dịch vụ liền kề sử dụng chung 1 trục thoát nước mưa DN100.
+(Đặt sleeve chờ xuyên cột).
+* Tùy vị trí lắp đặt thực tế sẽ chọn 1 trong 3 phương án tối ưu nhất.	
+47	Hệ thống busway	Vỏ bảo vệ	- Vỏ bằng thép, tiếp địa bằng thanh dẫn (50% E).
+- Sử dụng loại giảm dòng trực tiếp hoặc không giảm dòng.	
+48	Máy phát điện	Động cơ	- Thương hiệu động cơ: SDEC/ SME/ YUCHAI/ Tương Đương thõa mãn công suất theo HSTK	
+		Đầu phát	- Thương hiệu đầu phát: First All / Kaijielli/ Faraday/ Tương Đương thõa mãn công suất theo HSTK	
+49	Hệ thống trung thế	Tiết diện cáp trung thế	- Tính toán tiết diện cáp trung thế tối ưu nhất và thỏa yêu cầu của EVN.
+(Lưu ý Thiết kế cập nhật từ thiết kế cơ sở).	
+		Ngăn lộ ra máy biến áp	- Sử dụng dao cắt tải LBS + chì ống cho ngăn lộ ra máy biến áp.	
+50	Hệ thống chữa cháy Sprinkler	Ống chữa cháy	- Ống chữa cháy: Ống thép mạ kẽm nhúng nóng có độ dày BS1387-M, ASTM A53 thỏa TCVN 7336: 2021.	
+		Cụm bơm chữa cháy	- Bơm chữa cháy: Nhập khẩu từ nhà máy nước ngoài, lắp ráp đồng bộ, kiểm định tại Việt Nam (Công suất và cột áp thõa HSTK)	
+		Đầu phun tầng hầm	- Đầu phun sprinkler tầng hầm có đặc tính thủy lực: K=8.0
+(Theo HSTK thẩm duyệt PCCC)	
+51	Hệ thống báo cháy, thông báo	Cáp tín hiệu báo cháy	Cáp cấp nguồn và tín hiệu báo cháy CV/FR kèm chống nhiễu hoặc theo TC/QC HSTK thẩm duyệt PCCC	
+		Tủ báo cháy trung tâm	Sử dụng 1 tủ báo cháy nhiều loop phù hợp với yêu cầu.	
+		Cáp cấp nguồn loa thông báo	- Cáp cấp nguồn báo cháy và loa thông báo trong căn hộ đi trong ống nổi 320N.
+- Cáp báo cháy hành hàng đi trong máng điện nhẹ, không đi trong ống điện.
+(Theo HSTK thẩm duyệt PCCC)	
+52	Hệ thống thông gió sự cố	Ống gió EI chống cháy	- Ống gió chống cháy.
++ Lớp E yếu tố toàn vẹn và lớp I cách nhiệt đáp ứng theo tiêu chuẩn chống cháy và HSTK thẩm duyệt PCCC
++ Lớp tole bên trong chỉ dùng loại dày 0.75mm đủ đáp ứng tiêu chí đốt mẫu.	
+		Cảm biến đầu quạt	- Không lắp cảm biến khói tại đầu quạt tăng áp tầng mái (Theo HSTK thẩm duyệt PCCC)	
+53	Chiếu sáng sự cố	Dây cấp nguồn đèn Exit	- Đèn led chiếu sáng khẩn chỉ lắp 2 dây.	
+54	Hệ thống chống sét	Đèn báo không	- Sử dụng 01 đèn báo không cho mỗi cạnh tòa nhà.	
+55	Hệ thống chữa cháy khí	Phòng điện chính MSB	- Sử dụng hệ thống chữa cháy SOL khí/CO2 cho hệ thống chữa cháy khí trong phòng điện chính MSB (Theo y/c HSTK thẩm duyệt PCCC)	
+		Phòng Bơm nước tầng Hầm	- Sử dụng đầu phun Sprinkler cho hệ thống chữa cháy khí trong phòng bơm nước tầng hầm (Theo y/c HSTK thẩm duyệt PCCC)	
+II	KHU VỰC CĂN HỘ
+56	Hệ thống ĐHKK và thông gió căn hộ	Ống đồng kèm bảo ôn	- Cách nhiệt đôi D6-10x10mm dùng trong dân dụng.
+- Ống đồng D6.35x0.81mm
+- Ống đồng D9.52x0.81mm	
+57		Dây cấp nguồn và điều khiển máy lạnh	- Dây điện CV/2x1Cx2.5mm2 (cấp nguồn từ dàn lạnh về dàn nóng)
+- Dây điện CV/1Cx1.5mm2 (dây khiển từ dàn lạnh về dàn nóng)
+- Ống luồn dây ruột gà xoắn D20	
+58		Ống thoát nước ngưng căn hộ	- Ống nước ngưng căn hộ chảy về phễu thu NVS
++ Ống nước ngưng âm tường UPVC DN15, cách nhiệt dày 5mm
++ Ống nước ngưng âm sàn UPVC DN15, không cách nhiệt.	
+59		Quạt hút mùi toilet	- Quạt hút toilet 200x200, 250x250.
+- Không lắp ống gió mềm từ quạt đến ống chờ. Ống thoát mùi bếp và thoát mùi WC dùng ống nhựa mỏng PVC D100mm.	
+60	Hệ thống điện căn hộ	Tủ điện căn hộ	- Tủ điện căn hộ 8 Module
+- 1 RCBO tổng 1P+N. 
+- 1 MCB cho chiếu sáng
+- 1 MCB cho cấp nguồn
+- 2 MCB (2 Máy lạnh PN dùng chung)
+- 1 MCB cho 2 máy nước nóng
+- 1 MCB cho bếp từ và quạt hút bếp	
+61		Ổ cắm, cấp nguồn căn hộ điển hình	
+- 1 Ổ cắm phòng khách (ổ cắm đôi)
+- 1 Ổ cắm tivi (ổ cắm đôi )
+- 1 Ổ cắm tủ lạnh (ổ cắm đôi )
+- 1 Ổ cắm cho bếp từ + thiết bị bếp khác.. (ổ cắm đôi )
+- 1 Ổ cắm cho máy giặt (tolet) (ổ cắm đôi )
+- 2 Ổ cắm cho PN lớn  (ổ cắm đôi)
+- 1 Ổ cắm cho PN nhỏ  (ổ cắm đôi)
+- Box chờ cấp nguồn cho máy nước nóng, máy lạnh.
+- Ống điện, dây cấp nguồn các loại…
+- Ống điện, dây cấp nguồn các loại với vị trí tối ưu nhất.
+- Ống điện đi âm 750N, ống điện đi nổi 320N, dây cáp CV.
+	
+62		Chiếu sáng căn hộ điển hình	
+- 3 Công tắc đơn, 2 công tắc đôi
+- 6 Bóng đèn 9W cho phòng khách và phòng ngủ (PN lớn 2 bóng, PK 4 bóng)
+- 6 Bóng đèn 12W (cửa PN lớn 1 bóng, PN nhỏ 2 bóng, toilet 2 bóng, máy giặt 1 bóng)
+- 1 Bóng đèn D300, 12W cho logia
+- 1 Box chờ cho đèn chùm
+- Ống điện nổi và âm tường 320N
+- Dây cấp nguồn CV…(Không lắp dây te)
+- Không thi công dây nguồn đèn chùm trong phòng khách.	
+63	Hệ thống internet	Ổ cắm mạng trong căn hộ	Chỉ đặt box (đế âm) chờ cho Router Wifi tại vị trí sau Tivi.	
+64	Thiết bị vệ sinh căn hộ	Bồn cầu	Bồn cầu 2 khối + ron nhựa ngăn mùi, dây cấp nước	
+		Lavabo	Lavabo treo 1 khối không có chân treo + bộ xả nhựa nắp lật mạ crôm	
+		Vòi xịt	Vòi xịt bồn cầu nhựa + van gốc Inox	
+		Vòi lavabo	Vòi lavabo lạnh + dây cấp	
+		Sen tắm nóng lạnh	Bộ sen tắm lạnh có tay sen	
+		Phụ kiện 	Bộ Phụ kiện 2 món (thanh treo, kệ gương)	
+		Gương	Gương lavabo (50x70)	
+		Chậu bếp	Không lắp chậu rửa bếp	
+65	Cấp thoát nước căn hộ	Cấp nước máy giặt	Đường ống cấp nước đến máy giặt tại vị trí logia/toilet có chiều dày tối ưu nhất.	
+66		Phễu thu sàn logia	- Trường hợp máy giặt đặt ở logia thì dùng phễu có cổ chờ cho thoát máy giặt
+- Trường hợp máy giặt đặt trong toilet thì chảy vào ống chờ.	
+67		Ống thoát nước chậu rửa bếp	Ống thoát nước chậu rửa bếp kích thước DN40	
+68		Chuyển trục thoát nước	Kết nối trục đứng với nhánh ngang thoát nước trong căn hộ dùng Tê cong thay Y + lơi 45 độ:
++ Trục thoát xí: Tê cong DN100/100
++ Trục thoát nước thải: Tê cong DN100/80
++ Trục thoát nước mưa logia: Tê cong DN100/50	
+
+
+
+
+
 
 
 Tiến độ thi công đến ngày hôm nay : Cọc ép : 55/200, cọc khoan nhồi cẩu tháp  lũy kế 16/16 cây, cọc khoan nhồi đại trà : cọc D1200 : 5/53,  cọc D1500 : 7/155
