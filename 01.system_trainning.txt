@@ -3738,6 +3738,94 @@ II	KHU VỰC CĂN HỘ
 
 
 
-Tiến độ thi công đến ngày hôm nay : Cọc ép : 94/200, cọc khoan nhồi cẩu tháp  lũy kế 16/16 cây, cọc khoan nhồi đại trà : cọc D1200 : 9/53,  cọc D1500 : 15/155
+Tiến độ thi công đến ngày hôm nay : Cọc ép : 99/200, cọc khoan nhồi cẩu tháp  lũy kế 16/16 cây, cọc khoan nhồi đại trà : cọc D1200 : 10/53,  cọc D1500 : 16/155
+
+
+
+
+
+
+
+KẾ HOẠCH BÀN GIAO NHÀ THẦU												
+DỰ ÁN: KHU CHUNG CƯ TÂN ĐÔNG HIỆP (REV002)												
+												
+STT	GÓI THẦU	TÊN GÓI THẦU	DỮ LIỆU ĐẦU VÀO	ĐƠN VỊ CUNG CẤP CƠ SỞ ĐẦU VÀO	ĐƠN VỊ KÝ HỢP ĐỒNG		HÌNH THỨC MỜI THẦU	HÌNH THỨC HỢP ĐỒNG	ĐƠN VỊ THỰC HIỆN	KẾ HOẠCH BÀN GIAO NHÀ THẦU	GHI CHÚ	 CHÚ THÍCH RIÊNG 
+					BÊN A	BÊN B						
+	A	GIAI ĐOẠN THI CÔNG PHẦN NGẦM										
+1	 GÓI THẦU SỐ 1	CUNG CẤP TỌA ĐỘ GPS	TKBVTC_Thẩm định Và BVCN	KHỐI THI CÔNG	ĐTXD Bcons	NTP	CHÀO THẦU CẠNH TRANH	 - Trọn Gói	K.Đấu Thầu		"Đã bàn giao 
+- NT đo đạc Miền Nam"	
+2	 GÓI THẦU SỐ 2	"BẢO HIỂM CÔNG TRÌNH
+ (THEO HỢP ĐỒNG CĐT GIAO NHÀ THẦU MUA)."	TKBVTC_Thẩm định Và BVCN	KHỐI THI CÔNG	ĐTXD Bcons	NTP	CHÀO THẦU CẠNH TRANH	 - Trọn Gói	K.Đấu Thầu		"Đã bàn giao 
+- NT AAA"	
+3	 GÓI THẦU SỐ 3	DỊCH VỤ QUAN TRẮC LÚN, CHUYỂN VỊ NGANG	TKBVTC_Thẩm định Và BVCN	KHỐI THI CÔNG	ĐTXD Bcons	NTP	CHỈ ĐỊNH THẦU	 - Trọn Gói	K.Đấu Thầu		"Đã bàn giao: 
+- NT IBST"	
+4	 GÓI THẦU SỐ 4	RÀ PHÁ BOM MÌN, VẬT NỔ	Phê duyệt chủ trương	ĐTXD Bcons	ĐTXD Bcons	NTP	CHỈ ĐỊNH THẦU	 - Trọn Gói	K.Đấu Thầu			
+5	 GÓI THẦU SỐ 5	CUNG CẤP VÀ THI CÔNG HÀNG RÀO TẠM, CÔNG TÁC TẠM TẠI DỰ ÁN	TK_Biện Pháp Thi Công	BAN QLDA	ĐTXD Bcons	NTP	CHÀO THẦU CẠNH TRANH	 - Trọn Gói	K.Đấu Thầu		"Đã bàn giao 
+- NT Bcons Tech"	
+6	 GÓI THẦU SỐ 6	CUNG CẤP VÀ LẮP ĐẶT TRẠM ĐIỆN TẠM PHỤC VỤ THI CÔNG	TKTC_Phần Ngầm	BAN QLDA	ĐTXD Bcons	NTP	CHÀO THẦU CẠNH TRANH	 - Trọn Gói	K.Đấu Thầu		"Đã bàn giao 
+- Trạm tạm: NT Hùng Dũng"	
+7	 GÓI THẦU SỐ 7	HỢP ĐỒNG MUA BÁN ĐIỆN PHỤC VỤ THI CÔNG	Phê duyệt chủ trương	BAN QLDA	CQNN	ĐTXD Bcons	CHỈ ĐỊNH THẦU	 - Đơn giá cố định	BCH.CT			
+8	 GÓI THẦU SỐ 8	HỢP ĐỒNG MUA BÁN NƯỚC PHỤC VỤ THI CÔNG	Phê duyệt chủ trương	BAN QLDA	CQNN	ĐTXD Bcons	CHỈ ĐỊNH THẦU	 - Đơn giá cố định	BCH.CT			
+9	 GÓI THẦU SỐ 9	CUNG CẤP VÀ THI CÔNG CỌC THỬ VÀ ĐẠI TRÀ	TKTC_Phần Ngầm	BAN QLDA	ĐTXD Bcons	NTP	CHÀO THẦU CẠNH TRANH	 - Trọn Gói	K.Đấu Thầu		"Đã bàn giao: 
+- Cung cấp cọc: Đồng Tâm
+- Ép cọc: Viễn Đông 
+- Khoan nhồi: OVAN"	
+10	 GÓI THẦU SỐ 10	CUNG CẤP VÀ THI CÔNG ÉP CỪ, SHORING	TKTC_Phần Ngầm	BAN QLDA	ĐTXD Bcons	NTP	CHÀO THẦU CẠNH TRANH	 - Trọn Gói	K.Đấu Thầu		"Đã bàn giao:
+- NT Hirose"	
+11	 GÓI THẦU SỐ 11	CUNG CẤP VÀ THI CÔNG TƯỜNG VÂY BIỆN PHÁP	TK_Biện Pháp Thi Công	KHỐI THI CÔNG	ĐTXD Bcons	NTP	CHÀO THẦU CẠNH TRANH	 - Trọn Gói	K.Đấu Thầu		Không thực hiện	
+12	 GÓI THẦU SỐ 12	CUNG CẤP VÀ LẮP ĐẶT HỆ THỐNG TIẾP ĐỊA, ỐNG CHỜ TRONG KẾT CẤU PHẦN HẦM 	TKTC_Phần Ngầm	BAN QLDA	ĐTXD Bcons	NTP	CHÀO THẦU CẠNH TRANH	 - Trọn Gói	K.Đấu Thầu	20/03/2025		
+13	 GÓI THẦU SỐ 13	THI CÔNG LẮP ĐẶT HỆ THỐNG ĐIỆN NƯỚC TẠM	TKTC_Phần Ngầm	BAN QLDA	ĐTXD Bcons	NTP	CHÀO THẦU CẠNH TRANH	 - Trọn Gói	K.Đấu Thầu	15/03/2025		
+14	 GÓI THẦU SỐ 14	THI CÔNG CHỐNG MỐI	TK_Biện Pháp Thi Công	KHỐI THI CÔNG	ĐTXD Bcons	NTP	CHÀO THẦU CẠNH TRANH	 - Trọn Gói	K.Đấu Thầu		"Đã bàn giao:
+- NT Hoàn mỹ"	
+15	 GÓI THẦU SỐ 15	THI CÔNG ĐÀO, ĐẮP ĐẤT, BÊ TÔNG LÓT	TKTC_Phần Ngầm	BAN QLDA	ĐTXD Bcons	NTP	CHÀO THẦU CẠNH TRANH	 - Trọn Gói	K.Đấu Thầu		"Đã bàn giao:
+- NT Đại Hồng Phát"	
+16	 GÓI THẦU SỐ 16	HỢP ĐỒNG CUNG CẤP CẨU THÁP	"TK_Biện Pháp Thi Công
+TKTC_Phần Ngầm"	P. VẬT TƯ - THIẾT BỊ	ĐTXD Bcons	NTP		 - Trọn Gói	K.Đấu Thầu		Phòng VTTB giao thầu	
+17	 GÓI THẦU SỐ 17	THI CÔNG KẾT CẤU BTCT PHẦN NGẦM 	Phê duyệt nhà thầu	BAN QLDA	ĐTXD Bcons	NTP	ĐẤU THẦU RỘNG RÃI	 - Trọn Gói	K.Đấu Thầu	20/03/2025		
+18	 GÓI THẦU SỐ 18	CHỐNG THẤM - PHẦN NGẦM	TKTC_Phần Ngầm	BAN QLDA	ĐTXD Bcons	NTP	CHÀO THẦU CẠNH TRANH	 - Trọn Gói	K.Đấu Thầu	15/02/2025		
+19	 GÓI THẦU SỐ 19	HỢP ĐỒNG CUNG CẤP VẬN THĂNG	TKTC_Phần Ngầm	P. VẬT TƯ - THIẾT BỊ	ĐTXD Bcons	NTP		 - Trọn Gói	K.Đấu Thầu		Phòng VTTB giao thầu	
+20	 GÓI THẦU SỐ 20	HỢP ĐỒNG CUNG CẤP COFFA NHÔM	Phê duyệt nhà thầu	P. VẬT TƯ - THIẾT BỊ	ĐTXD Bcons	NTP		" - Trọn Gói
+ (theo tháng)"	K.Đấu Thầu		Phòng VTTB giao thầu	
+	B	GIAI ĐOẠN THI CÔNG PHẦN THÂN - HOÀN THIỆN										
+21	 GÓI THẦU SỐ 21	THI CÔNG KẾT CẤU BTCT PHẦN THÂN	TKBVTC_Thẩm định Và BVCN	BAN QLDA	ĐTXD Bcons	NTP	ĐẤU THẦU RỘNG RÃI	 - Trọn Gói	K.Đấu Thầu	01/09/2025		
+22	 GÓI THẦU SỐ 22	"CUNG CẤP VÀ LẮP ĐẶT HỆ THỐNG CƠ ĐIỆN
+(PHÒNG VẬT TƯ - THIẾT BỊ CUNG CẤP VẬT TƯ TỦ ĐIỆN, THIẾT BỊ ĐIỆN, CẤP NƯỚC (ĐÈN, Ổ CẮM CÁC LOẠI, CAMERA, QUẠT HÚT MÙI, THIẾT BỊ VỆ SINH,…,)"	'TKBVTC_Thẩm định Và BVCN	BAN QLDA	ĐTXD Bcons	NTP	ĐẤU THẦU RỘNG RÃI	 - Trọn Gói	K.Đấu Thầu	05/08/2025		
+23	 GÓI THẦU SỐ 23	CUNG CẤP VÀ LẮP ĐẶT HỆ THỐNG PCCC + CHỐNG SÉT	'TKBVTC_Thẩm định Và BVCN	BAN QLDA	ĐTXD Bcons	NTP	ĐẤU THẦU RỘNG RÃI	 - Trọn Gói	K.Đấu Thầu	05/08/2025		
+24	 GÓI THẦU SỐ 24	CUNG CẤP VÀ THI CÔNG HẠNG MỤC XÂY TÔ, ỐP LÁT HOÀN THIỆN	'TKBVTC_Thẩm định Và BVCN	BAN QLDA	ĐTXD Bcons	NTP	ĐẤU THẦU RỘNG RÃI	 - Trọn Gói	K.Đấu Thầu	03/01/2026		
+25	 GÓI THẦU SỐ 25	CHỐNG THẤM - PHẦN THÂN	'TKBVTC_Thẩm định Và BVCN	BAN QLDA	ĐTXD Bcons	NTP	ĐẤU THẦU RỘNG RÃI	 - Trọn Gói	K.Đấu Thầu	03/01/2026	Gộp chung gói thầu Hoàn thiện	
+26	 GÓI THẦU SỐ 26	CUNG CẤP VÀ LẮP ĐẶT THANG MÁY	'TKBVTC_Thẩm định Và BVCN	BAN QLDA	ĐTXD Bcons	NTP	ĐẤU THẦU RỘNG RÃI	 - Trọn Gói	K.Đấu Thầu	15/07/2026		
+27	 GÓI THẦU SỐ 27	CUNG CẤP VÀ LẮP ĐẶT HỆ THỐNG BUSWAY	'TKBVTC_Thẩm định Và BVCN	BAN QLDA	ĐTXD Bcons	NTP	ĐẤU THẦU RỘNG RÃI	 - Trọn Gói	K.Đấu Thầu	15/07/2026		
+28	 GÓI THẦU SỐ 28	CUNG CẤP VÀ THI CÔNG HẠNG MỤC SƠN NƯỚC.	'TKBVTC_Thẩm định Và BVCN	BAN QLDA	ĐTXD Bcons	NTP	ĐẤU THẦU RỘNG RÃI	 - Trọn Gói	K.Đấu Thầu	10/04/2026		
+29	 GÓI THẦU SỐ 29	CUNG CẤP VÀ THI CÔNG HẠ TẦNG VIỄN THÔNG	'TKBVTC_Thẩm định Và BVCN	BAN QLDA	ĐTXD Bcons	NTP	ĐẤU THẦU RỘNG RÃI	 - Trọn Gói	K.Đấu Thầu	15/05/2026		
+30	 GÓI THẦU SỐ 30	CUNG CẤP VÀ THI CÔNG HẠNG MỤC THẠCH CAO.	'TKBVTC_Thẩm định Và BVCN	BAN QLDA	ĐTXD Bcons	NTP	ĐẤU THẦU RỘNG RÃI	 - Trọn Gói	K.Đấu Thầu	10/04/2026		
+31	 GÓI THẦU SỐ 31	CUNG CẤP VÀ THI CÔNG HẠNG MỤC LAN CAN, CƠ KHÍ KHÁC	'TKBVTC_Thẩm định Và BVCN	BAN QLDA	ĐTXD Bcons	NTP	ĐẤU THẦU RỘNG RÃI	 - Trọn Gói	K.Đấu Thầu	20/05/2026		
+32	 GÓI THẦU SỐ 32	CUNG CẤP VÀ THI CÔNG HẠNG MỤC CỬA SỔ, CỬA NHÔM KÍNH, VÁCH NHÔM KÍNH, VÁCH CÁC LOẠI	'TKBVTC_Thẩm định Và BVCN	BAN QLDA	ĐTXD Bcons	NTP	ĐẤU THẦU RỘNG RÃI	 - Trọn Gói	K.Đấu Thầu	20/05/2026		
+33	 GÓI THẦU SỐ 33	CUNG CẤP VÀ THI CÔNG HẠNG MỤC CỬA CHÍNH CĂN HỘ, CỬA CHỐNG CHÁY	'TKBVTC_Thẩm định Và BVCN	BAN QLDA	ĐTXD Bcons	NTP	ĐẤU THẦU RỘNG RÃI	 - Trọn Gói	K.Đấu Thầu	15/05/2026		
+34	 GÓI THẦU SỐ 34	CUNG CẤP VÀ THI CÔNG HẠNG MỤC CỬA PHÒNG NGỦ, CỬA WC, CỬA NHỰA ABS	'TKBVTC_Thẩm định Và BVCN	BAN QLDA	ĐTXD Bcons	NTP	ĐẤU THẦU RỘNG RÃI	 - Trọn Gói	K.Đấu Thầu	15/06/2026		
+35	 GÓI THẦU SỐ 35	CUNG CẤP VÀ THI CÔNG HẠNG MỤC ĐÁ GRANITE	'TKBVTC_Thẩm định Và BVCN	BAN QLDA	ĐTXD Bcons	NTP	ĐẤU THẦU RỘNG RÃI	 - Trọn Gói	K.Đấu Thầu	15/07/2026		
+36	 GÓI THẦU SỐ 36	CUNG CẤP VÀ THI CÔNG HẠNG MỤC TỦ BẾP	'TKBVTC_Thẩm định Và BVCN	BAN QLDA	ĐTXD Bcons	NTP	ĐẤU THẦU RỘNG RÃI	 - Trọn Gói	K.Đấu Thầu	05/08/2026		
+37	 GÓI THẦU SỐ 37	CUNG CẤP VÀ THI CÔNG HẠNG MỤC SÀN GỖ CÔNG NGHIỆP	'TKBVTC_Thẩm định Và BVCN	BAN QLDA	ĐTXD Bcons	NTP	ĐẤU THẦU RỘNG RÃI	 - Trọn Gói	K.Đấu Thầu	05/08/2026		
+38	 GÓI THẦU SỐ 38	CUNG CẤP VÀ LẮP ĐẶT MÁY PHÁT ĐIỆN	'TKBVTC_Thẩm định Và BVCN	BAN QLDA	ĐTXD Bcons	NTP	ĐẤU THẦU RỘNG RÃI	 - Trọn Gói	K.Đấu Thầu	30/09/2026		
+39	 GÓI THẦU SỐ 6	CUNG CẤP VÀ LẮP ĐẶT TRẠM ĐIỆN CHÍNH	'TKBVTC_Thẩm định Và BVCN	BAN QLDA	ĐTXD Bcons	NTP	ĐẤU THẦU RỘNG RÃI	 - Trọn Gói	K.Đấu Thầu	15/10/2026		
+40	 GÓI THẦU SỐ 39	CUNG CẤP VÀ THI CÔNG HẠNG MỤC HẠ TẦNG SÂN NỀN XUNG QUANH DỰ ÁN	'TKBVTC_Thẩm định Và BVCN	BAN QLDA	ĐTXD Bcons	NTP	CHÀO THẦU CẠNH TRANH	 - Trọn Gói	K.Đấu Thầu	20/03/2027		
+41	 GÓI THẦU SỐ 40	CUNG CẤP VÀ THI CÔNG HẠNG MỤC CÂY XANH	'TKBVTC_Thẩm định Và BVCN	BAN QLDA	ĐTXD Bcons	NTP	CHÀO THẦU CẠNH TRANH	 - Trọn Gói	K.Đấu Thầu	20/05/2027		
+42	 GÓI THẦU SỐ 41	CUNG CẤP VÀ LẮP ĐẶT, ỐP CỘT, THANH CHẶN XE, SƠN KẼ VẠCH	'TKBVTC_Thẩm định Và BVCN	BAN QLDA	ĐTXD Bcons	NTP	CHÀO THẦU CẠNH TRANH	 - Trọn Gói	K.Đấu Thầu	25/09/2026		
+43	 GÓI THẦU SỐ 42	CUNG CẤP VÀ LẮP ĐẶT HỆ THỐNG GIỮ XE BẰNG THẺ TỪ + SƠN KẼ VẠCH, ỐP CỘT, THANH CHẶN XE	'TKBVTC_Thẩm định Và BVCN	BAN QLDA	ĐTXD Bcons	NTP	CHÀO THẦU CẠNH TRANH	 - Trọn Gói	K.Đấu Thầu	20/10/2026		
+44	 GÓI THẦU SỐ 43	CUNG CẤP VÀ THI CÔNG LOGO TÒA NHÀ, BẢNG TÊN CĂN HỘ, BẢNG TẦNG, CHỈ DẪN	'TKBVTC_Thẩm định Và BVCN	BAN QLDA	ĐTXD Bcons	NTP	CHÀO THẦU CẠNH TRANH	 - Trọn Gói	K.Đấu Thầu	10/03/2027		
+45	 GÓI THẦU SỐ 44	CUNG CẤP VÀ THI CÔNG HỘP THƯ CĂN HỘ	Phê duyệt chủ trương	BAN QLDA	Công ty Dịch Vụ	NTP	CHÀO THẦU CẠNH TRANH	 - Trọn Gói	K.Đấu Thầu	10/03/2027		
+46	 GÓI THẦU SỐ 45	CUNG CẤP VÀ LẮP ĐẶT MÀN CUỐN CHỐNG CHÁY	'TKBVTC_Thẩm định Và BVCN	BAN QLDA	ĐTXD Bcons	NTP	CHÀO THẦU CẠNH TRANH	 - Trọn Gói	K.Đấu Thầu	10/11/2026		
+	C	GIAI ĐOẠN HOÀN THIỆN BÀN GIAO										
+47	 GÓI THẦU SỐ 46	CUNG CẤP DỊCH VỤ BẢO HIỂM CHÁY NỔ TÒA NHÀ	Phê duyệt chủ trương	BAN QLDA	CĐT	NTP	CHÀO THẦU CẠNH TRANH	 - Trọn Gói	K.Đấu Thầu			
+"GHI CHÚ: 
+ - Ban QLDA/ Khối Thi công ban hành bản vẽ trước 10 ngày kể từ ngày triển khai mời thầu. Ban QLDA/ Khối Thi công chậm ban hành bản vẽ thì tiến độ gọi thầu được cộng thêm số ngày chậm trễ.
+ - Trước thời gian phát hành hồ sơ 10 ngày cho mời thầu rộng rãi, chào giá rộng rãi, mời thầu hạn chế Khối thi công phải chuyển yêu cầu về phạm vi công việc, tiến độ yêu cầu để phát hành hồ sơ mời thầu.
+ - Ban QLDA/ Khối Thi công chậm trả lời RFI thì tiến độ cộng thêm số ngày trễ và số ngày thực tế cập nhật theo RFI trả lời chậm gây ra.
+ - Kế hoạch sẽ được điều chỉnh để phù hợp với tiến độ thi công thực tế của dự án."												
+												
+												
+												
+												
+												
+
 
 
