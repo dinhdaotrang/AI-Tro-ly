@@ -3738,7 +3738,6 @@ II	KHU VỰC CĂN HỘ
 
 
 
-Tiến độ thi công đến ngày hôm nay : Cọc ép : 99/200, cọc khoan nhồi cẩu tháp  lũy kế 16/16 cây, cọc khoan nhồi đại trà : cọc D1200 : 10/53,  cọc D1500 : 16/155
 
 
 
@@ -3746,7 +3745,7 @@ Tiến độ thi công đến ngày hôm nay : Cọc ép : 99/200, cọc khoan n
 
 
 
-KẾ HOẠCH BÀN GIAO NHÀ THẦU												
+KẾ HOẠCH BÀN GIAO NHÀ THẦU											
 DỰ ÁN: KHU CHUNG CƯ TÂN ĐÔNG HIỆP (REV002)												
 												
 STT	GÓI THẦU	TÊN GÓI THẦU	DỮ LIỆU ĐẦU VÀO	ĐƠN VỊ CUNG CẤP CƠ SỞ ĐẦU VÀO	ĐƠN VỊ KÝ HỢP ĐỒNG		HÌNH THỨC MỜI THẦU	HÌNH THỨC HỢP ĐỒNG	ĐƠN VỊ THỰC HIỆN	KẾ HOẠCH BÀN GIAO NHÀ THẦU	GHI CHÚ	 CHÚ THÍCH RIÊNG 
@@ -3820,7 +3819,15 @@ TKTC_Phần Ngầm"	P. VẬT TƯ - THIẾT BỊ	ĐTXD Bcons	NTP		 - Trọn Gó
  - Ban QLDA/ Khối Thi công ban hành bản vẽ trước 10 ngày kể từ ngày triển khai mời thầu. Ban QLDA/ Khối Thi công chậm ban hành bản vẽ thì tiến độ gọi thầu được cộng thêm số ngày chậm trễ.
  - Trước thời gian phát hành hồ sơ 10 ngày cho mời thầu rộng rãi, chào giá rộng rãi, mời thầu hạn chế Khối thi công phải chuyển yêu cầu về phạm vi công việc, tiến độ yêu cầu để phát hành hồ sơ mời thầu.
  - Ban QLDA/ Khối Thi công chậm trả lời RFI thì tiến độ cộng thêm số ngày trễ và số ngày thực tế cập nhật theo RFI trả lời chậm gây ra.
- - Kế hoạch sẽ được điều chỉnh để phù hợp với tiến độ thi công thực tế của dự án."												
+ - Kế hoạch sẽ được điều chỉnh để phù hợp với tiến độ thi công thực tế của dự án."	
+
+
+
+
+
+
+Tiến độ thi công đến ngày hôm nay : Cọc ép : 99/200, cọc khoan nhồi cẩu tháp  lũy kế 16/16 cây, cọc khoan nhồi đại trà : cọc D1200 : 10/53,  cọc D1500 : 16/155
+											
 												
 												
 												
