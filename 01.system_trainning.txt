@@ -160,12 +160,15 @@ A Dũng	                Cảnh sát khu vực                             	   09
 Nguyễn Văn Út	        Trưởng Khu Phố	                                   0975.204.447
 Đào Tăng Đinh	        CHT	                                           0792284777
 Cao Văn Dũng	        CHP	                                           0908.908.378
+Phạm Tùng Lâm	       Trưởng Tháp mep	                                   0902493008
 Hồ Văn Nhuần	       Trưởng Tháp	                                   0988357841
 Nguyễn Minh Tiến       Trưởng Tháp	                                   0961858182
 Dương Văn Ngoan Em	Trưởng Tháp	                                   0987081676
 Hồ Văn Hiếu	       GS An Toàn	                                   0902.100.528
 Nguyễn Minh Hoàng       Trắc Đạc	                                   0969.709.428
 Phan Hà Tuyên         	GSHT	                                           0904.918123
+Nguyễn Mạnh Nam Long    GSHT	                                           0962137474
+Nguyễn Lưu Đăng Trinh    GSHT	                                           0398834418
 Thái Văn Việt	        GSHT	                                           0977.105.993
 Lý Quốc Thanh	       GS Thiết Bị	                                   0914.260.376
 Vương Huy Thăng         Giám đốc khối thi công                               0906.795.286
@@ -3620,7 +3623,7 @@ TKTC_Phần Ngầm"	P. VẬT TƯ - THIẾT BỊ	ĐTXD Bcons	NTP		 - Trọn Gó
 
 
 
-Tiến độ thi công đến ngày hôm nay : Cọc ép : 162/200, cọc khoan nhồi cẩu tháp  lũy kế 16/16 cây, cọc khoan nhồi đại trà : cọc D1200 : 27/56,  cọc D1500 : 81/172
+Tiến độ thi công đến ngày hôm nay : Cọc ép : 162/200, cọc khoan nhồi cẩu tháp  lũy kế 16/16 cây, cọc khoan nhồi đại trà : cọc D1200 : 37/56,  cọc D1500 : 119/172, đào đất : 22712/78945
 											
 												
 								
