@@ -180,6 +180,7 @@ Sổ TAY VĂN HÓA Bcons                                      MS: BC.ST03.Rev004
                                                           Ngày phát hành:6/03/24
                                                           Ngày hiệu lực: 06/03/24
 
+<<<<<<< HEAD
 MỤC LỤC
 CHƯƠNG 1: GIỚI THIỆU CÔNG TY VÀ VĂN HÓA BCONS	5
 I.	GIỚI THIỆU CÔNG TY BCONS	5
@@ -3629,6 +3630,7 @@ Tiến độ thi công đến ngày hôm nay : Cọc ép : 162/200, cọc khoan 
 								
 												
 												
+
 
 
 
