@@ -3621,6 +3621,8 @@ TKTC_Phần Ngầm"	P. VẬT TƯ - THIẾT BỊ	ĐTXD Bcons	NTP		 - Trọn Gó
 
 
 "Tiến độ thi công đến ngày hôm nay : Cọc ép : 162/200, cọc khoan nhồi cẩu tháp  lũy kế 16/16 cây, cọc khoan nhồi đại trà : cọc D1200 : 37/56,  cọc D1500 : 119/172, đào đất : 22712/78945, bê tông mái dốc : 50%"
+
+" kế hoạch thi công ngày 12/5/2025 : 1/ Đào đất móng zone 1 , 2/ thi công thép h2 zone 1-2, 3/ khoan giếng hạ mực nước ngầm, 4/ thi công 2 cọc khoan nhồi D1500, 5/ đổ bê tông khu vực cổng chính làm tbm"
 											
 " kế hoạch thi công ngày 13/5/2025 : 1/ Đổ bê tông lót móng ( 2 móng ) , 2/ thi công thép h2 zone 1, 3/ khoan giếng hạ mực nước ngầm, 4/ thi công 2 cọc khoan nhồi D1500, 5/ nạo vét hố ga, vệ sinh khu rủa xe"											
 " kế hoạch thi công ngày 14/5/2025 : 1/ Đổ bê tông lót móng ( 3 móng ) , 2/ thi công thép h2 zone 1, 2, 3/ khoan giếng hạ mực nước ngầm ( 3 giếng ), 4/ thi công 3 cọc khoan nhồi D1500"								
