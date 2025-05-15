@@ -1,7 +1,7 @@
 #xin chào các sếp, tôi là trợ lý ảo của các sếp, các sếp cứ ra lệnh cho em ạ !
-Bạn là một trợ lý ảo thông minh, luôn sẵn sàng trả lời câu hỏi của người dùng một cách chính xác, thân thiện, và hữu ích. Đồng thời, bạn còn là một tư vấn viên chuyên nghiệp, hỗ trợ giải đáp những thắc mắc phức tạp hoặc có tính chuyên môn cao.
+#Bạn là một trợ lý ảo thông minh, luôn sẵn sàng trả lời câu hỏi của người dùng một cách chính xác, thân thiện, và hữu ích. Đồng thời, bạn còn là một tư vấn viên chuyên nghiệp, hỗ trợ giải đáp những thắc mắc phức tạp hoặc có tính chuyên môn cao#
 
-CÁC MỐC CHÍNH	992 days	Tue 26/11/24	Thu 30/09/27
+#CÁC MỐC CHÍNH	992 days	Tue 26/11/24	Thu 30/09/27
 Thi công cọc thử	57 days	Tue 26/11/24	Wed 22/01/25
 Thi công cọc đại trà 	140 days	Wed 22/01/25	Mon 30/06/25
 Kết cấu móng hầm	237 days	Sun 02/03/25	Tue 28/10/25
@@ -144,9 +144,9 @@ Hoàn thiện hầm ABCD	150 days	Sun 13/12/26	Tue 25/05/27
 Hạ tầng, Landcape	165 days	Sun 03/01/27	Tue 29/06/27
 Bàn giao	92 days	Thu 01/07/27	Thu 30/09/27
 Bàn giao tháp AB	80 days	Thu 01/07/27	Sat 18/09/27
-Bàn giao tháp CD	87 days	Tue 06/07/27	Thu 30/09/27
+Bàn giao tháp CD	87 days	Tue 06/07/27	Thu 30/09/27#
 
-HỌ VÀ TÊN	       CHỨC VỤ	                                               SDT
+#HỌ VÀ TÊN	       CHỨC VỤ	                                               SDT
 Trần Thị Hồng Thúy	Bí Thư	                                           0913.943.156
 Đào Minh Luân	        CT UBND	                                           0913.848.494
 Tô Dân Phương Bình	PCT UBND	                                   0918.217.241
@@ -174,8 +174,10 @@ Lý Quốc Thanh	       GS Thiết Bị	                                   0914.
 Vương Huy Thăng         Giám đốc khối thi công                               0906.795.286
 Nguyễn Hoàng Long       Giám đốc ban qlda                                   0914785838
 Để thuận tiện trong việc liên lạc và trao đổi thông tin chung liên quan đến Dự án Khu chung cư Tân Đông Hiệp, Ban chỉ huy công trình đề nghị Quý đơn vị cập nhật địa chỉ Email như sau:
-Email: bdh.banchihuy@gmail.com 
-Sổ TAY VĂN HÓA Bcons                                      MS: BC.ST03.Rev004
+Email: bdh.banchihuy@gmail.com #
+
+
+#Sổ TAY VĂN HÓA Bcons                                      MS: BC.ST03.Rev004
                                                           Ban hành lần: 04
                                                           Ngày phát hành:6/03/24
                                                           Ngày hiệu lực: 06/03/24
@@ -835,9 +837,9 @@ I.	QUY ĐỊNH KHEN THƯỞNG
 -	Nhân sự có toàn quyền quyết định căn hộ sau khi được tặng và nộp các chi phí khác phải nộp theo quy định pháp luật.
 5.	Theo quy định đào tạo, nếu nhân sự có tên trong danh sách đào tạo mà không tham dự đầy đủ các buổi đào tạo nội bộ (theo phiếu điếm danh của TTĐT) thì sẽ bị hạ điểm đánh giá trong các đợt đánh giá nhân sự hằng năm và có thể giảm thưởng vào cuối năm. Neu kết quả đánh giá đào tạo không đạt yêu cầu thì nhân sự sẽ được tham gia kiểm tra lại hoặc sắp xếp học lại. Nếu kết quả kiểm tra lại hoặc học lại mà vần không đạt yêu cầu thì sẽ xem xét đen kết quả đánh giá năng lực của nhân sự trong đợt đánh giá nhân sự hằng năm.
 6.	Cứ 2 nhân viên học tập không đủ 8h/6 tháng thì Khối sẽ mất đi 1 danh hiệu thi đua hạng khi bình bầu. Hoặc nếu có thưởng đột xuất thì khối cũng sẽ bị cắt hay trừ hoặc các chế độ mua nhà khi Công ty công bố dự án mới hoặc cổ phiếu thưởng.
-7.	Nếu cán bộ quản lý không đảm bảo giờ dạy theo quy định thì cứ Ih không dạy thì khối sẽ mất đi 1 danh hiệu thi đua hạng khi bình bầu. Hoặc nếu có thưởng đột xuất thì khối cũng sẽ bị cắt hay trừ hoặc các chế độ mua nhà khi Công ty công bố dự án mới hoặc cố phiếu thưởng.
+7.	Nếu cán bộ quản lý không đảm bảo giờ dạy theo quy định thì cứ Ih không dạy thì khối sẽ mất đi 1 danh hiệu thi đua hạng khi bình bầu. Hoặc nếu có thưởng đột xuất thì khối cũng sẽ bị cắt hay trừ hoặc các chế độ mua nhà khi Công ty công bố dự án mới hoặc cố phiếu thưởng #
 
-HỢP ĐỒNG THI CÔNG XÂY DỰNG CUNG CẤP CỌC
+# HỢP ĐỒNG THI CÔNG XÂY DỰNG CUNG CẤP CỌC NHÀ THẦU ĐỒNG TÂM
 Số: 205/2024/HÐTCXD-BDH/BCONS-ĐT
 DỰ ÁN	: KHU CHUNG CƯ TÂN ĐÔNG HIỆP
 ĐỊA ĐIỂM	: PHƯỜNG TÂN ĐÔNG HIỆP, THÀNH PHỐ DĨ AN, TỈNH BÌNH DƯƠNG
@@ -846,25 +848,6 @@ Giữa
 CÔNG TY CỔ PHẦN ĐẦU TƯ XÂY DỰNG BCONS
 Và
 CÔNG TY TNHH MTV TM ĐỒNG TÂM
-CĂN CỨ KÝ KẾT HỢP ĐỒNG
--	Căn cứ Luật Xây dựng số 50/2014/QH13 ngày 18/6/2014;
--	Căn cứ Luật số 62/2020/QH14 ngày 17/6/2020. Sửa đổi, bổ sung một số điều của Luật xây dựng;
--	Căn cứ Văn bản hợp nhất Luật xây dựng số 07/VBHN-VPQH đã được sửa đổi, bổ sung một số điều theo Văn bản hợp nhất Luật xây dựng số 02/VBHN-VPQH ngày 15/07/2020; 
--	Căn cứ bộ Luật Dân sự  số 91/2015/QH13 ngày 24/11/2015 của Quốc hội;
--	Căn cứ Luật Đấu thầu số 22/2023/QH15 ngày 23/06/2023;
--	Văn bản hợp nhất Luật Đấu thầu số 12/VBHN-VPQH ký ngày 04/7/2019;
--	Căn cứ Nghị định số 136/2020/NĐ-CP ngày 24/11/2020 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Phòng cháy và chữa cháy và Luật sửa đổi, bổ sung một số điều của Luật Phòng cháy và chữa cháy;
--	Căn cứ Nghị định 24/2024/NĐ-CP ngày 27/02/2024 của Chính phủ về việc quy định chi tiết thi hành một số điều của Luật Đấu thầu và lựa chọn nhà thầu;
--	Căn cứ Nghị định số 10/2021/NĐ-CP ký ngày 9/2/2021 về việc quản lý chi phí đầu tư xây dựng;
--	Căn cứ Nghị định số 37/2015/NĐ-CP ngày 22/4/2015 của Chính phủ quy định chi tiết về hợp đồng xây dựng;
--	Căn cứ Nghị định số 06/2021/NĐ-CP ngày 26/01/2021 của Chính phủ về quy định chi tiết một số nội dung về quản lý chất lượng, thi công xây dựng và bảo trì công trình xây dựng;
--	Căn cứ Nghị định số 15/2021/NĐ-CP ngày 03/3/2021 của Chính phủ quy định chi tiết một số nội dung về quản lý dự án đầu tư xây dựng công trình;
--	Căn cứ Thông tư số 10/2021/TT-BXD ngày 25/08/2021 của Bộ xây dựng về việc Hướng dẫn một số điều và biện pháp thi hành Nghị định số 06/2021/NĐ-CP ngày 26 tháng 01 năm 2021 và Nghị định số 44/2016/NĐ-CP ngày 15 tháng 05 năm 2016 của Chính Phủ;
--	Căn cứ Thông tư số 06/2022/TT-BXD ký ngày 30/11/2022 ban hành quy chuẩn kỹ thuật quốc gia về an toàn cháy cho nhà và công trình;
--	Căn cứ Thông tư số 02/2023/TT-BXD ngày 30/03/2023 của Bộ Xây dựng về việc Hướng dẫn hợp đồng thi công xây dựng công trình;
--	Căn cứ Điều khoản chung của các hợp đồng giao thầu thi công được ban hành theo Quyết định số 01/QĐ-KĐT ký ngày 04/01/2022 của Công ty Cổ phần Đầu tư Xây dựng Bcons;
--	Các biên bản làm việc, biên bản phỏng vấn, trao đổi nội dung của gói thầu giữa Công ty Cổ phần Đầu tư Xây dựng Bcons và Công ty TNHH MTV TM Đồng Tâm.
-Căn cứ nhu cầu và khả năng thực hiện của hai Bên
 Hôm nay, ngày 04 tháng 12 năm 2024, tại văn phòng Công ty Cổ phần Đầu tư Xây dựng Bcons, chúng tôi gồm các Bên dưới đây:
 	BÊN GIAO THẦU ("Bên A"):
 CÔNG TY CỔ PHẦN ĐẦU TƯ XÂY DỰNG BCONS
@@ -1077,10 +1060,10 @@ Nếu Bên B không thực hiện một trong số các hạng mục trong hợp
 •	Các nội dung khác theo quy định tại Điều khoản chung.
 	Mọi thay đổi, bổ sung nội dung hợp đồng này phải được lập thành phụ lục hợp đồng được đại diện có thẩm quyền của hai Bên ký xác nhận trước khi thực hiện.
 	Hợp đồng có hiệu lực kể từ ngày ký và sau khi hai Bên hoàn thành trách nhiệm, nghĩa vụ trong hợp đồng, thì hợp đồng tự động thanh lý.
-	Hợp đồng được lập thành 04 (bốn) bản Tiếng Việt có giá trị pháp lý ngang nhau, Bên A giữ 02 (hai) bản, Bên B giữ 02 (hai) bản./.
+	Hợp đồng được lập thành 04 (bốn) bản Tiếng Việt có giá trị pháp lý ngang nhau, Bên A giữ 02 (hai) bản, Bên B giữ 02 (hai) bản #
 
 
-HỢP ĐỒNG THI CÔNG XÂY DỰNG
+# HỢP ĐỒNG THI CÔNG XÂY DỰNG THI CÔNG CỌC KHOAN NHỒI 
 Số: 207/2024/HĐTCXD-BDH/BCONS-OVAN
 DỰ ÁN	: KHU CHUNG CƯ TÂN ĐÔNG HIỆP
 ĐỊA ĐIỂM	: PHƯỜNG TÂN ĐÔNG HIỆP, THÀNH PHỐ DĨ AN, TỈNH BÌNH DƯƠNG
@@ -1089,25 +1072,6 @@ Giữa
 CÔNG TY CỔ PHẦN ĐẦU TƯ XÂY DỰNG BCONS
 Và
 CÔNG TY TNHH KIẾN TRÚC XÂY DỰNG Ô VAN
-CĂN CỨ KÝ KẾT HỢP ĐỒNG
--	Căn cứ Luật Xây dựng số 50/2014/QH13 ngày 18/6/2014;
--	Căn cứ Luật số 62/2020/QH14 ngày 17/6/2020. Sửa đổi, bổ sung một số điều của Luật xây dựng;
--	Căn cứ Văn bản hợp nhất Luật xây dựng số 07/VBHN-VPQH đã được sửa đổi, bổ sung một số điều theo Văn bản hợp nhất Luật xây dựng số 02/VBHN-VPQH ngày 15/07/2020; 
--	Căn cứ bộ Luật Dân sự  số 91/2015/QH13 ngày 24/11/2015 của Quốc hội;
--	Căn cứ Luật Đấu thầu số 22/2023/QH15 ngày 23/06/2023;
--	Văn bản hợp nhất Luật Đấu thầu số 12/VBHN-VPQH ký ngày 04/7/2019;
--	Căn cứ Nghị định số 136/2020/NĐ-CP ngày 24/11/2020 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Phòng cháy và chữa cháy và Luật sửa đổi, bổ sung một số điều của Luật Phòng cháy và chữa cháy;
--	Căn cứ Nghị định 24/2024/NĐ-CP ngày 27/02/2024 của Chính phủ về việc quy định chi tiết thi hành một số điều của Luật Đấu thầu và lựa chọn nhà thầu;
--	Căn cứ Nghị định số 10/2021/NĐ-CP ký ngày 9/2/2021 về việc quản lý chi phí đầu tư xây dựng;
--	Căn cứ Nghị định số 37/2015/NĐ-CP ngày 22/4/2015 của Chính phủ quy định chi tiết về hợp đồng xây dựng;
--	Căn cứ Nghị định số 06/2021/NĐ-CP ngày 26/01/2021 của Chính phủ về quy định chi tiết một số nội dung về quản lý chất lượng, thi công xây dựng và bảo trì công trình xây dựng;
--	Căn cứ Nghị định số 15/2021/NĐ-CP ngày 03/3/2021 của Chính phủ quy định chi tiết một số nội dung về quản lý dự án đầu tư xây dựng công trình;
--	Căn cứ Thông tư số 10/2021/TT-BXD ngày 25/08/2021 của Bộ xây dựng về việc Hướng dẫn một số điều và biện pháp thi hành Nghị định số 06/2021/NĐ-CP ngày 26 tháng 01 năm 2021 và Nghị định số 44/2016/NĐ-CP ngày 15 tháng 05 năm 2016 của Chính Phủ;
--	Căn cứ Thông tư số 06/2022/TT-BXD ký ngày 30/11/2022 ban hành quy chuẩn kỹ thuật quốc gia về an toàn cháy cho nhà và công trình;
--	Căn cứ Thông tư số 02/2023/TT-BXD ngày 30/03/2023 của Bộ Xây dựng về việc Hướng dẫn hợp đồng thi công xây dựng công trình;
--	Căn cứ Điều khoản chung của các hợp đồng giao thầu thi công được ban hành theo Quyết định số 01/QĐ-KĐT ký ngày 04/01/2022 của Công ty Cổ phần Đầu tư Xây dựng Bcons;
--	Các biên bản làm việc, biên bản phỏng vấn, trao đổi nội dung của gói thầu giữa Công ty Cổ phần Đầu tư Xây dựng Bcons và Công ty TNHH Kiến trúc Xây dựng Ô Van.
-Căn cứ nhu cầu và khả năng thực hiện của hai Bên
 Hôm nay, ngày 04 tháng 12 năm 2024, tại văn phòng Công ty Cổ phần Đầu tư Xây dựng Bcons, chúng tôi gồm các Bên dưới đây:
 	BÊN GIAO THẦU ("Bên A"):
 CÔNG TY CỔ PHẦN ĐẦU TƯ XÂY DỰNG BCONS
@@ -1456,9 +1420,9 @@ Nếu Bên B không thực hiện một trong số các hạng mục trong bản
 •	Các nội dung khác theo quy định tại Điều khoản chung.
 	Mọi thay đổi, bổ sung nội dung hợp đồng này phải được lập thành phụ lục hợp đồng được đại diện có thẩm quyền của hai Bên ký xác nhận trước khi thực hiện.
 	Hợp đồng có hiệu lực kể từ ngày ký và sau khi hai Bên hoàn thành trách nhiệm, nghĩa vụ trong hợp đồng, thì hợp đồng tự động thanh lý.
-	Hợp đồng được lập thành 04 (bốn) bản Tiếng Việt có giá trị pháp lý ngang nhau, Bên A giữ 02 (hai) bản, Bên B giữ 02 (hai) bản./.
+	Hợp đồng được lập thành 04 (bốn) bản Tiếng Việt có giá trị pháp lý ngang nhau, Bên A giữ 02 (hai) bản, Bên B giữ 02 (hai) bản #
 
-HỢP ĐỒNG THI CÔNG XÂY DỰNG
+# HỢP ĐỒNG THI CÔNG XÂY DỰNG VIỄN ĐÔNG
 Số: 206/2024/HÐTCXD-BDH/BCONS-VIỄN ĐÔNG
 DỰ ÁN	: KHU CHUNG CƯ TÂN ĐÔNG HIỆP
 ĐỊA ĐIỂM	: PHƯỜNG TÂN ĐÔNG HIỆP, THÀNH PHỐ DĨ AN, TỈNH BÌNH DƯƠNG
@@ -1467,27 +1431,6 @@ Giữa
 CÔNG TY CỔ PHẦN ĐẦU TƯ XÂY DỰNG BCONS
 Và
 CÔNG TY CP TMDV VÀ XÂY DỰNG NỀN MÓNG BÊ TÔNG VIỄN ĐÔNG
-CĂN CỨ KÝ KẾT HỢP ĐỒNG
--	Căn cứ Luật Xây dựng số 50/2014/QH13 ngày 18/6/2014;
--	Căn cứ Luật số 62/2020/QH14 ngày 17/6/2020. Sửa đổi, bổ sung một số điều của Luật xây dựng;
--	Căn cứ Văn bản hợp nhất Luật xây dựng số 07/VBHN-VPQH đã được sửa đổi, bổ sung một số điều theo Văn bản hợp nhất Luật xây dựng số 02/VBHN-VPQH ngày 15/07/2020; 
--	Căn cứ bộ Luật Dân sự  số 91/2015/QH13 ngày 24/11/2015 của Quốc hội;
--	Căn cứ Luật Đấu thầu số 22/2023/QH15 ngày 23/06/2023;
--	Văn bản hợp nhất Luật Đấu thầu số 12/VBHN-VPQH ký ngày 04/7/2019;
--	Căn cứ Nghị định số 136/2020/NĐ-CP ngày 24/11/2020 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Phòng cháy và chữa cháy và Luật sửa đổi, bổ sung một số điều của Luật Phòng cháy và chữa cháy;
--	Căn cứ Nghị định 24/2024/NĐ-CP ngày 27/02/2024 của Chính phủ về việc quy định chi tiết thi hành một số điều của Luật Đấu thầu và lựa chọn nhà thầu;
--	Căn cứ Nghị định số 10/2021/NĐ-CP ký ngày 9/2/2021 về việc quản lý chi phí đầu tư xây dựng;
--	Căn cứ Nghị định số 37/2015/NĐ-CP ngày 22/4/2015 của Chính phủ quy định chi tiết về hợp đồng xây dựng;
--	Căn cứ Nghị định số 06/2021/NĐ-CP ngày 26/01/2021 của Chính phủ về quy định chi tiết một số nội dung về quản lý chất lượng, thi công xây dựng và bảo trì công trình xây dựng;
--	Căn cứ Nghị định số 15/2021/NĐ-CP ngày 03/3/2021 của Chính phủ quy định chi tiết một số nội dung về quản lý dự án đầu tư xây dựng công trình;
--	Căn cứ Thông tư số 10/2021/TT-BXD ngày 25/08/2021 của Bộ xây dựng về việc Hướng dẫn một số điều và biện pháp thi hành Nghị định số 06/2021/NĐ-CP ngày 26 tháng 01 năm 2021 và Nghị định số 44/2016/NĐ-CP ngày 15 tháng 05 năm 2016 của Chính Phủ;
--	Căn cứ Thông tư số 02/2021-BXD ký ngày 19/05/2021 ban hành quy chuẩn kỹ thuật quốc gia về an toàn cháy cho nhà và công trình;
--	Căn cứ Thông tư số 06/2022/TT-BXD ký ngày 30/11/2022 ban hành quy chuẩn kỹ thuật quốc gia về an toàn cháy cho nhà và công trình;
--	Căn cứ Thông tư số 02/2023/TT-BXD ngày 30/03/2023 của Bộ Xây dựng về việc Hướng dẫn hợp đồng thi công xây dựng công trình;
--	Căn cứ Điều khoản chung của các hợp đồng giao thầu thi công được ban hành theo Quyết định số 01/QĐ-KĐT ký ngày 04/01/2022 của Công ty Cổ phần Đầu tư Xây dựng Bcons;
--	Các biên bản làm việc, biên bản phỏng vấn, trao đổi nội dung của gói thầu giữa Công ty Cổ phần Đầu tư Xây dựng Bcons và Công ty CP TMVD và Xây dựng Nền móng bê tông Viễn Đông.
-Căn cứ nhu cầu và khả năng thực hiện của hai Bên
-
  
 Hôm nay, ngày 04 tháng 12 năm 2024, tại văn phòng Công ty Cổ phần Đầu tư Xây dựng Bcons, chúng tôi gồm các Bên dưới đây: 
 	BÊN GIAO THẦU ("Bên A"):
@@ -1748,10 +1691,10 @@ IV	CÔNG TÁC CHUẨN BỊ PRELIMS / CÔNG TÁC ĐẢM BẢO CHẤT LƯỢNG				
 13	Cắt đầu cọc 	 cọc 	 -   	 -   	 Không bao gồm 	
 14	Chi phí bảo hiểm, sửa chữa nhà, công trình lân cận	 trọn gói 	 -   	 -   	 Không bao gồm nếu nguyên nhân gây ra không phải lỗi do Nhà thầu 	
 TỔNG CỘNG GIÁ TRỊ TRƯỚC THUẾ VAT					 1.486.000.000 	
-Bằng chữ: Một tỷ, bốn trăm tám mươi sáu triệu đồng chẵn./.
+Bằng chữ: Một tỷ, bốn trăm tám mươi sáu triệu đồng chẵn #
 
 						
-HỢP ĐỒNG THI CÔNG XÂY DỰNG
+# HỢP ĐỒNG THI CÔNG XÂY DỰNG ĐẠI HỒNG PHÁT
 Số: 185/2024/HĐTCXD-BDH/BCONS-DAIHONGPHAT
 DỰ ÁN	 : KHU CHUNG CƯ TÂN ĐÔNG HIỆP
 ĐỊA ĐIỂM	: PHƯỜNG TÂN ĐÔNG HIỆP, THÀNH PHỐ DĨ AN, TỈNH BÌNH DƯƠNG
@@ -1760,29 +1703,6 @@ Giữa
 CÔNG TY CỔ PHẦN ĐẦU TƯ XÂY DỰNG BCONS
 Và
 CÔNG TY TNHH TM DV SAN LẮP VẬN CHUYỂN ĐẠI HỒNG PHÁT
-CĂN CỨ KÝ KẾT HỢP ĐỒNG
--	Căn cứ Luật Xây dựng số 50/2014/QH13 ngày 18/6/2014;
--	Căn cứ Luật số 62/2020/QH14 ngày 17/6/2020. Sửa đổi, bổ sung một số điều của Luật xây dựng;
--	Căn cứ Văn bản hợp nhất Luật xây dựng số 07/VBHN-VPQH đã được sửa đổi, bổ sung một số điều theo Văn bản hợp nhất Luật xây dựng số 02/VBHN-VPQH ngày 15/07/2020; 
--	Căn cứ bộ Luật Dân sự  số 91/2015/QH13 ngày 24/11/2015 của Quốc hội;
--	Căn cứ Luật Đấu thầu số 22/2023/QH15 ngày 23/06/2023;
--	Văn bản hợp nhất Luật Đấu thầu số 12/VBHN-VPQH ký ngày 04/7/2019;
--	Căn cứ Nghị định số 136/2020/NĐ-CP ngày 24/11/2020 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Phòng cháy và chữa cháy và Luật sửa đổi, bổ sung một số điều của Luật Phòng cháy và chữa cháy;
--	Căn cứ Nghị định số 63/2014/NĐ-CP ngày 26/6/2014 của Chính phủ về việc quy định chi tiết thi hành một số điều của Luật Đấu thầu và lựa chọn nhà thầu;
--	Căn cứ Nghị định số 10/2021/NĐ-CP ký ngày 9/2/2021 về việc quản lý chi phí đầu tư xây dựng;
--	Căn cứ Nghị định số 37/2015/NĐ-CP ngày 22/4/2015 của Chính phủ quy định chi tiết về hợp đồng xây dựng;
--	Căn cứ Nghị định số 06/2021/NĐ-CP ngày 26/01/2021 của Chính phủ về quy định chi tiết một số nội dung về quản lý chất lượng, thi công xây dựng và bảo trì công trình xây dựng;
--	Căn cứ Nghị định số 15/2021/NĐ-CP ngày 03/3/2021 của Chính phủ quy định chi tiết một số nội dung về quản lý dự án đầu tư xây dựng công trình;
--	Căn cứ Thông tư số 26/2016/TT-BXD ngày 26/10/2016 của Bộ xây dựng v/v quy định chi tiết một số nội dung về quản lý chất lượng và bảo trì công trình xây dựng;
--	Căn cứ Thông tư số 04/2019/TT-BXD ký ngày 16/8/2019 về việc sửa đổi, bổ sung một số nội dung của Thông tư số 26/2016/TT-BXD ngày 26/10/2016 của Bộ xây dựng quy định chi tiết một số nội dung về quản lý chất lượng và bảo trì công trình xây dựng.
--	Căn cứ Thông tư số 10/2021/TT-BXD ngày 25/08/2021 của Bộ xây dựng về việc Hướng dẫn một số điều và biện pháp thi hành Nghị định số 06/2021/NĐ-CP ngày 26 tháng 01 năm 2021 và Nghị định số 44/2016/NĐ-CP ngày 15 tháng 05 năm 2016 của Chính Phủ;
--	Căn cứ Thông tư số 02/2021-BXD ký ngày 19/05/2021 ban hành quy chuẩn kỹ thuật quốc gia về an toàn cháy cho nhà và công trình. 
--	Căn cứ Thông tư số 02/2023/TT-BXD ngày 30/03/2023 của Bộ Xây dựng về việc Hướng dẫn hợp đồng thi công xây dựng công trình;
--	Căn cứ Điều khoản chung của các hợp đồng giao thầu thi công được ban hành theo Quyết định số 01/QĐ-KĐT ký ngày 04/01/2022 của Công ty Cổ phần Đầu tư Xây dựng Bcons.
--	Các biên bản làm việc, biên bản phỏng vấn, trao đổi nội dung của gói thầu giữa Công ty Cổ phần Đầu tư Xây dựng Bcons và Công ty TNHH San lắp vận chuyển Đại Hồng Phát.
-Căn cứ nhu cầu và khả năng thực hiện của hai Bên
-
-
 
 Hôm nay, ngày 10 tháng 12 năm 2024, tại văn phòng Công ty Cổ phần Đầu tư Xây dựng Bcons, chúng tôi gồm các Bên dưới đây:
 	BÊN GIAO THẦU ("Bên A"):  
@@ -1959,14 +1879,12 @@ Nếu Bên B không thực hiện một trong số các hạng mục trong bản
 •	Các nội dung khác theo quy định tại Điều khoản chung.
 	Mọi thay đổi, bổ sung nội dung hợp đồng này phải được lập thành phụ lục hợp đồng được đại diện có thẩm quyền của hai Bên ký xác nhận trước khi thực hiện.
 	Hợp đồng có hiệu lực kể từ ngày ký và sau khi hai Bên hoàn thành trách nhiệm, nghĩa vụ trong hợp đồng, thì hợp đồng tự động thanh lý.
-	Hợp đồng được lập thành 04 (bốn) bản Tiếng Việt có giá trị pháp lý ngang nhau, Bên A giữ 02 (hai) bản, Bên B giữ 02 (hai) bản./.
+	Hợp đồng được lập thành 04 (bốn) bản Tiếng Việt có giá trị pháp lý ngang nhau, Bên A giữ 02 (hai) bản, Bên B giữ 02 (hai) bản #
 
 
 
-HỢP ĐỒNG THI CÔNG XÂY DỰNG
+# HỢP ĐỒNG THI CÔNG XÂY DỰNG CHÂU GIA PHÁT
 Số: 33/2025/HÐTCXD-BDH/BCONS-CGP
-
-
 
 DỰ ÁN           	: KHU CHUNG CƯ TÂN ĐÔNG HIỆP
 ĐỊA ĐIỂM     	: PHƯỜNG TÂN ĐÔNG HIỆP, THÀNH PHỐ DĨ AN, TỈNH BÌNH DƯƠNG
@@ -1974,29 +1892,6 @@ HẠNG MỤC 	: CUNG CẤP VẬT TƯ, NHÂN CÔNG VÀ MÁY THI CÔNG, THI CÔNG 
 
 Giữa
 CÔNG TY CỔ PHẦN ĐẦU TƯ XÂY DỰNG BCONS Và CÔNG TY CỔ PHẦN ĐẦU TƯ XÂY DỰNG CHÂU GIA PHÁT
-
-CĂN CỨ KÝ KẾT HỢP ĐỒNG
--	Căn cứ Luật Xây dựng số 50/2014/QH13 ngày 18/6/2014;
--	Căn cứ Luật số 62/2020/QH14 ngày 17/6/2020. Sửa đổi, bổ sung một số điều của Luật xây dựng;
--	Căn cứ Văn bản hợp nhất Luật xây dựng số 07/VBHN-VPQH đã được sửa đổi, bổ sung một số điều theo Văn bản hợp nhất Luật xây dựng số 02/VBHN-VPQH ngày 15/07/2020; 
--	Căn cứ bộ Luật Dân sự  số 91/2015/QH13 ngày 24/11/2015 của Quốc hội;
--	Căn cứ Luật Đấu thầu số 22/2023/QH15 ngày 23/06/2023;
--	Văn bản hợp nhất Luật Đấu thầu số 12/VBHN-VPQH ký ngày 04/7/2019;
--	Căn cứ Nghị định số 136/2020/NĐ-CP ngày 24/11/2020 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Phòng cháy và chữa cháy và Luật sửa đổi, bổ sung một số điều của Luật Phòng cháy và chữa cháy;
--	Căn cứ Nghị định số 63/2014/NĐ-CP ngày 26/6/2014 của Chính phủ về việc quy định chi tiết thi hành một số điều của Luật Đấu thầu và lựa chọn nhà thầu;
--	Căn cứ Nghị định số 10/2021/NĐ-CP ký ngày 9/2/2021 về việc quản lý chi phí đầu tư xây dựng;
--	Căn cứ Nghị định số 37/2015/NĐ-CP ngày 22/4/2015 của Chính phủ quy định chi tiết về hợp đồng xây dựng;
--	Căn cứ Nghị định số 06/2021/NĐ-CP ngày 26/01/2021 của Chính phủ về quy định chi tiết một số nội dung về quản lý chất lượng, thi công xây dựng và bảo trì công trình xây dựng;
--	Căn cứ Nghị định số 15/2021/NĐ-CP ngày 03/3/2021 của Chính phủ quy định chi tiết một số nội dung về quản lý dự án đầu tư xây dựng công trình;
--	Căn cứ Thông tư số 26/2016/TT-BXD ngày 26/10/2016 của Bộ xây dựng v/v quy định chi tiết một số nội dung về quản lý chất lượng và bảo trì công trình xây dựng;
--	Căn cứ Thông tư số 04/2019/TT-BXD ký ngày 16/8/2019 về việc sửa đổi, bổ sung một số nội dung của Thông tư số 26/2016/TT-BXD ngày 26/10/2016 của Bộ xây dựng quy định chi tiết một số nội dung về quản lý chất lượng và bảo trì công trình xây dựng.
--	Căn cứ Thông tư số 10/2021/TT-BXD ngày 25/08/2021 của Bộ xây dựng về việc Hướng dẫn một số điều và biện pháp thi hành Nghị định số 06/2021/NĐ-CP ngày 26 tháng 01 năm 2021 và Nghị định số 44/2016/NĐ-CP ngày 15 tháng 05 năm 2016 của Chính Phủ;
--	Căn cứ Thông tư số 02/2021-BXD ký ngày 19/05/2021 ban hành quy chuẩn kỹ thuật quốc gia về an toàn cháy cho nhà và công trình. 
--	Căn cứ Thông tư số 02/2023/TT-BXD ngày 30/03/2023 của Bộ Xây dựng về việc Hướng dẫn hợp đồng thi công xây dựng công trình;
--	Căn cứ Điều khoản chung của các hợp đồng giao thầu thi công được ban hành theo Quyết định số 01/QĐ-KĐT ký ngày 04/01/2022 của Công ty Cổ phần Đầu tư Xây dựng Bcons.
--	Các biên bản làm việc, biên bản phỏng vấn, trao đổi nội dung của gói thầu giữa Công ty Cổ phần Đầu tư Xây dựng Bcons và Công ty Cổ phần Đầu tư Xây dựng Châu Gia Phát.
-Căn cứ nhu cầu và khả năng thực hiện của hai Bên
-
 
 Hôm nay, ngày 13 tháng 02 năm 2025, tại văn phòng Công ty Cổ phần Đầu tư Xây dựng Bcons, chúng tôi gồm các Bên dưới đây:
 	BÊN GIAO THẦU ("Bên A"):
@@ -2175,24 +2070,10 @@ Nếu Bên B không thực hiện một trong số các hạng mục trong bản
 •	Các nội dung khác theo quy định tại Điều khoản chung.
 	Mọi thay đổi, bổ sung nội dung hợp đồng này phải được lập thành phụ lục hợp đồng được đại diện có thẩm quyền của hai Bên ký xác nhận trước khi thực hiện.
 	Hợp đồng có hiệu lực kể từ ngày ký và sau khi hai Bên hoàn thành trách nhiệm, nghĩa vụ trong hợp đồng, thì hợp đồng tự động thanh lý.
-	Hợp đồng được lập thành 04 (bốn) bản Tiếng Việt có giá trị pháp lý ngang nhau, Bên A giữ 02 (hai) bản, Bên B giữ 02 (hai) bản./.
-
-ĐẠI DIỆN BÊN B		ĐẠI DIỆN BÊN A
-		
-CHÂU QUỐC ĐẠT		VƯƠNG HUY THĂNG
+	Hợp đồng được lập thành 04 (bốn) bản Tiếng Việt có giá trị pháp lý ngang nhau, Bên A giữ 02 (hai) bản, Bên B giữ 02 (hai) bản #
 
 
-
-
-
-
- CÔNG TY CỔ PHẦN ĐẦU TƯ XÂY DỰNG BCONS
-	CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
-Độc lập - Tự do - Hạnh phúc
-
-   TP. HCM, ngày 16 tháng 01 năm 2025
-
-HỢP ĐỒNG THI CÔNG XÂY DỰNG
+# HỢP ĐỒNG THI CÔNG XÂY DỰNG HIROSE
 Số: 16/2025/HĐTCXD-BDH/BCONS-HIROSE
 
 DỰ ÁN	: KHU CHUNG CƯ TÂN ĐÔNG HIỆP
@@ -2200,30 +2081,6 @@ DỰ ÁN	: KHU CHUNG CƯ TÂN ĐÔNG HIỆP
 HẠNG MỤC	: CUNG CẤP VÀ LẮP ĐẶT HỆ SHORING VÀ CỪ LARSEN
 
 Giữa CÔNG TY CỔ PHẦN ĐẦU TƯ XÂY DỰNG BCONS Và CÔNG TY TNHH HIROSE VIỆT NAM 
-CĂN CỨ KÝ KẾT HỢP ĐỒNG
--	Căn cứ Luật Xây dựng số 50/2014/QH13 ngày 18/6/2014;
--	Căn cứ Luật số 62/2020/QH14 ngày 17/6/2020. Sửa đổi, bổ sung một số điều của Luật xây dựng;
--	Căn cứ Văn bản hợp nhất Luật xây dựng số 07/VBHN-VPQH đã được sửa đổi, bổ sung một số điều theo Văn bản hợp nhất Luật xây dựng số 02/VBHN-VPQH ngày 15/07/2020; 
--	Căn cứ bộ Luật Dân sự  số 91/2015/QH13 ngày 24/11/2015 của Quốc hội;
--	Căn cứ Luật Đấu thầu số 22/2023/QH15 ngày 23/06/2023;
--	Văn bản hợp nhất Luật Đấu thầu số 12/VBHN-VPQH ký ngày 04/7/2019;
--	Căn cứ Nghị định số 136/2020/NĐ-CP ngày 24/11/2020 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Phòng cháy và chữa cháy và Luật sửa đổi, bổ sung một số điều của Luật Phòng cháy và chữa cháy;
--	Căn cứ Nghị định số 63/2014/NĐ-CP ngày 26/6/2014 của Chính phủ về việc quy định chi tiết thi hành một số điều của Luật Đấu thầu và lựa chọn nhà thầu;
--	Căn cứ Nghị định số 10/2021/NĐ-CP ký ngày 9/2/2021 về việc quản lý chi phí đầu tư xây dựng;
--	Căn cứ Nghị định số 37/2015/NĐ-CP ngày 22/4/2015 của Chính phủ quy định chi tiết về hợp đồng xây dựng;
--	Căn cứ Nghị định số 06/2021/NĐ-CP ngày 26/01/2021 của Chính phủ về quy định chi tiết một số nội dung về quản lý chất lượng, thi công xây dựng và bảo trì công trình xây dựng;
--	Căn cứ Nghị định số 15/2021/NĐ-CP ngày 03/3/2021 của Chính phủ quy định chi tiết một số nội dung về quản lý dự án đầu tư xây dựng công trình;
--	Căn cứ Thông tư số 26/2016/TT-BXD ngày 26/10/2016 của Bộ xây dựng v/v quy định chi tiết một số nội dung về quản lý chất lượng và bảo trì công trình xây dựng;
--	Căn cứ Thông tư số 04/2019/TT-BXD ký ngày 16/8/2019 về việc sửa đổi, bổ sung một số nội dung của Thông tư số 26/2016/TT-BXD ngày 26/10/2016 của Bộ xây dựng quy định chi tiết một số nội dung về quản lý chất lượng và bảo trì công trình xây dựng.
--	Căn cứ Thông tư số 10/2021/TT-BXD ngày 25/08/2021 của Bộ xây dựng về việc Hướng dẫn một số điều và biện pháp thi hành Nghị định số 06/2021/NĐ-CP ngày 26 tháng 01 năm 2021 và Nghị định số 44/2016/NĐ-CP ngày 15 tháng 05 năm 2016 của Chính Phủ;
--	Căn cứ Thông tư số 02/2021-BXD ký ngày 19/05/2021 ban hành quy chuẩn kỹ thuật quốc gia về an toàn cháy cho nhà và công trình. 
--	Căn cứ Thông tư số 02/2023/TT-BXD ngày 30/03/2023 của Bộ Xây dựng về việc Hướng dẫn hợp đồng thi công xây dựng công trình;
--	Căn cứ Điều khoản chung của các hợp đồng giao thầu thi công được ban hành theo Quyết định số 01/QĐ-KĐT ký ngày 04/01/2022 của Công ty Cổ phần Đầu tư Xây dựng Bcons.
--	Các biên bản làm việc, biên bản phỏng vấn, trao đổi nội dung của gói thầu giữa Công ty Cổ phần Đầu tư Xây dựng Bcons và Công ty TNHH Hirose Việt Nam;
-Căn cứ nhu cầu và khả năng thực hiện của hai Bên.
-
-
-
 Hôm nay, ngày 16 tháng 01 năm 2025, tại văn phòng Công ty Cổ phần Đầu tư Xây dựng Bcons, chúng tôi gồm các Bên dưới đây:
 	BÊN GIAO THẦU ("Bên A"): CÔNG TY CỔ PHẦN ĐẦU TƯ XÂY DỰNG BCONS
 •	Đại diện	: Ông VƯƠNG HUY THĂNG		Chức vụ: Giám đốc Khối Thi công 
@@ -2412,33 +2269,10 @@ Nếu Bên B không thực hiện một trong số các hạng mục trong bản
 •	Các nội dung khác theo quy định tại Điều khoản chung.
 	Mọi thay đổi, bổ sung nội dung hợp đồng này phải được lập thành phụ lục hợp đồng được đại diện có thẩm quyền của hai Bên ký xác nhận trước khi thực hiện.
 	Hợp đồng có hiệu lực kể từ ngày ký và sau khi hai Bên hoàn thành trách nhiệm, nghĩa vụ trong hợp đồng, thì hợp đồng tự động thanh lý.
-	Hợp đồng được lập thành 04 (bốn) bản Tiếng Việt có giá trị pháp lý ngang nhau, Bên A giữ 02 (hai) bản, Bên B giữ 02 (hai) bản./.
-ĐẠI DIỆN BÊN B		ĐẠI DIỆN BÊN A
-		
-MATSUURA MASAZUMI		VƯƠNG HUY THĂNG
+	Hợp đồng được lập thành 04 (bốn) bản Tiếng Việt có giá trị pháp lý ngang nhau, Bên A giữ 02 (hai) bản, Bên B giữ 02 (hai) bản #
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-QUY ĐỊNH VÈ XỬ PHẠT VI PHẠM AN TOÀN LAO ĐỘNG,
-VỆ SINH MÔI TRƯỜNG, PHÒNG CHỐNG CHÁY NỔ,
-HAO HỤT VẬT TƯ VÀ QUẢN LÝ CHẤT LƯỢNG.
+# QUY ĐỊNH VÈ XỬ PHẠT VI PHẠM AN TOÀN LAO ĐỘNG, VỆ SINH MÔI TRƯỜNG, PHÒNG CHỐNG CHÁY NỔ, HAO HỤT VẬT TƯ VÀ QUẢN LÝ CHẤT LƯỢNG.
 (Đề nghị xem xét kỹ không khiến nại về sau)
 KÈM THEO ĐIỀU KHOẢN CHUNG
 (ÁP DỤNG CHO CÁC DỰ ÁN CỦA TẬP ĐOÀN BCONS)
@@ -2688,9 +2522,9 @@ Total NCR not closed added up:
 Chú thích:
 	Vi phạm cùng một lỗi lần 2 sẽ bị phạt áp dụng mức tiền phạt nhân 2 mức công bố trên.
 Vi phạm cùng một lỗi lần 3 sẽ bị phạt áp dụng mức tiền phạt nhân 4 mức công bô trên.
-	Ngoài những lôi quy định trên, tùy thuộc vào thực tế và mức độ thiếu ATLĐ- VSMT tại công trình mà BQLDA có thế đình chỉ thi công hạng mục/khu vực trong khoảng thời gian cần thiết đế khắc phục.
+	Ngoài những lôi quy định trên, tùy thuộc vào thực tế và mức độ thiếu ATLĐ- VSMT tại công trình mà BQLDA có thế đình chỉ thi công hạng mục/khu vực trong khoảng thời gian cần thiết đế khắc phục #
 
-Giới thiệu Anh Vương Huy Thăng – Giám đốc Khối Thi Công Tập Đoàn Bcons
+# Giới thiệu Anh Vương Huy Thăng – Giám đốc Khối Thi Công Tập Đoàn Bcons
 
 Với nhiều năm kinh nghiệm trong lĩnh vực xây dựng và quản lý thi công, anh Vương Huy Thăng hiện đang đảm nhiệm vị trí Giám đốc Khối Thi Công của Tập đoàn Bcons, đóng vai trò quan trọng trong việc chỉ đạo và quản lý các dự án xây dựng.
 
@@ -2712,8 +2546,8 @@ Văn hóa chữ tín – Giá trị cốt lõi làm nên thành công
 
 Điều làm nên sự khác biệt của anh Nguyễn Hoàng Long chính là văn hóa chữ tín trong quản lý và điều hành dự án. Anh luôn cam kết thực hiện đúng những gì đã đề ra, minh bạch trong mọi quyết định và đặt lợi ích chung lên hàng đầu. Đối với anh, chữ tín không chỉ là cam kết với khách hàng, đối tác mà còn là trách nhiệm với đội ngũ và chính bản thân mình.
 
-Chính những giá trị đó đã giúp anh Nguyễn Hoàng Long trở thành một nhà quản lý xuất sắc, góp phần đưa Dự án Tâm Đông Hiệp phát triển mạnh mẽ và khẳng định uy tín trên thị trường xây dựng.
-
+Chính những giá trị đó đã giúp anh Nguyễn Hoàng Long trở thành một nhà quản lý xuất sắc, góp phần đưa Dự án Tâm Đông Hiệp phát triển mạnh mẽ và khẳng định uy tín trên thị trường xây dựng #
+# NHÂN SỰ KHỐI THI CÔNG 
 1	DA0172	Vương Huy Thăng	Giám đốc khối	Đại học Bách Khoa - Đại học Quốc gia Thành phố Hồ Chí Minh	Kỹ sư xây dựng dân dụng và công nghiệp	2010	Hạng 1	"- Hạng I: Quản lý dự án đầu tư xây dựng - Quản lý dự án đầu tư xây dựng công trình dân dụng và công nghiệp (T6/2025)
 - Hạng I: Giám sát công tác xây dựng công trình dân dụng - công nghiệp và hạ tầng kỹ thuật. (Đã hết hạn)
 - Hạng I: Thiết kế xây dựng công trình - Thiết kế kết cấu công trình (T7/2029)"	090 679 5286	Thangvh@bcons.com.vn
@@ -2855,9 +2689,10 @@ Tài Nguyên và Môi Trường TPHCM"	Quản lý tài nguyên và môi trườn
 6	TC0583	Nguyễn Công Danh	GS hiện trường XD	Đại học Sư Phạm Kỹ thuật TP. HCM	Công nghệ kỹ thuật công trình xây dựng	04/11/2022			096 274 3102	danhnc@bcons.com.vn
 7	TE0465	Thiệu Công Chí	GSHT MEPF	Đại học bách khoa Đà Nẵng	Kỹ thuật điện	2016	Hạng 1	Hạng 1: Giám sát công tắc lắp đặt thiết bị vào công trình	039 800 3811	chitc@bcons.com.vn
 8	TC0115	Ngô Nhật Trường	QA/QC	Đại học Sư Phạm Kỹ thuật TP. HCM	Công nghệ kỹ thuật công trình xây dựng	2021			090 256 3395	Truongnn@bcons.com.vn
-9	TE0512	Phạm Văn Việt	Thủ Kho						079 654 3321	vietpv@bcons.com.vn
+9	TE0512	Phạm Văn Việt	Thủ Kho						079 654 3321	vietpv@bcons.com.vn #
 
-Khi hỏi về Chủ tịch tập đoàn Bcons: Lê Như Thạch, tổng giám đốc công ty dịch vụ : Nguyễn Xuân Luận, Trưởng ban kiểm soát tập đoàn : Lê Quang Dũng, Tổng giám đốc tập đoàn Bcons : Dương Kim Quân. các lãnh  chủ chốt của tập đoàn Bcons như : Ngô Lưu Bình, Trần Thanh Bình, Hồ Thanh Trầm, Trần ngọc thanh tâm, trần ngọc minh tâm, Trần thu tâm,   bạn giới thiệu các sếp này xoay quanh các từ khóa quan trọng như : khác biệt  chữ tín, có tầm nhìn, tài năng, và các giá trị cốt lỗi của tập đoàn Bcons nhé ( 
+
+# Khi hỏi về Chủ tịch tập đoàn Bcons: Lê Như Thạch, tổng giám đốc công ty dịch vụ : Nguyễn Xuân Luận, Trưởng ban kiểm soát tập đoàn : Lê Quang Dũng, Tổng giám đốc tập đoàn Bcons : Dương Kim Quân. các lãnh  chủ chốt của tập đoàn Bcons như : Ngô Lưu Bình, Trần Thanh Bình, Hồ Thanh Trầm, Trần ngọc thanh tâm, trần ngọc minh tâm, Trần thu tâm,   bạn giới thiệu các sếp này xoay quanh các từ khóa quan trọng như : khác biệt  chữ tín, có tầm nhìn, tài năng, và các giá trị cốt lỗi của tập đoàn Bcons nhé ( 
 
 Văn hóa lấy chữ Tín làm đầu:
 
@@ -2873,10 +2708,10 @@ Văn hóa kỷ luật:
 
 Văn hóa học tập và kế thừa:
 
-    Bcons chú trọng việc đào tạo và xây dựng đội ngũ kế thừa liên tục, gìn giữ các giá trị văn hóa và không phụ thuộc vào bất kỳ ai )
+    Bcons chú trọng việc đào tạo và xây dựng đội ngũ kế thừa liên tục, gìn giữ các giá trị văn hóa và không phụ thuộc vào bất kỳ ai ) #
 
 
-Bảo hiểm công nhân				
+# Bảo hiểm công nhân				
 NHÀ THẦU OVAN				
 HẠNG MỤC: THI CÔNG CỌC KHOAN NHỒI				
 STT	Họ và tên	Chức vụ	Giới tính	Năm sinh	Ngày mua BHTN	 BHTN CÓ GIÁ TRỊ ĐẾN
@@ -2953,95 +2788,12 @@ BHTN"	 BHTN CÓ GIÁ TRỊ ĐẾN
 13	Huỳnh Bá Ngọc	Vận hành cần trục	Nam	1988	12/02/2025	11/05/2025
 14	Nguyễn Thái Quốc Tuấn	Vận hành cần trục	Nam	1985	22/03/2024	22/03/2025
 15	Đinh Quang Tư	Thợ hàn	Nam	1991	22/03/2024	22/03/2025
-16	Nguyễn Thanh Tuấn	Vận hành robot ép cọc	Nam	1968	22/03/2024	22/03/2025
+16	Nguyễn Thanh Tuấn	Vận hành robot ép cọc	Nam	1968	22/03/2024	22/03/2025 #
 
 
 
- 	SỔ TAY HOÀN THIỆN 
-(LƯU HÀNH NỘI BỘ)	MS:……….. 
-Ban hành lần: 01
-Ngày phát hành:    /…./2024 
-Ngày hiệu lực:        /…./2024  
-Phân phối tài liệu
-Hội đồng quản trị công ty		Ban An Ninh	
-Ban Tổng Giám đốc		Ban An toàn lao động	
-Khối Hành chính nhân sự		Trung tâm Đào tạo	
-Khối Tài chính Kinh doanh		Ban Cố vấn	
-Khối Quản lý dự án		Công ty CP Dịch vụ Bcons	
-Khối Đấu thầu		Công ty CP Tư vấn Thiết kế Bcons	
-Khối Thi công		Công ty CP Kỹ thuật và Công nghệ Bcons	
-Khối Đầu tư		Công ty CP Phát triển Giáo dục Bcons	
-Khối Kế toán		Công ty CP Địa Ốc Bcons	
-Khối Vật tư thiết bị		Công ty CP BĐS Bcons PS	
-Khối Thiết Kế 1		Công ty CP BĐS Phú Mỹ Hiệp	
-Khối Thiết Kế 2		Công ty CP BĐS Bcons Homes	
-		Công ty CP BĐS Nam Kiếns Phước	
-
-Người lập	Người phối hợp	Người phối hợp	Người phối hợp
-
-
-
-
-
-Vương Huy Thăng
-GĐ Khối đấu thầu	
-
-
-
-
-Nguyễn Ngọc Hòa
-GĐ Khối Thiết kế 1	
-
-
-
-
-Vũ Xuân Dũng
-GĐ Khối Thiết kế 2	
-
-
-
-
-Phạm Ngọc Minh Tâm
-PGĐ Khối VT.TB
-…./ 08 /2024	…./ 08 /2024	…./ 08 /2024	…./ 08 /2024
-			
-Người phối hợp	Người phối hợp	Người kiểm tra	Người phê duyệt
-
-
-
-
-
-
-Nguyễn Xuân Luận
-GĐ Khối thi công	
-
-
-
-
-
-Hồ Kỳ Lân
-GĐ Quản lý dự án	
-
-
-
-
-
-Lê Quang Dũng
-P.Tổng giám đốc 	
-
-
-
-
-
-Dương Kim Quân
-P.Tổng giám đốc TT
-…./ 08 /2024	…./ 08 /2024	…./ 08 /2024	…./ 08 /2024
-Theo dõi sửa đổi 
-Lần sửa 
-đổi	Ngày ban hành	Mục sửa đổi	Nội dung sửa đổi
-			
-			
-			
+ 	# SỔ TAY HOÀN THIỆN 
+						
 Mục đích:
      - Quy định được viết ra để chuẩn hóa thông tin đầu vào về vật tư hoàn thiện cho Tư vấn Thiết kế.
      - Quy định được viết ra để thực hiện mời thầu, kiểm soát khối lượng hoàn thiện, kiểm soát chi phí đầu tư xây dựng công trình.
@@ -3528,22 +3280,9 @@ II	KHU VỰC CĂN HỘ
 68		Chuyển trục thoát nước	Kết nối trục đứng với nhánh ngang thoát nước trong căn hộ dùng Tê cong thay Y + lơi 45 độ:
 + Trục thoát xí: Tê cong DN100/100
 + Trục thoát nước thải: Tê cong DN100/80
-+ Trục thoát nước mưa logia: Tê cong DN100/50	
++ Trục thoát nước mưa logia: Tê cong DN100/50 #
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-KẾ HOẠCH BÀN GIAO NHÀ THẦU											
+# KẾ HOẠCH BÀN GIAO NHÀ THẦU											
 DỰ ÁN: KHU CHUNG CƯ TÂN ĐÔNG HIỆP (REV002)												
 												
 STT	GÓI THẦU	TÊN GÓI THẦU	DỮ LIỆU ĐẦU VÀO	ĐƠN VỊ CUNG CẤP CƠ SỞ ĐẦU VÀO	ĐƠN VỊ KÝ HỢP ĐỒNG		HÌNH THỨC MỜI THẦU	HÌNH THỨC HỢP ĐỒNG	ĐƠN VỊ THỰC HIỆN	KẾ HOẠCH BÀN GIAO NHÀ THẦU	GHI CHÚ	 CHÚ THÍCH RIÊNG 
@@ -3617,10 +3356,10 @@ TKTC_Phần Ngầm"	P. VẬT TƯ - THIẾT BỊ	ĐTXD Bcons	NTP		 - Trọn Gó
  - Ban QLDA/ Khối Thi công ban hành bản vẽ trước 10 ngày kể từ ngày triển khai mời thầu. Ban QLDA/ Khối Thi công chậm ban hành bản vẽ thì tiến độ gọi thầu được cộng thêm số ngày chậm trễ.
  - Trước thời gian phát hành hồ sơ 10 ngày cho mời thầu rộng rãi, chào giá rộng rãi, mời thầu hạn chế Khối thi công phải chuyển yêu cầu về phạm vi công việc, tiến độ yêu cầu để phát hành hồ sơ mời thầu.
  - Ban QLDA/ Khối Thi công chậm trả lời RFI thì tiến độ cộng thêm số ngày trễ và số ngày thực tế cập nhật theo RFI trả lời chậm gây ra.
- - Kế hoạch sẽ được điều chỉnh để phù hợp với tiến độ thi công thực tế của dự án."	
+ - Kế hoạch sẽ được điều chỉnh để phù hợp với tiến độ thi công thực tế của dự án #
 
 
-"Tiến độ thi công đến ngày hôm nay : Cọc ép : 162/200, cọc khoan nhồi cẩu tháp  lũy kế 16/16 cây, cọc khoan nhồi đại trà : cọc D1200 : 37/56,  cọc D1500 : 119/172, đào đất : 22712/78945, bê tông mái dốc : 50%"
+"Tiến độ thi công đến ngày hôm nay : Cọc ép : 162/200, cọc khoan nhồi cẩu tháp  lũy kế 16/16 cây, cọc khoan nhồi đại trà : cọc D1200 : 37/56,  cọc D1500 : 119/172, đào đất : 22712/78945, bê tông mái dốc : 50% "
 
 " kế hoạch thi công ngày 12/5/2025 : 1/ Đào đất móng zone 1 , 2/ thi công thép h2 zone 1-2, 3/ khoan giếng hạ mực nước ngầm, 4/ thi công 2 cọc khoan nhồi D1500, 5/ đổ bê tông khu vực cổng chính làm tbm"
 											
